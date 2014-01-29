@@ -126,9 +126,9 @@ Reap What I Sow!
 
 This project is distributed under the standard MIT License. Please use this and twist it in whatever fashion you wish - and recommend any cool changes to help the code.
 
-## Pantone(c) colors
+## Pantone(r) colors
 
-This list of colors is the property of Pantone(c) Inc. 
+This list of colors is the property of Pantone(r) Inc. 
 Usage in commerical applications may be subject to restrictions.
 Sourced from https://github.com/CaptainRedmuff/UIColor-Pantone
 
