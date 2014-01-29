@@ -8,14 +8,9 @@ Drag the included **Colours.h** and **Colours.m** files into your project. They 
 
 <code>#import "Colours.h"</code> into the classes you want to use this category in and you're all set.
 
-**Cocoapods**
-
-<code>pod 'Colours'</code>
-
 **NSColor**
 
 Colours supports <code>NSColor</code> out of the box! Just make sure you have the <code>AppKit</code> framework installed (it comes that way for a new application) and you will be set. This README uses UIColor for its examples, just substitute NSColor and the methods are all the same.
-
 
 ## Color Palette
 
@@ -25,7 +20,6 @@ Colours supports <code>NSColor</code> out of the box! Just make sure you have th
 ## Using Predefined Colors
 
 Colours was set up to be exactly like using an Apple predefined system color. For instance, to get a stark red, you type <code>[UIColor redColor]</code>. You don't get a lot of variation on this though without diving into the <code>colorWithRed:green:blue:alpha:</code> method and customizing the heck out of it. Well, I took the liberty of creating 100 colors to use in the same system color way that Apple uses with iOS. So instead of the redColor example earlier, just substitute one of the colors from the giant palette above, like so: <code>[UIColor indigoColor]</code>.
-
 
 ## Color Helper Methods
 
