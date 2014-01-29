@@ -130,6 +130,7 @@ This project is distributed under the standard MIT License. Please use this and 
 
 This list of colors is the property of Pantone(c) Inc. 
 Usage in commerical applications may be subject to restrictions.
+Sourced from https://github.com/CaptainRedmuff/UIColor-Pantone
 
 <table>
 <tr>
