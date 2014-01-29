@@ -131,995 +131,5952 @@ This project is distributed under the standard MIT License. Please use this and 
 This list of colors is the property of Pantone(c) Inc. 
 Usage in commerical applications may be subject to restrictions.
 
-Black	Black	[UIColor pantoneBlackColor]	[UIColor colorWithRed:0.239 green:0.200 blue:0.169 alpha:1.0]
-Black2	Black2	[UIColor pantoneBlack2Color]	[UIColor colorWithRed:0.227 green:0.200 blue:0.129 alpha:1.0]
-Black22X	Black22X	[UIColor pantoneBlack22XColor]	[UIColor colorWithRed:0.067 green:0.067 blue:0.067 alpha:1.0]
-Black3	Black3	[UIColor pantoneBlack3Color]	[UIColor colorWithRed:0.157 green:0.176 blue:0.149 alpha:1.0]
-Black32X	Black32X	[UIColor pantoneBlack32XColor]	[UIColor colorWithRed:0.067 green:0.067 blue:0.078 alpha:1.0]
-Black4	Black4	[UIColor pantoneBlack4Color]	[UIColor colorWithRed:0.239 green:0.188 blue:0.137 alpha:1.0]
-Black42X	Black42X	[UIColor pantoneBlack42XColor]	[UIColor colorWithRed:0.059 green:0.059 blue:0.059 alpha:1.0]
-Black5	Black5	[UIColor pantoneBlack5Color]	[UIColor colorWithRed:0.259 green:0.176 blue:0.176 alpha:1.0]
-Black52X	Black52X	[UIColor pantoneBlack52XColor]	[UIColor colorWithRed:0.067 green:0.047 blue:0.059 alpha:1.0]
-Black6	Black6	[UIColor pantoneBlack6Color]	[UIColor colorWithRed:0.110 green:0.149 blue:0.188 alpha:1.0]
-Black62X	Black62X	[UIColor pantoneBlack62XColor]	[UIColor colorWithRed:0.027 green:0.047 blue:0.059 alpha:1.0]
-Black7	Black7	[UIColor pantoneBlack7Color]	[UIColor colorWithRed:0.267 green:0.239 blue:0.220 alpha:1.0]
-Black72X	Black72X	[UIColor pantoneBlack72XColor]	[UIColor colorWithRed:0.200 green:0.188 blue:0.169 alpha:1.0]
-Blue072	Blue072	[UIColor pantoneBlue072Color]	[UIColor colorWithRed:0.220 green:0.000 blue:0.588 alpha:1.0]
-CoolGray1	CoolGray1	[UIColor pantoneCoolGray1Color]	[UIColor colorWithRed:0.910 green:0.886 blue:0.839 alpha:1.0]
-CoolGray10	CoolGray10	[UIColor pantoneCoolGray10Color]	[UIColor colorWithRed:0.467 green:0.467 blue:0.447 alpha:1.0]
-CoolGray11	CoolGray11	[UIColor pantoneCoolGray11Color]	[UIColor colorWithRed:0.408 green:0.400 blue:0.388 alpha:1.0]
-CoolGray2	CoolGray2	[UIColor pantoneCoolGray2Color]	[UIColor colorWithRed:0.867 green:0.847 blue:0.808 alpha:1.0]
-CoolGray3	CoolGray3	[UIColor pantoneCoolGray3Color]	[UIColor colorWithRed:0.827 green:0.808 blue:0.769 alpha:1.0]
-CoolGray4	CoolGray4	[UIColor pantoneCoolGray4Color]	[UIColor colorWithRed:0.769 green:0.757 blue:0.729 alpha:1.0]
-CoolGray5	CoolGray5	[UIColor pantoneCoolGray5Color]	[UIColor colorWithRed:0.729 green:0.718 blue:0.686 alpha:1.0]
-CoolGray6	CoolGray6	[UIColor pantoneCoolGray6Color]	[UIColor colorWithRed:0.710 green:0.698 blue:0.667 alpha:1.0]
-CoolGray7	CoolGray7	[UIColor pantoneCoolGray7Color]	[UIColor colorWithRed:0.647 green:0.639 blue:0.620 alpha:1.0]
-CoolGray8	CoolGray8	[UIColor pantoneCoolGray8Color]	[UIColor colorWithRed:0.608 green:0.600 blue:0.576 alpha:1.0]
-CoolGray9	CoolGray9	[UIColor pantoneCoolGray9Color]	[UIColor colorWithRed:0.549 green:0.537 blue:0.518 alpha:1.0]
-Green	Green	[UIColor pantoneGreenColor]	[UIColor colorWithRed:0.000 green:0.686 blue:0.576 alpha:1.0]
-Green2X	Green2X	[UIColor pantoneGreen2XColor]	[UIColor colorWithRed:0.000 green:0.588 blue:0.467 alpha:1.0]
-Orange021	Orange021	[UIColor pantoneOrange021Color]	[UIColor colorWithRed:0.937 green:0.420 blue:0.000 alpha:1.0]
-PMS100	PMS100	[UIColor pantonePMS100Color]	[UIColor colorWithRed:0.957 green:0.929 blue:0.486 alpha:1.0]
-PMS101	PMS101	[UIColor pantonePMS101Color]	[UIColor colorWithRed:0.957 green:0.929 blue:0.278 alpha:1.0]
-PMS102	PMS102	[UIColor pantonePMS102Color]	[UIColor colorWithRed:0.976 green:0.910 blue:0.078 alpha:1.0]
-PMS103	PMS103	[UIColor pantonePMS103Color]	[UIColor colorWithRed:0.776 green:0.678 blue:0.059 alpha:1.0]
-PMS104	PMS104	[UIColor pantonePMS104Color]	[UIColor colorWithRed:0.678 green:0.608 blue:0.047 alpha:1.0]
-PMS105	PMS105	[UIColor pantonePMS105Color]	[UIColor colorWithRed:0.510 green:0.459 blue:0.059 alpha:1.0]
-PMS106	PMS106	[UIColor pantonePMS106Color]	[UIColor colorWithRed:0.969 green:0.910 blue:0.349 alpha:1.0]
-PMS107	PMS107	[UIColor pantonePMS107Color]	[UIColor colorWithRed:0.976 green:0.898 blue:0.149 alpha:1.0]
-PMS108	PMS108	[UIColor pantonePMS108Color]	[UIColor colorWithRed:0.969 green:0.867 blue:0.086 alpha:1.0]
-PMS109	PMS109	[UIColor pantonePMS109Color]	[UIColor colorWithRed:0.976 green:0.839 blue:0.086 alpha:1.0]
-PMS110	PMS110	[UIColor pantonePMS110Color]	[UIColor colorWithRed:0.847 green:0.710 blue:0.067 alpha:1.0]
-PMS111	PMS111	[UIColor pantonePMS111Color]	[UIColor colorWithRed:0.667 green:0.576 blue:0.039 alpha:1.0]
-PMS112	PMS112	[UIColor pantonePMS112Color]	[UIColor colorWithRed:0.600 green:0.518 blue:0.039 alpha:1.0]
-PMS113	PMS113	[UIColor pantonePMS113Color]	[UIColor colorWithRed:0.976 green:0.898 blue:0.357 alpha:1.0]
-PMS114	PMS114	[UIColor pantonePMS114Color]	[UIColor colorWithRed:0.976 green:0.886 blue:0.298 alpha:1.0]
-PMS115	PMS115	[UIColor pantonePMS115Color]	[UIColor colorWithRed:0.976 green:0.878 blue:0.298 alpha:1.0]
-PMS116	PMS116	[UIColor pantonePMS116Color]	[UIColor colorWithRed:0.988 green:0.820 blue:0.086 alpha:1.0]
-PMS1162X	PMS1162X	[UIColor pantonePMS1162XColor]	[UIColor colorWithRed:0.969 green:0.710 blue:0.047 alpha:1.0]
-PMS117	PMS117	[UIColor pantonePMS117Color]	[UIColor colorWithRed:0.776 green:0.627 blue:0.047 alpha:1.0]
-PMS118	PMS118	[UIColor pantonePMS118Color]	[UIColor colorWithRed:0.667 green:0.557 blue:0.039 alpha:1.0]
-PMS119	PMS119	[UIColor pantonePMS119Color]	[UIColor colorWithRed:0.537 green:0.467 blue:0.098 alpha:1.0]
-PMS120	PMS120	[UIColor pantonePMS120Color]	[UIColor colorWithRed:0.976 green:0.886 blue:0.498 alpha:1.0]
-PMS1205	PMS1205	[UIColor pantonePMS1205Color]	[UIColor colorWithRed:0.969 green:0.910 blue:0.667 alpha:1.0]
-PMS121	PMS121	[UIColor pantonePMS121Color]	[UIColor colorWithRed:0.976 green:0.878 blue:0.439 alpha:1.0]
-PMS1215	PMS1215	[UIColor pantonePMS1215Color]	[UIColor colorWithRed:0.976 green:0.878 blue:0.549 alpha:1.0]
-PMS122	PMS122	[UIColor pantonePMS122Color]	[UIColor colorWithRed:0.988 green:0.847 blue:0.337 alpha:1.0]
-PMS1225	PMS1225	[UIColor pantonePMS1225Color]	[UIColor colorWithRed:1.000 green:0.800 blue:0.286 alpha:1.0]
-PMS123	PMS123	[UIColor pantonePMS123Color]	[UIColor colorWithRed:1.000 green:0.776 blue:0.118 alpha:1.0]
-PMS1235	PMS1235	[UIColor pantonePMS1235Color]	[UIColor colorWithRed:0.988 green:0.710 blue:0.078 alpha:1.0]
-PMS124	PMS124	[UIColor pantonePMS124Color]	[UIColor colorWithRed:0.878 green:0.667 blue:0.059 alpha:1.0]
-PMS1245	PMS1245	[UIColor pantonePMS1245Color]	[UIColor colorWithRed:0.749 green:0.569 blue:0.047 alpha:1.0]
-PMS125	PMS125	[UIColor pantonePMS125Color]	[UIColor colorWithRed:0.710 green:0.549 blue:0.039 alpha:1.0]
-PMS1255	PMS1255	[UIColor pantonePMS1255Color]	[UIColor colorWithRed:0.639 green:0.498 blue:0.078 alpha:1.0]
-PMS1265	PMS1265	[UIColor pantonePMS1265Color]	[UIColor colorWithRed:0.486 green:0.388 blue:0.086 alpha:1.0]
-PMS127	PMS127	[UIColor pantonePMS127Color]	[UIColor colorWithRed:0.957 green:0.886 blue:0.529 alpha:1.0]
-PMS128	PMS128	[UIColor pantonePMS128Color]	[UIColor colorWithRed:0.957 green:0.859 blue:0.376 alpha:1.0]
-PMS129	PMS129	[UIColor pantonePMS129Color]	[UIColor colorWithRed:0.949 green:0.820 blue:0.239 alpha:1.0]
-PMS130	PMS130	[UIColor pantonePMS130Color]	[UIColor colorWithRed:0.918 green:0.686 blue:0.059 alpha:1.0]
-PMS1302X	PMS1302X	[UIColor pantonePMS1302XColor]	[UIColor colorWithRed:0.886 green:0.569 blue:0.000 alpha:1.0]
-PMS131	PMS131	[UIColor pantonePMS131Color]	[UIColor colorWithRed:0.776 green:0.576 blue:0.039 alpha:1.0]
-PMS132	PMS132	[UIColor pantonePMS132Color]	[UIColor colorWithRed:0.620 green:0.486 blue:0.039 alpha:1.0]
-PMS133	PMS133	[UIColor pantonePMS133Color]	[UIColor colorWithRed:0.439 green:0.357 blue:0.039 alpha:1.0]
-PMS134	PMS134	[UIColor pantonePMS134Color]	[UIColor colorWithRed:1.000 green:0.847 blue:0.498 alpha:1.0]
-PMS1345	PMS1345	[UIColor pantonePMS1345Color]	[UIColor colorWithRed:1.000 green:0.839 blue:0.569 alpha:1.0]
-PMS135	PMS135	[UIColor pantonePMS135Color]	[UIColor colorWithRed:0.988 green:0.788 blue:0.388 alpha:1.0]
-PMS1355	PMS1355	[UIColor pantonePMS1355Color]	[UIColor colorWithRed:0.988 green:0.808 blue:0.529 alpha:1.0]
-PMS136	PMS136	[UIColor pantonePMS136Color]	[UIColor colorWithRed:0.988 green:0.749 blue:0.286 alpha:1.0]
-PMS1365	PMS1365	[UIColor pantonePMS1365Color]	[UIColor colorWithRed:0.988 green:0.729 blue:0.369 alpha:1.0]
-PMS137	PMS137	[UIColor pantonePMS137Color]	[UIColor colorWithRed:0.988 green:0.639 blue:0.067 alpha:1.0]
-PMS1375	PMS1375	[UIColor pantonePMS1375Color]	[UIColor colorWithRed:0.976 green:0.608 blue:0.047 alpha:1.0]
-PMS138	PMS138	[UIColor pantonePMS138Color]	[UIColor colorWithRed:0.847 green:0.549 blue:0.008 alpha:1.0]
-PMS1385	PMS1385	[UIColor pantonePMS1385Color]	[UIColor colorWithRed:0.800 green:0.478 blue:0.008 alpha:1.0]
-PMS139	PMS139	[UIColor pantonePMS139Color]	[UIColor colorWithRed:0.686 green:0.459 blue:0.020 alpha:1.0]
-PMS1395	PMS1395	[UIColor pantonePMS1395Color]	[UIColor colorWithRed:0.600 green:0.376 blue:0.027 alpha:1.0]
-PMS140	PMS140	[UIColor pantonePMS140Color]	[UIColor colorWithRed:0.478 green:0.357 blue:0.067 alpha:1.0]
-PMS1405	PMS1405	[UIColor pantonePMS1405Color]	[UIColor colorWithRed:0.420 green:0.278 blue:0.078 alpha:1.0]
-PMS141	PMS141	[UIColor pantonePMS141Color]	[UIColor colorWithRed:0.949 green:0.808 blue:0.408 alpha:1.0]
-PMS142	PMS142	[UIColor pantonePMS142Color]	[UIColor colorWithRed:0.949 green:0.749 blue:0.286 alpha:1.0]
-PMS143	PMS143	[UIColor pantonePMS143Color]	[UIColor colorWithRed:0.937 green:0.698 blue:0.176 alpha:1.0]
-PMS144	PMS144	[UIColor pantonePMS144Color]	[UIColor colorWithRed:0.886 green:0.549 blue:0.020 alpha:1.0]
-PMS145	PMS145	[UIColor pantonePMS145Color]	[UIColor colorWithRed:0.776 green:0.498 blue:0.027 alpha:1.0]
-PMS146	PMS146	[UIColor pantonePMS146Color]	[UIColor colorWithRed:0.620 green:0.420 blue:0.020 alpha:1.0]
-PMS147	PMS147	[UIColor pantonePMS147Color]	[UIColor colorWithRed:0.447 green:0.369 blue:0.149 alpha:1.0]
-PMS148	PMS148	[UIColor pantonePMS148Color]	[UIColor colorWithRed:1.000 green:0.839 blue:0.608 alpha:1.0]
-PMS1485	PMS1485	[UIColor pantonePMS1485Color]	[UIColor colorWithRed:1.000 green:0.718 blue:0.467 alpha:1.0]
-PMS149	PMS149	[UIColor pantonePMS149Color]	[UIColor colorWithRed:0.988 green:0.800 blue:0.576 alpha:1.0]
-PMS1495	PMS1495	[UIColor pantonePMS1495Color]	[UIColor colorWithRed:1.000 green:0.600 blue:0.247 alpha:1.0]
-PMS150	PMS150	[UIColor pantonePMS150Color]	[UIColor colorWithRed:0.988 green:0.678 blue:0.337 alpha:1.0]
-PMS1505	PMS1505	[UIColor pantonePMS1505Color]	[UIColor colorWithRed:0.957 green:0.486 blue:0.000 alpha:1.0]
-PMS151	PMS151	[UIColor pantonePMS151Color]	[UIColor colorWithRed:0.969 green:0.498 blue:0.000 alpha:1.0]
-PMS152	PMS152	[UIColor pantonePMS152Color]	[UIColor colorWithRed:0.867 green:0.459 blue:0.000 alpha:1.0]
-PMS1525	PMS1525	[UIColor pantonePMS1525Color]	[UIColor colorWithRed:0.710 green:0.329 blue:0.000 alpha:1.0]
-PMS153	PMS153	[UIColor pantonePMS153Color]	[UIColor colorWithRed:0.737 green:0.427 blue:0.039 alpha:1.0]
-PMS1535	PMS1535	[UIColor pantonePMS1535Color]	[UIColor colorWithRed:0.549 green:0.267 blue:0.000 alpha:1.0]
-PMS154	PMS154	[UIColor pantonePMS154Color]	[UIColor colorWithRed:0.600 green:0.349 blue:0.020 alpha:1.0]
-PMS1545	PMS1545	[UIColor pantonePMS1545Color]	[UIColor colorWithRed:0.298 green:0.157 blue:0.059 alpha:1.0]
-PMS155	PMS155	[UIColor pantonePMS155Color]	[UIColor colorWithRed:0.957 green:0.859 blue:0.667 alpha:1.0]
-PMS1555	PMS1555	[UIColor pantonePMS1555Color]	[UIColor colorWithRed:0.976 green:0.749 blue:0.620 alpha:1.0]
-PMS156	PMS156	[UIColor pantonePMS156Color]	[UIColor colorWithRed:0.949 green:0.776 blue:0.549 alpha:1.0]
-PMS1565	PMS1565	[UIColor pantonePMS1565Color]	[UIColor colorWithRed:0.988 green:0.647 blue:0.467 alpha:1.0]
-PMS157	PMS157	[UIColor pantonePMS157Color]	[UIColor colorWithRed:0.929 green:0.627 blue:0.310 alpha:1.0]
-PMS1575	PMS1575	[UIColor pantonePMS1575Color]	[UIColor colorWithRed:0.988 green:0.529 blue:0.267 alpha:1.0]
-PMS158	PMS158	[UIColor pantonePMS158Color]	[UIColor colorWithRed:0.910 green:0.459 blue:0.067 alpha:1.0]
-PMS1585	PMS1585	[UIColor pantonePMS1585Color]	[UIColor colorWithRed:0.976 green:0.420 blue:0.027 alpha:1.0]
-PMS159	PMS159	[UIColor pantonePMS159Color]	[UIColor colorWithRed:0.776 green:0.376 blue:0.020 alpha:1.0]
-PMS1595	PMS1595	[UIColor pantonePMS1595Color]	[UIColor colorWithRed:0.820 green:0.357 blue:0.020 alpha:1.0]
-PMS160	PMS160	[UIColor pantonePMS160Color]	[UIColor colorWithRed:0.620 green:0.329 blue:0.039 alpha:1.0]
-PMS1605	PMS1605	[UIColor pantonePMS1605Color]	[UIColor colorWithRed:0.627 green:0.310 blue:0.067 alpha:1.0]
-PMS161	PMS161	[UIColor pantonePMS161Color]	[UIColor colorWithRed:0.388 green:0.227 blue:0.067 alpha:1.0]
-PMS1615	PMS1615	[UIColor pantonePMS1615Color]	[UIColor colorWithRed:0.518 green:0.247 blue:0.059 alpha:1.0]
-PMS162	PMS162	[UIColor pantonePMS162Color]	[UIColor colorWithRed:0.976 green:0.776 blue:0.667 alpha:1.0]
-PMS1625	PMS1625	[UIColor pantonePMS1625Color]	[UIColor colorWithRed:0.976 green:0.647 blue:0.549 alpha:1.0]
-PMS163	PMS163	[UIColor pantonePMS163Color]	[UIColor colorWithRed:0.988 green:0.620 blue:0.439 alpha:1.0]
-PMS1635	PMS1635	[UIColor pantonePMS1635Color]	[UIColor colorWithRed:0.976 green:0.557 blue:0.427 alpha:1.0]
-PMS164	PMS164	[UIColor pantonePMS164Color]	[UIColor colorWithRed:0.988 green:0.498 blue:0.247 alpha:1.0]
-PMS1645	PMS1645	[UIColor pantonePMS1645Color]	[UIColor colorWithRed:0.976 green:0.447 blue:0.259 alpha:1.0]
-PMS165	PMS165	[UIColor pantonePMS165Color]	[UIColor colorWithRed:0.976 green:0.388 blue:0.008 alpha:1.0]
-PMS1652X	PMS1652X	[UIColor pantonePMS1652XColor]	[UIColor colorWithRed:0.918 green:0.310 blue:0.000 alpha:1.0]
-PMS1655	PMS1655	[UIColor pantonePMS1655Color]	[UIColor colorWithRed:0.976 green:0.337 blue:0.008 alpha:1.0]
-PMS166	PMS166	[UIColor pantonePMS166Color]	[UIColor colorWithRed:0.867 green:0.349 blue:0.000 alpha:1.0]
-PMS1665	PMS1665	[UIColor pantonePMS1665Color]	[UIColor colorWithRed:0.976 green:0.337 blue:0.008 alpha:1.0]
-PMS167	PMS167	[UIColor pantonePMS167Color]	[UIColor colorWithRed:0.737 green:0.310 blue:0.027 alpha:1.0]
-PMS1675	PMS1675	[UIColor pantonePMS1675Color]	[UIColor colorWithRed:0.647 green:0.247 blue:0.059 alpha:1.0]
-PMS168	PMS168	[UIColor pantonePMS168Color]	[UIColor colorWithRed:0.427 green:0.188 blue:0.067 alpha:1.0]
-PMS1685	PMS1685	[UIColor pantonePMS1685Color]	[UIColor colorWithRed:0.518 green:0.208 blue:0.067 alpha:1.0]
-PMS169	PMS169	[UIColor pantonePMS169Color]	[UIColor colorWithRed:0.976 green:0.729 blue:0.667 alpha:1.0]
-PMS170	PMS170	[UIColor pantonePMS170Color]	[UIColor colorWithRed:0.976 green:0.537 blue:0.447 alpha:1.0]
-PMS171	PMS171	[UIColor pantonePMS171Color]	[UIColor colorWithRed:0.976 green:0.376 blue:0.227 alpha:1.0]
-PMS172	PMS172	[UIColor pantonePMS172Color]	[UIColor colorWithRed:0.969 green:0.286 blue:0.008 alpha:1.0]
-PMS173	PMS173	[UIColor pantonePMS173Color]	[UIColor colorWithRed:0.820 green:0.267 blue:0.078 alpha:1.0]
-PMS174	PMS174	[UIColor pantonePMS174Color]	[UIColor colorWithRed:0.576 green:0.200 blue:0.067 alpha:1.0]
-PMS175	PMS175	[UIColor pantonePMS175Color]	[UIColor colorWithRed:0.427 green:0.200 blue:0.129 alpha:1.0]
-PMS176	PMS176	[UIColor pantonePMS176Color]	[UIColor colorWithRed:0.976 green:0.686 blue:0.678 alpha:1.0]
-PMS1765	PMS1765	[UIColor pantonePMS1765Color]	[UIColor colorWithRed:0.976 green:0.620 blue:0.639 alpha:1.0]
-PMS1767	PMS1767	[UIColor pantonePMS1767Color]	[UIColor colorWithRed:0.976 green:0.698 blue:0.718 alpha:1.0]
-PMS177	PMS177	[UIColor pantonePMS177Color]	[UIColor colorWithRed:0.976 green:0.510 blue:0.498 alpha:1.0]
-PMS1775	PMS1775	[UIColor pantonePMS1775Color]	[UIColor colorWithRed:0.976 green:0.518 blue:0.557 alpha:1.0]
-PMS1777	PMS1777	[UIColor pantonePMS1777Color]	[UIColor colorWithRed:0.988 green:0.400 blue:0.459 alpha:1.0]
-PMS178	PMS178	[UIColor pantonePMS178Color]	[UIColor colorWithRed:0.976 green:0.369 blue:0.349 alpha:1.0]
-PMS1785	PMS1785	[UIColor pantonePMS1785Color]	[UIColor colorWithRed:0.988 green:0.310 blue:0.349 alpha:1.0]
-PMS1787	PMS1787	[UIColor pantonePMS1787Color]	[UIColor colorWithRed:0.957 green:0.247 blue:0.310 alpha:1.0]
-PMS1788	PMS1788	[UIColor pantonePMS1788Color]	[UIColor colorWithRed:0.937 green:0.169 blue:0.176 alpha:1.0]
-PMS17882X	PMS17882X	[UIColor pantonePMS17882XColor]	[UIColor colorWithRed:0.839 green:0.129 blue:0.000 alpha:1.0]
-PMS179	PMS179	[UIColor pantonePMS179Color]	[UIColor colorWithRed:0.886 green:0.239 blue:0.157 alpha:1.0]
-PMS1795	PMS1795	[UIColor pantonePMS1795Color]	[UIColor colorWithRed:0.839 green:0.157 blue:0.157 alpha:1.0]
-PMS1797	PMS1797	[UIColor pantonePMS1797Color]	[UIColor colorWithRed:0.800 green:0.176 blue:0.188 alpha:1.0]
-PMS180	PMS180	[UIColor pantonePMS180Color]	[UIColor colorWithRed:0.757 green:0.220 blue:0.157 alpha:1.0]
-PMS1805	PMS1805	[UIColor pantonePMS1805Color]	[UIColor colorWithRed:0.686 green:0.149 blue:0.149 alpha:1.0]
-PMS1807	PMS1807	[UIColor pantonePMS1807Color]	[UIColor colorWithRed:0.627 green:0.188 blue:0.200 alpha:1.0]
-PMS181	PMS181	[UIColor pantonePMS181Color]	[UIColor colorWithRed:0.486 green:0.176 blue:0.137 alpha:1.0]
-PMS1815	PMS1815	[UIColor pantonePMS1815Color]	[UIColor colorWithRed:0.486 green:0.129 blue:0.118 alpha:1.0]
-PMS1817	PMS1817	[UIColor pantonePMS1817Color]	[UIColor colorWithRed:0.357 green:0.176 blue:0.157 alpha:1.0]
-PMS182	PMS182	[UIColor pantonePMS182Color]	[UIColor colorWithRed:0.976 green:0.749 blue:0.757 alpha:1.0]
-PMS183	PMS183	[UIColor pantonePMS183Color]	[UIColor colorWithRed:0.988 green:0.549 blue:0.600 alpha:1.0]
-PMS184	PMS184	[UIColor pantonePMS184Color]	[UIColor colorWithRed:0.988 green:0.369 blue:0.447 alpha:1.0]
-PMS185	PMS185	[UIColor pantonePMS185Color]	[UIColor colorWithRed:0.910 green:0.067 blue:0.176 alpha:1.0]
-PMS18522X	PMS18522X	[UIColor pantonePMS18522XColor]	[UIColor colorWithRed:0.820 green:0.086 blue:0.000 alpha:1.0]
-PMS186	PMS186	[UIColor pantonePMS186Color]	[UIColor colorWithRed:0.808 green:0.067 blue:0.149 alpha:1.0]
-PMS187	PMS187	[UIColor pantonePMS187Color]	[UIColor colorWithRed:0.686 green:0.118 blue:0.176 alpha:1.0]
-PMS188	PMS188	[UIColor pantonePMS188Color]	[UIColor colorWithRed:0.486 green:0.129 blue:0.157 alpha:1.0]
-PMS189	PMS189	[UIColor pantonePMS189Color]	[UIColor colorWithRed:1.000 green:0.639 blue:0.698 alpha:1.0]
-PMS1895	PMS1895	[UIColor pantonePMS1895Color]	[UIColor colorWithRed:0.988 green:0.749 blue:0.788 alpha:1.0]
-PMS190	PMS190	[UIColor pantonePMS190Color]	[UIColor colorWithRed:0.988 green:0.459 blue:0.557 alpha:1.0]
-PMS1905	PMS1905	[UIColor pantonePMS1905Color]	[UIColor colorWithRed:0.988 green:0.608 blue:0.698 alpha:1.0]
-PMS191	PMS191	[UIColor pantonePMS191Color]	[UIColor colorWithRed:0.957 green:0.278 blue:0.420 alpha:1.0]
-PMS1915	PMS1915	[UIColor pantonePMS1915Color]	[UIColor colorWithRed:0.957 green:0.329 blue:0.486 alpha:1.0]
-PMS192	PMS192	[UIColor pantonePMS192Color]	[UIColor colorWithRed:0.898 green:0.020 blue:0.227 alpha:1.0]
-PMS1925	PMS1925	[UIColor pantonePMS1925Color]	[UIColor colorWithRed:0.878 green:0.027 blue:0.278 alpha:1.0]
-PMS193	PMS193	[UIColor pantonePMS193Color]	[UIColor colorWithRed:0.749 green:0.039 blue:0.188 alpha:1.0]
-PMS1935	PMS1935	[UIColor pantonePMS1935Color]	[UIColor colorWithRed:0.757 green:0.020 blue:0.220 alpha:1.0]
-PMS194	PMS194	[UIColor pantonePMS194Color]	[UIColor colorWithRed:0.600 green:0.129 blue:0.208 alpha:1.0]
-PMS1945	PMS1945	[UIColor pantonePMS1945Color]	[UIColor colorWithRed:0.659 green:0.047 blue:0.208 alpha:1.0]
-PMS195	PMS195	[UIColor pantonePMS195Color]	[UIColor colorWithRed:0.467 green:0.176 blue:0.208 alpha:1.0]
-PMS1955	PMS1955	[UIColor pantonePMS1955Color]	[UIColor colorWithRed:0.576 green:0.086 blue:0.220 alpha:1.0]
-PMS196	PMS196	[UIColor pantonePMS196Color]	[UIColor colorWithRed:0.957 green:0.788 blue:0.788 alpha:1.0]
-PMS197	PMS197	[UIColor pantonePMS197Color]	[UIColor colorWithRed:0.937 green:0.600 blue:0.639 alpha:1.0]
-PMS198	PMS198	[UIColor pantonePMS198Color]	[UIColor colorWithRed:0.898 green:0.337 blue:0.427 alpha:1.0]
-PMS199	PMS199	[UIColor pantonePMS199Color]	[UIColor colorWithRed:0.847 green:0.110 blue:0.247 alpha:1.0]
-PMS200	PMS200	[UIColor pantonePMS200Color]	[UIColor colorWithRed:0.769 green:0.118 blue:0.227 alpha:1.0]
-PMS201	PMS201	[UIColor pantonePMS201Color]	[UIColor colorWithRed:0.639 green:0.149 blue:0.220 alpha:1.0]
-PMS202	PMS202	[UIColor pantonePMS202Color]	[UIColor colorWithRed:0.549 green:0.149 blue:0.200 alpha:1.0]
-PMS203	PMS203	[UIColor pantonePMS203Color]	[UIColor colorWithRed:0.949 green:0.686 blue:0.757 alpha:1.0]
-PMS204	PMS204	[UIColor pantonePMS204Color]	[UIColor colorWithRed:0.929 green:0.478 blue:0.620 alpha:1.0]
-PMS205	PMS205	[UIColor pantonePMS205Color]	[UIColor colorWithRed:0.898 green:0.298 blue:0.486 alpha:1.0]
-PMS206	PMS206	[UIColor pantonePMS206Color]	[UIColor colorWithRed:0.827 green:0.020 blue:0.278 alpha:1.0]
-PMS207	PMS207	[UIColor pantonePMS207Color]	[UIColor colorWithRed:0.686 green:0.000 blue:0.239 alpha:1.0]
-PMS208	PMS208	[UIColor pantonePMS208Color]	[UIColor colorWithRed:0.557 green:0.137 blue:0.267 alpha:1.0]
-PMS209	PMS209	[UIColor pantonePMS209Color]	[UIColor colorWithRed:0.459 green:0.149 blue:0.239 alpha:1.0]
-PMS210	PMS210	[UIColor pantonePMS210Color]	[UIColor colorWithRed:1.000 green:0.627 blue:0.749 alpha:1.0]
-PMS211	PMS211	[UIColor pantonePMS211Color]	[UIColor colorWithRed:1.000 green:0.467 blue:0.659 alpha:1.0]
-PMS212	PMS212	[UIColor pantonePMS212Color]	[UIColor colorWithRed:0.976 green:0.310 blue:0.557 alpha:1.0]
-PMS213	PMS213	[UIColor pantonePMS213Color]	[UIColor colorWithRed:0.918 green:0.059 blue:0.420 alpha:1.0]
-PMS214	PMS214	[UIColor pantonePMS214Color]	[UIColor colorWithRed:0.800 green:0.008 blue:0.337 alpha:1.0]
-PMS215	PMS215	[UIColor pantonePMS215Color]	[UIColor colorWithRed:0.647 green:0.020 blue:0.267 alpha:1.0]
-PMS216	PMS216	[UIColor pantonePMS216Color]	[UIColor colorWithRed:0.486 green:0.118 blue:0.247 alpha:1.0]
-PMS217	PMS217	[UIColor pantonePMS217Color]	[UIColor colorWithRed:0.957 green:0.749 blue:0.820 alpha:1.0]
-PMS218	PMS218	[UIColor pantonePMS218Color]	[UIColor colorWithRed:0.929 green:0.447 blue:0.667 alpha:1.0]
-PMS219	PMS219	[UIColor pantonePMS219Color]	[UIColor colorWithRed:0.886 green:0.157 blue:0.510 alpha:1.0]
-PMS220	PMS220	[UIColor pantonePMS220Color]	[UIColor colorWithRed:0.667 green:0.000 blue:0.310 alpha:1.0]
-PMS221	PMS221	[UIColor pantonePMS221Color]	[UIColor colorWithRed:0.576 green:0.000 blue:0.259 alpha:1.0]
-PMS222	PMS222	[UIColor pantonePMS222Color]	[UIColor colorWithRed:0.439 green:0.098 blue:0.239 alpha:1.0]
-PMS223	PMS223	[UIColor pantonePMS223Color]	[UIColor colorWithRed:0.976 green:0.576 blue:0.769 alpha:1.0]
-PMS224	PMS224	[UIColor pantonePMS224Color]	[UIColor colorWithRed:0.957 green:0.420 blue:0.686 alpha:1.0]
-PMS225	PMS225	[UIColor pantonePMS225Color]	[UIColor colorWithRed:0.929 green:0.157 blue:0.576 alpha:1.0]
-PMS226	PMS226	[UIColor pantonePMS226Color]	[UIColor colorWithRed:0.839 green:0.008 blue:0.439 alpha:1.0]
-PMS227	PMS227	[UIColor pantonePMS227Color]	[UIColor colorWithRed:0.678 green:0.000 blue:0.357 alpha:1.0]
-PMS228	PMS228	[UIColor pantonePMS228Color]	[UIColor colorWithRed:0.549 green:0.000 blue:0.298 alpha:1.0]
-PMS229	PMS229	[UIColor pantonePMS229Color]	[UIColor colorWithRed:0.427 green:0.129 blue:0.247 alpha:1.0]
-PMS230	PMS230	[UIColor pantonePMS230Color]	[UIColor colorWithRed:1.000 green:0.627 blue:0.800 alpha:1.0]
-PMS231	PMS231	[UIColor pantonePMS231Color]	[UIColor colorWithRed:0.988 green:0.439 blue:0.729 alpha:1.0]
-PMS232	PMS232	[UIColor pantonePMS232Color]	[UIColor colorWithRed:0.957 green:0.247 blue:0.647 alpha:1.0]
-PMS233	PMS233	[UIColor pantonePMS233Color]	[UIColor colorWithRed:0.808 green:0.000 blue:0.486 alpha:1.0]
-PMS234	PMS234	[UIColor pantonePMS234Color]	[UIColor colorWithRed:0.667 green:0.000 blue:0.400 alpha:1.0]
-PMS235	PMS235	[UIColor pantonePMS235Color]	[UIColor colorWithRed:0.557 green:0.020 blue:0.329 alpha:1.0]
-PMS236	PMS236	[UIColor pantonePMS236Color]	[UIColor colorWithRed:0.976 green:0.686 blue:0.827 alpha:1.0]
-PMS2365	PMS2365	[UIColor pantonePMS2365Color]	[UIColor colorWithRed:0.969 green:0.769 blue:0.847 alpha:1.0]
-PMS237	PMS237	[UIColor pantonePMS237Color]	[UIColor colorWithRed:0.957 green:0.518 blue:0.769 alpha:1.0]
-PMS2375	PMS2375	[UIColor pantonePMS2375Color]	[UIColor colorWithRed:0.918 green:0.420 blue:0.749 alpha:1.0]
-PMS238	PMS238	[UIColor pantonePMS238Color]	[UIColor colorWithRed:0.929 green:0.310 blue:0.686 alpha:1.0]
-PMS2385	PMS2385	[UIColor pantonePMS2385Color]	[UIColor colorWithRed:0.859 green:0.157 blue:0.647 alpha:1.0]
-PMS239	PMS239	[UIColor pantonePMS239Color]	[UIColor colorWithRed:0.878 green:0.129 blue:0.620 alpha:1.0]
-PMS2392X	PMS2392X	[UIColor pantonePMS2392XColor]	[UIColor colorWithRed:0.769 green:0.020 blue:0.486 alpha:1.0]
-PMS2395	PMS2395	[UIColor pantonePMS2395Color]	[UIColor colorWithRed:0.769 green:0.000 blue:0.549 alpha:1.0]
-PMS240	PMS240	[UIColor pantonePMS240Color]	[UIColor colorWithRed:0.769 green:0.059 blue:0.537 alpha:1.0]
-PMS2405	PMS2405	[UIColor pantonePMS2405Color]	[UIColor colorWithRed:0.659 green:0.000 blue:0.478 alpha:1.0]
-PMS241	PMS241	[UIColor pantonePMS241Color]	[UIColor colorWithRed:0.678 green:0.000 blue:0.459 alpha:1.0]
-PMS2415	PMS2415	[UIColor pantonePMS2415Color]	[UIColor colorWithRed:0.608 green:0.000 blue:0.439 alpha:1.0]
-PMS242	PMS242	[UIColor pantonePMS242Color]	[UIColor colorWithRed:0.486 green:0.110 blue:0.318 alpha:1.0]
-PMS2425	PMS2425	[UIColor pantonePMS2425Color]	[UIColor colorWithRed:0.529 green:0.000 blue:0.357 alpha:1.0]
-PMS243	PMS243	[UIColor pantonePMS243Color]	[UIColor colorWithRed:0.949 green:0.729 blue:0.847 alpha:1.0]
-PMS244	PMS244	[UIColor pantonePMS244Color]	[UIColor colorWithRed:0.929 green:0.627 blue:0.827 alpha:1.0]
-PMS245	PMS245	[UIColor pantonePMS245Color]	[UIColor colorWithRed:0.910 green:0.498 blue:0.788 alpha:1.0]
-PMS246	PMS246	[UIColor pantonePMS246Color]	[UIColor colorWithRed:0.800 green:0.000 blue:0.627 alpha:1.0]
-PMS247	PMS247	[UIColor pantonePMS247Color]	[UIColor colorWithRed:0.718 green:0.000 blue:0.557 alpha:1.0]
-PMS248	PMS248	[UIColor pantonePMS248Color]	[UIColor colorWithRed:0.639 green:0.020 blue:0.498 alpha:1.0]
-PMS249	PMS249	[UIColor pantonePMS249Color]	[UIColor colorWithRed:0.498 green:0.157 blue:0.376 alpha:1.0]
-PMS250	PMS250	[UIColor pantonePMS250Color]	[UIColor colorWithRed:0.929 green:0.769 blue:0.867 alpha:1.0]
-PMS251	PMS251	[UIColor pantonePMS251Color]	[UIColor colorWithRed:0.886 green:0.620 blue:0.839 alpha:1.0]
-PMS252	PMS252	[UIColor pantonePMS252Color]	[UIColor colorWithRed:0.827 green:0.420 blue:0.776 alpha:1.0]
-PMS253	PMS253	[UIColor pantonePMS253Color]	[UIColor colorWithRed:0.686 green:0.137 blue:0.647 alpha:1.0]
-PMS254	PMS254	[UIColor pantonePMS254Color]	[UIColor colorWithRed:0.627 green:0.176 blue:0.588 alpha:1.0]
-PMS255	PMS255	[UIColor pantonePMS255Color]	[UIColor colorWithRed:0.467 green:0.176 blue:0.420 alpha:1.0]
-PMS256	PMS256	[UIColor pantonePMS256Color]	[UIColor colorWithRed:0.898 green:0.769 blue:0.839 alpha:1.0]
-PMS2562	PMS2562	[UIColor pantonePMS2562Color]	[UIColor colorWithRed:0.847 green:0.659 blue:0.847 alpha:1.0]
-PMS2563	PMS2563	[UIColor pantonePMS2563Color]	[UIColor colorWithRed:0.820 green:0.627 blue:0.800 alpha:1.0]
-PMS2567	PMS2567	[UIColor pantonePMS2567Color]	[UIColor colorWithRed:0.749 green:0.576 blue:0.800 alpha:1.0]
-PMS257	PMS257	[UIColor pantonePMS257Color]	[UIColor colorWithRed:0.827 green:0.647 blue:0.788 alpha:1.0]
-PMS2572	PMS2572	[UIColor pantonePMS2572Color]	[UIColor colorWithRed:0.776 green:0.529 blue:0.820 alpha:1.0]
-PMS2573	PMS2573	[UIColor pantonePMS2573Color]	[UIColor colorWithRed:0.729 green:0.486 blue:0.737 alpha:1.0]
-PMS2577	PMS2577	[UIColor pantonePMS2577Color]	[UIColor colorWithRed:0.667 green:0.447 blue:0.749 alpha:1.0]
-PMS258	PMS258	[UIColor pantonePMS258Color]	[UIColor colorWithRed:0.608 green:0.310 blue:0.588 alpha:1.0]
-PMS2582	PMS2582	[UIColor pantonePMS2582Color]	[UIColor colorWithRed:0.667 green:0.278 blue:0.729 alpha:1.0]
-PMS2583	PMS2583	[UIColor pantonePMS2583Color]	[UIColor colorWithRed:0.620 green:0.310 blue:0.647 alpha:1.0]
-PMS2587	PMS2587	[UIColor pantonePMS2587Color]	[UIColor colorWithRed:0.557 green:0.278 blue:0.678 alpha:1.0]
-PMS259	PMS259	[UIColor pantonePMS259Color]	[UIColor colorWithRed:0.447 green:0.086 blue:0.420 alpha:1.0]
-PMS2592	PMS2592	[UIColor pantonePMS2592Color]	[UIColor colorWithRed:0.576 green:0.059 blue:0.647 alpha:1.0]
-PMS25922X	PMS25922X	[UIColor pantonePMS25922XColor]	[UIColor colorWithRed:0.447 green:0.000 blue:0.510 alpha:1.0]
-PMS2593	PMS2593	[UIColor pantonePMS2593Color]	[UIColor colorWithRed:0.529 green:0.169 blue:0.576 alpha:1.0]
-PMS2597	PMS2597	[UIColor pantonePMS2597Color]	[UIColor colorWithRed:0.400 green:0.000 blue:0.549 alpha:1.0]
-PMS260	PMS260	[UIColor pantonePMS260Color]	[UIColor colorWithRed:0.408 green:0.118 blue:0.357 alpha:1.0]
-PMS2602	PMS2602	[UIColor pantonePMS2602Color]	[UIColor colorWithRed:0.510 green:0.047 blue:0.557 alpha:1.0]
-PMS2603	PMS2603	[UIColor pantonePMS2603Color]	[UIColor colorWithRed:0.439 green:0.078 blue:0.478 alpha:1.0]
-PMS2607	PMS2607	[UIColor pantonePMS2607Color]	[UIColor colorWithRed:0.357 green:0.008 blue:0.478 alpha:1.0]
-PMS261	PMS261	[UIColor pantonePMS261Color]	[UIColor colorWithRed:0.369 green:0.129 blue:0.329 alpha:1.0]
-PMS2612	PMS2612	[UIColor pantonePMS2612Color]	[UIColor colorWithRed:0.439 green:0.118 blue:0.447 alpha:1.0]
-PMS2613	PMS2613	[UIColor pantonePMS2613Color]	[UIColor colorWithRed:0.400 green:0.067 blue:0.427 alpha:1.0]
-PMS2617	PMS2617	[UIColor pantonePMS2617Color]	[UIColor colorWithRed:0.337 green:0.047 blue:0.439 alpha:1.0]
-PMS262	PMS262	[UIColor pantonePMS262Color]	[UIColor colorWithRed:0.329 green:0.137 blue:0.267 alpha:1.0]
-PMS2622	PMS2622	[UIColor pantonePMS2622Color]	[UIColor colorWithRed:0.376 green:0.176 blue:0.349 alpha:1.0]
-PMS2623	PMS2623	[UIColor pantonePMS2623Color]	[UIColor colorWithRed:0.357 green:0.098 blue:0.369 alpha:1.0]
-PMS2627	PMS2627	[UIColor pantonePMS2627Color]	[UIColor colorWithRed:0.298 green:0.078 blue:0.369 alpha:1.0]
-PMS263	PMS263	[UIColor pantonePMS263Color]	[UIColor colorWithRed:0.878 green:0.808 blue:0.878 alpha:1.0]
-PMS2635	PMS2635	[UIColor pantonePMS2635Color]	[UIColor colorWithRed:0.788 green:0.678 blue:0.847 alpha:1.0]
-PMS264	PMS264	[UIColor pantonePMS264Color]	[UIColor colorWithRed:0.776 green:0.667 blue:0.859 alpha:1.0]
-PMS2645	PMS2645	[UIColor pantonePMS2645Color]	[UIColor colorWithRed:0.710 green:0.569 blue:0.820 alpha:1.0]
-PMS265	PMS265	[UIColor pantonePMS265Color]	[UIColor colorWithRed:0.588 green:0.388 blue:0.769 alpha:1.0]
-PMS2655	PMS2655	[UIColor pantonePMS2655Color]	[UIColor colorWithRed:0.608 green:0.427 blue:0.776 alpha:1.0]
-PMS266	PMS266	[UIColor pantonePMS266Color]	[UIColor colorWithRed:0.427 green:0.157 blue:0.667 alpha:1.0]
-PMS2665	PMS2665	[UIColor pantonePMS2665Color]	[UIColor colorWithRed:0.537 green:0.310 blue:0.749 alpha:1.0]
-PMS267	PMS267	[UIColor pantonePMS267Color]	[UIColor colorWithRed:0.349 green:0.067 blue:0.557 alpha:1.0]
-PMS268	PMS268	[UIColor pantonePMS268Color]	[UIColor colorWithRed:0.310 green:0.129 blue:0.439 alpha:1.0]
-PMS2685	PMS2685	[UIColor pantonePMS2685Color]	[UIColor colorWithRed:0.337 green:0.000 blue:0.549 alpha:1.0]
-PMS269	PMS269	[UIColor pantonePMS269Color]	[UIColor colorWithRed:0.267 green:0.137 blue:0.349 alpha:1.0]
-PMS2695	PMS2695	[UIColor pantonePMS2695Color]	[UIColor colorWithRed:0.267 green:0.137 blue:0.369 alpha:1.0]
-PMS270	PMS270	[UIColor pantonePMS270Color]	[UIColor colorWithRed:0.729 green:0.686 blue:0.827 alpha:1.0]
-PMS2705	PMS2705	[UIColor pantonePMS2705Color]	[UIColor colorWithRed:0.678 green:0.620 blue:0.827 alpha:1.0]
-PMS2706	PMS2706	[UIColor pantonePMS2706Color]	[UIColor colorWithRed:0.820 green:0.808 blue:0.867 alpha:1.0]
-PMS2707	PMS2707	[UIColor pantonePMS2707Color]	[UIColor colorWithRed:0.749 green:0.820 blue:0.898 alpha:1.0]
-PMS2708	PMS2708	[UIColor pantonePMS2708Color]	[UIColor colorWithRed:0.686 green:0.737 blue:0.859 alpha:1.0]
-PMS271	PMS271	[UIColor pantonePMS271Color]	[UIColor colorWithRed:0.620 green:0.569 blue:0.776 alpha:1.0]
-PMS2715	PMS2715	[UIColor pantonePMS2715Color]	[UIColor colorWithRed:0.576 green:0.478 blue:0.800 alpha:1.0]
-PMS2716	PMS2716	[UIColor pantonePMS2716Color]	[UIColor colorWithRed:0.647 green:0.627 blue:0.839 alpha:1.0]
-PMS2717	PMS2717	[UIColor pantonePMS2717Color]	[UIColor colorWithRed:0.647 green:0.729 blue:0.878 alpha:1.0]
-PMS2718	PMS2718	[UIColor pantonePMS2718Color]	[UIColor colorWithRed:0.357 green:0.467 blue:0.800 alpha:1.0]
-PMS272	PMS272	[UIColor pantonePMS272Color]	[UIColor colorWithRed:0.537 green:0.467 blue:0.729 alpha:1.0]
-PMS2725	PMS2725	[UIColor pantonePMS2725Color]	[UIColor colorWithRed:0.447 green:0.318 blue:0.737 alpha:1.0]
-PMS2726	PMS2726	[UIColor pantonePMS2726Color]	[UIColor colorWithRed:0.400 green:0.337 blue:0.737 alpha:1.0]
-PMS2727	PMS2727	[UIColor pantonePMS2727Color]	[UIColor colorWithRed:0.369 green:0.408 blue:0.769 alpha:1.0]
-PMS2728	PMS2728	[UIColor pantonePMS2728Color]	[UIColor colorWithRed:0.188 green:0.267 blue:0.710 alpha:1.0]
-PMS273	PMS273	[UIColor pantonePMS273Color]	[UIColor colorWithRed:0.220 green:0.098 blue:0.478 alpha:1.0]
-PMS2735	PMS2735	[UIColor pantonePMS2735Color]	[UIColor colorWithRed:0.310 green:0.000 blue:0.576 alpha:1.0]
-PMS2736	PMS2736	[UIColor pantonePMS2736Color]	[UIColor colorWithRed:0.286 green:0.188 blue:0.678 alpha:1.0]
-PMS2738	PMS2738	[UIColor pantonePMS2738Color]	[UIColor colorWithRed:0.176 green:0.000 blue:0.557 alpha:1.0]
-PMS274	PMS274	[UIColor pantonePMS274Color]	[UIColor colorWithRed:0.169 green:0.067 blue:0.400 alpha:1.0]
-PMS2745	PMS2745	[UIColor pantonePMS2745Color]	[UIColor colorWithRed:0.247 green:0.000 blue:0.467 alpha:1.0]
-PMS2746	PMS2746	[UIColor pantonePMS2746Color]	[UIColor colorWithRed:0.247 green:0.157 blue:0.576 alpha:1.0]
-PMS2747	PMS2747	[UIColor pantonePMS2747Color]	[UIColor colorWithRed:0.110 green:0.078 blue:0.420 alpha:1.0]
-PMS2748	PMS2748	[UIColor pantonePMS2748Color]	[UIColor colorWithRed:0.118 green:0.110 blue:0.467 alpha:1.0]
-PMS275	PMS275	[UIColor pantonePMS275Color]	[UIColor colorWithRed:0.149 green:0.059 blue:0.329 alpha:1.0]
-PMS2755	PMS2755	[UIColor pantonePMS2755Color]	[UIColor colorWithRed:0.208 green:0.000 blue:0.427 alpha:1.0]
-PMS2756	PMS2756	[UIColor pantonePMS2756Color]	[UIColor colorWithRed:0.200 green:0.157 blue:0.459 alpha:1.0]
-PMS2757	PMS2757	[UIColor pantonePMS2757Color]	[UIColor colorWithRed:0.078 green:0.086 blue:0.329 alpha:1.0]
-PMS2758	PMS2758	[UIColor pantonePMS2758Color]	[UIColor colorWithRed:0.098 green:0.129 blue:0.408 alpha:1.0]
-PMS276	PMS276	[UIColor pantonePMS276Color]	[UIColor colorWithRed:0.169 green:0.129 blue:0.278 alpha:1.0]
-PMS2765	PMS2765	[UIColor pantonePMS2765Color]	[UIColor colorWithRed:0.169 green:0.047 blue:0.337 alpha:1.0]
-PMS2766	PMS2766	[UIColor pantonePMS2766Color]	[UIColor colorWithRed:0.169 green:0.149 blue:0.357 alpha:1.0]
-PMS2767	PMS2767	[UIColor pantonePMS2767Color]	[UIColor colorWithRed:0.078 green:0.129 blue:0.239 alpha:1.0]
-PMS2768	PMS2768	[UIColor pantonePMS2768Color]	[UIColor colorWithRed:0.067 green:0.129 blue:0.318 alpha:1.0]
-PMS277	PMS277	[UIColor pantonePMS277Color]	[UIColor colorWithRed:0.710 green:0.820 blue:0.910 alpha:1.0]
-PMS278	PMS278	[UIColor pantonePMS278Color]	[UIColor colorWithRed:0.600 green:0.729 blue:0.867 alpha:1.0]
-PMS279	PMS279	[UIColor pantonePMS279Color]	[UIColor colorWithRed:0.400 green:0.537 blue:0.800 alpha:1.0]
-PMS280	PMS280	[UIColor pantonePMS280Color]	[UIColor colorWithRed:0.000 green:0.169 blue:0.498 alpha:1.0]
-PMS281	PMS281	[UIColor pantonePMS281Color]	[UIColor colorWithRed:0.000 green:0.157 blue:0.408 alpha:1.0]
-PMS282	PMS282	[UIColor pantonePMS282Color]	[UIColor colorWithRed:0.000 green:0.149 blue:0.329 alpha:1.0]
-PMS283	PMS283	[UIColor pantonePMS283Color]	[UIColor colorWithRed:0.608 green:0.769 blue:0.886 alpha:1.0]
-PMS284	PMS284	[UIColor pantonePMS284Color]	[UIColor colorWithRed:0.459 green:0.667 blue:0.859 alpha:1.0]
-PMS285	PMS285	[UIColor pantonePMS285Color]	[UIColor colorWithRed:0.227 green:0.459 blue:0.769 alpha:1.0]
-PMS286	PMS286	[UIColor pantonePMS286Color]	[UIColor colorWithRed:0.000 green:0.220 blue:0.659 alpha:1.0]
-PMS287	PMS287	[UIColor pantonePMS287Color]	[UIColor colorWithRed:0.000 green:0.220 blue:0.576 alpha:1.0]
-PMS288	PMS288	[UIColor pantonePMS288Color]	[UIColor colorWithRed:0.000 green:0.200 blue:0.498 alpha:1.0]
-PMS289	PMS289	[UIColor pantonePMS289Color]	[UIColor colorWithRed:0.000 green:0.149 blue:0.286 alpha:1.0]
-PMS290	PMS290	[UIColor pantonePMS290Color]	[UIColor colorWithRed:0.769 green:0.847 blue:0.886 alpha:1.0]
-PMS2905	PMS2905	[UIColor pantonePMS2905Color]	[UIColor colorWithRed:0.576 green:0.776 blue:0.878 alpha:1.0]
-PMS291	PMS291	[UIColor pantonePMS291Color]	[UIColor colorWithRed:0.659 green:0.808 blue:0.886 alpha:1.0]
-PMS2915	PMS2915	[UIColor pantonePMS2915Color]	[UIColor colorWithRed:0.376 green:0.686 blue:0.867 alpha:1.0]
-PMS292	PMS292	[UIColor pantonePMS292Color]	[UIColor colorWithRed:0.459 green:0.698 blue:0.867 alpha:1.0]
-PMS2925	PMS2925	[UIColor pantonePMS2925Color]	[UIColor colorWithRed:0.000 green:0.557 blue:0.839 alpha:1.0]
-PMS293	PMS293	[UIColor pantonePMS293Color]	[UIColor colorWithRed:0.000 green:0.318 blue:0.729 alpha:1.0]
-PMS2935	PMS2935	[UIColor pantonePMS2935Color]	[UIColor colorWithRed:0.000 green:0.357 blue:0.749 alpha:1.0]
-PMS294	PMS294	[UIColor pantonePMS294Color]	[UIColor colorWithRed:0.000 green:0.247 blue:0.529 alpha:1.0]
-PMS2945	PMS2945	[UIColor pantonePMS2945Color]	[UIColor colorWithRed:0.000 green:0.329 blue:0.627 alpha:1.0]
-PMS295	PMS295	[UIColor pantonePMS295Color]	[UIColor colorWithRed:0.000 green:0.220 blue:0.420 alpha:1.0]
-PMS2955	PMS2955	[UIColor pantonePMS2955Color]	[UIColor colorWithRed:0.000 green:0.239 blue:0.420 alpha:1.0]
-PMS296	PMS296	[UIColor pantonePMS296Color]	[UIColor colorWithRed:0.000 green:0.176 blue:0.278 alpha:1.0]
-PMS2965	PMS2965	[UIColor pantonePMS2965Color]	[UIColor colorWithRed:0.000 green:0.200 blue:0.298 alpha:1.0]
-PMS297	PMS297	[UIColor pantonePMS297Color]	[UIColor colorWithRed:0.510 green:0.776 blue:0.886 alpha:1.0]
-PMS2975	PMS2975	[UIColor pantonePMS2975Color]	[UIColor colorWithRed:0.729 green:0.878 blue:0.886 alpha:1.0]
-PMS298	PMS298	[UIColor pantonePMS298Color]	[UIColor colorWithRed:0.318 green:0.710 blue:0.878 alpha:1.0]
-PMS2985	PMS2985	[UIColor pantonePMS2985Color]	[UIColor colorWithRed:0.318 green:0.749 blue:0.886 alpha:1.0]
-PMS299	PMS299	[UIColor pantonePMS299Color]	[UIColor colorWithRed:0.000 green:0.639 blue:0.867 alpha:1.0]
-PMS2992X	PMS2992X	[UIColor pantonePMS2992XColor]	[UIColor colorWithRed:0.000 green:0.498 blue:0.800 alpha:1.0]
-PMS2995	PMS2995	[UIColor pantonePMS2995Color]	[UIColor colorWithRed:0.000 green:0.647 blue:0.859 alpha:1.0]
-PMS300	PMS300	[UIColor pantonePMS300Color]	[UIColor colorWithRed:0.000 green:0.447 blue:0.776 alpha:1.0]
-PMS3005	PMS3005	[UIColor pantonePMS3005Color]	[UIColor colorWithRed:0.000 green:0.518 blue:0.788 alpha:1.0]
-PMS301	PMS301	[UIColor pantonePMS301Color]	[UIColor colorWithRed:0.000 green:0.357 blue:0.600 alpha:1.0]
-PMS3015	PMS3015	[UIColor pantonePMS3015Color]	[UIColor colorWithRed:0.000 green:0.439 blue:0.620 alpha:1.0]
-PMS302	PMS302	[UIColor pantonePMS302Color]	[UIColor colorWithRed:0.000 green:0.310 blue:0.427 alpha:1.0]
-PMS3025	PMS3025	[UIColor pantonePMS3025Color]	[UIColor colorWithRed:0.000 green:0.329 blue:0.420 alpha:1.0]
-PMS303	PMS303	[UIColor pantonePMS303Color]	[UIColor colorWithRed:0.000 green:0.247 blue:0.329 alpha:1.0]
-PMS3035	PMS3035	[UIColor pantonePMS3035Color]	[UIColor colorWithRed:0.000 green:0.267 blue:0.329 alpha:1.0]
-PMS304	PMS304	[UIColor pantonePMS304Color]	[UIColor colorWithRed:0.647 green:0.867 blue:0.886 alpha:1.0]
-PMS305	PMS305	[UIColor pantonePMS305Color]	[UIColor colorWithRed:0.439 green:0.808 blue:0.886 alpha:1.0]
-PMS306	PMS306	[UIColor pantonePMS306Color]	[UIColor colorWithRed:0.000 green:0.737 blue:0.886 alpha:1.0]
-PMS3062X	PMS3062X	[UIColor pantonePMS3062XColor]	[UIColor colorWithRed:0.000 green:0.639 blue:0.820 alpha:1.0]
-PMS307	PMS307	[UIColor pantonePMS307Color]	[UIColor colorWithRed:0.000 green:0.478 blue:0.647 alpha:1.0]
-PMS308	PMS308	[UIColor pantonePMS308Color]	[UIColor colorWithRed:0.000 green:0.376 blue:0.486 alpha:1.0]
-PMS309	PMS309	[UIColor pantonePMS309Color]	[UIColor colorWithRed:0.000 green:0.247 blue:0.286 alpha:1.0]
-PMS310	PMS310	[UIColor pantonePMS310Color]	[UIColor colorWithRed:0.447 green:0.820 blue:0.867 alpha:1.0]
-PMS3105	PMS3105	[UIColor pantonePMS3105Color]	[UIColor colorWithRed:0.498 green:0.839 blue:0.859 alpha:1.0]
-PMS311	PMS311	[UIColor pantonePMS311Color]	[UIColor colorWithRed:0.157 green:0.769 blue:0.847 alpha:1.0]
-PMS3115	PMS3115	[UIColor pantonePMS3115Color]	[UIColor colorWithRed:0.176 green:0.776 blue:0.839 alpha:1.0]
-PMS312	PMS312	[UIColor pantonePMS312Color]	[UIColor colorWithRed:0.000 green:0.678 blue:0.776 alpha:1.0]
-PMS3125	PMS3125	[UIColor pantonePMS3125Color]	[UIColor colorWithRed:0.000 green:0.718 blue:0.776 alpha:1.0]
-PMS313	PMS313	[UIColor pantonePMS313Color]	[UIColor colorWithRed:0.000 green:0.600 blue:0.710 alpha:1.0]
-PMS3135	PMS3135	[UIColor pantonePMS3135Color]	[UIColor colorWithRed:0.000 green:0.608 blue:0.667 alpha:1.0]
-PMS314	PMS314	[UIColor pantonePMS314Color]	[UIColor colorWithRed:0.000 green:0.510 blue:0.608 alpha:1.0]
-PMS3145	PMS3145	[UIColor pantonePMS3145Color]	[UIColor colorWithRed:0.000 green:0.518 blue:0.557 alpha:1.0]
-PMS315	PMS315	[UIColor pantonePMS315Color]	[UIColor colorWithRed:0.000 green:0.420 blue:0.467 alpha:1.0]
-PMS3155	PMS3155	[UIColor pantonePMS3155Color]	[UIColor colorWithRed:0.000 green:0.427 blue:0.459 alpha:1.0]
-PMS316	PMS316	[UIColor pantonePMS316Color]	[UIColor colorWithRed:0.000 green:0.286 blue:0.310 alpha:1.0]
-PMS3165	PMS3165	[UIColor pantonePMS3165Color]	[UIColor colorWithRed:0.000 green:0.337 blue:0.357 alpha:1.0]
-PMS317	PMS317	[UIColor pantonePMS317Color]	[UIColor colorWithRed:0.788 green:0.910 blue:0.867 alpha:1.0]
-PMS318	PMS318	[UIColor pantonePMS318Color]	[UIColor colorWithRed:0.576 green:0.867 blue:0.859 alpha:1.0]
-PMS319	PMS319	[UIColor pantonePMS319Color]	[UIColor colorWithRed:0.298 green:0.808 blue:0.820 alpha:1.0]
-PMS320	PMS320	[UIColor pantonePMS320Color]	[UIColor colorWithRed:0.000 green:0.620 blue:0.627 alpha:1.0]
-PMS3202X	PMS3202X	[UIColor pantonePMS3202XColor]	[UIColor colorWithRed:0.000 green:0.498 blue:0.510 alpha:1.0]
-PMS321	PMS321	[UIColor pantonePMS321Color]	[UIColor colorWithRed:0.000 green:0.529 blue:0.537 alpha:1.0]
-PMS322	PMS322	[UIColor pantonePMS322Color]	[UIColor colorWithRed:0.000 green:0.447 blue:0.447 alpha:1.0]
-PMS323	PMS323	[UIColor pantonePMS323Color]	[UIColor colorWithRed:0.000 green:0.400 blue:0.388 alpha:1.0]
-PMS324	PMS324	[UIColor pantonePMS324Color]	[UIColor colorWithRed:0.667 green:0.867 blue:0.839 alpha:1.0]
-PMS3242	PMS3242	[UIColor pantonePMS3242Color]	[UIColor colorWithRed:0.529 green:0.867 blue:0.820 alpha:1.0]
-PMS3245	PMS3245	[UIColor pantonePMS3245Color]	[UIColor colorWithRed:0.549 green:0.878 blue:0.820 alpha:1.0]
-PMS3248	PMS3248	[UIColor pantonePMS3248Color]	[UIColor colorWithRed:0.478 green:0.827 blue:0.757 alpha:1.0]
-PMS325	PMS325	[UIColor pantonePMS325Color]	[UIColor colorWithRed:0.337 green:0.788 blue:0.757 alpha:1.0]
-PMS3252	PMS3252	[UIColor pantonePMS3252Color]	[UIColor colorWithRed:0.337 green:0.839 blue:0.788 alpha:1.0]
-PMS3255	PMS3255	[UIColor pantonePMS3255Color]	[UIColor colorWithRed:0.278 green:0.839 blue:0.757 alpha:1.0]
-PMS3258	PMS3258	[UIColor pantonePMS3258Color]	[UIColor colorWithRed:0.208 green:0.769 blue:0.686 alpha:1.0]
-PMS326	PMS326	[UIColor pantonePMS326Color]	[UIColor colorWithRed:0.000 green:0.698 blue:0.667 alpha:1.0]
-PMS3262	PMS3262	[UIColor pantonePMS3262Color]	[UIColor colorWithRed:0.000 green:0.757 blue:0.710 alpha:1.0]
-PMS3265	PMS3265	[UIColor pantonePMS3265Color]	[UIColor colorWithRed:0.000 green:0.776 blue:0.698 alpha:1.0]
-PMS3268	PMS3268	[UIColor pantonePMS3268Color]	[UIColor colorWithRed:0.000 green:0.686 blue:0.600 alpha:1.0]
-PMS327	PMS327	[UIColor pantonePMS327Color]	[UIColor colorWithRed:0.000 green:0.549 blue:0.510 alpha:1.0]
-PMS3272	PMS3272	[UIColor pantonePMS3272Color]	[UIColor colorWithRed:0.000 green:0.667 blue:0.620 alpha:1.0]
-PMS3272X	PMS3272X	[UIColor pantonePMS3272XColor]	[UIColor colorWithRed:0.000 green:0.537 blue:0.467 alpha:1.0]
-PMS3275	PMS3275	[UIColor pantonePMS3275Color]	[UIColor colorWithRed:0.000 green:0.698 blue:0.627 alpha:1.0]
-PMS3278	PMS3278	[UIColor pantonePMS3278Color]	[UIColor colorWithRed:0.000 green:0.608 blue:0.518 alpha:1.0]
-PMS328	PMS328	[UIColor pantonePMS328Color]	[UIColor colorWithRed:0.000 green:0.467 blue:0.439 alpha:1.0]
-PMS3282	PMS3282	[UIColor pantonePMS3282Color]	[UIColor colorWithRed:0.000 green:0.549 blue:0.510 alpha:1.0]
-PMS3285	PMS3285	[UIColor pantonePMS3285Color]	[UIColor colorWithRed:0.000 green:0.600 blue:0.529 alpha:1.0]
-PMS3288	PMS3288	[UIColor pantonePMS3288Color]	[UIColor colorWithRed:0.000 green:0.510 blue:0.439 alpha:1.0]
-PMS329	PMS329	[UIColor pantonePMS329Color]	[UIColor colorWithRed:0.000 green:0.427 blue:0.400 alpha:1.0]
-PMS3292	PMS3292	[UIColor pantonePMS3292Color]	[UIColor colorWithRed:0.000 green:0.376 blue:0.337 alpha:1.0]
-PMS3295	PMS3295	[UIColor pantonePMS3295Color]	[UIColor colorWithRed:0.000 green:0.510 blue:0.447 alpha:1.0]
-PMS3298	PMS3298	[UIColor pantonePMS3298Color]	[UIColor colorWithRed:0.000 green:0.420 blue:0.357 alpha:1.0]
-PMS330	PMS330	[UIColor pantonePMS330Color]	[UIColor colorWithRed:0.000 green:0.349 blue:0.318 alpha:1.0]
-PMS3302	PMS3302	[UIColor pantonePMS3302Color]	[UIColor colorWithRed:0.000 green:0.286 blue:0.247 alpha:1.0]
-PMS3305	PMS3305	[UIColor pantonePMS3305Color]	[UIColor colorWithRed:0.000 green:0.310 blue:0.259 alpha:1.0]
-PMS3308	PMS3308	[UIColor pantonePMS3308Color]	[UIColor colorWithRed:0.000 green:0.267 blue:0.220 alpha:1.0]
-PMS331	PMS331	[UIColor pantonePMS331Color]	[UIColor colorWithRed:0.729 green:0.918 blue:0.839 alpha:1.0]
-PMS332	PMS332	[UIColor pantonePMS332Color]	[UIColor colorWithRed:0.627 green:0.898 blue:0.808 alpha:1.0]
-PMS333	PMS333	[UIColor pantonePMS333Color]	[UIColor colorWithRed:0.369 green:0.867 blue:0.757 alpha:1.0]
-PMS334	PMS334	[UIColor pantonePMS334Color]	[UIColor colorWithRed:0.000 green:0.600 blue:0.486 alpha:1.0]
-PMS335	PMS335	[UIColor pantonePMS335Color]	[UIColor colorWithRed:0.000 green:0.486 blue:0.400 alpha:1.0]
-PMS336	PMS336	[UIColor pantonePMS336Color]	[UIColor colorWithRed:0.000 green:0.408 blue:0.329 alpha:1.0]
-PMS337	PMS337	[UIColor pantonePMS337Color]	[UIColor colorWithRed:0.608 green:0.859 blue:0.757 alpha:1.0]
-PMS3375	PMS3375	[UIColor pantonePMS3375Color]	[UIColor colorWithRed:0.557 green:0.886 blue:0.737 alpha:1.0]
-PMS338	PMS338	[UIColor pantonePMS338Color]	[UIColor colorWithRed:0.478 green:0.820 blue:0.710 alpha:1.0]
-PMS3385	PMS3385	[UIColor pantonePMS3385Color]	[UIColor colorWithRed:0.329 green:0.847 blue:0.659 alpha:1.0]
-PMS339	PMS339	[UIColor pantonePMS339Color]	[UIColor colorWithRed:0.000 green:0.698 blue:0.549 alpha:1.0]
-PMS3395	PMS3395	[UIColor pantonePMS3395Color]	[UIColor colorWithRed:0.000 green:0.788 blue:0.576 alpha:1.0]
-PMS340	PMS340	[UIColor pantonePMS340Color]	[UIColor colorWithRed:0.000 green:0.600 blue:0.467 alpha:1.0]
-PMS3405	PMS3405	[UIColor pantonePMS3405Color]	[UIColor colorWithRed:0.000 green:0.698 blue:0.478 alpha:1.0]
-PMS341	PMS341	[UIColor pantonePMS341Color]	[UIColor colorWithRed:0.000 green:0.478 blue:0.369 alpha:1.0]
-PMS3415	PMS3415	[UIColor pantonePMS3415Color]	[UIColor colorWithRed:0.000 green:0.486 blue:0.349 alpha:1.0]
-PMS342	PMS342	[UIColor pantonePMS342Color]	[UIColor colorWithRed:0.000 green:0.420 blue:0.329 alpha:1.0]
-PMS3425	PMS3425	[UIColor pantonePMS3425Color]	[UIColor colorWithRed:0.000 green:0.408 blue:0.278 alpha:1.0]
-PMS343	PMS343	[UIColor pantonePMS343Color]	[UIColor colorWithRed:0.000 green:0.337 blue:0.247 alpha:1.0]
-PMS3435	PMS3435	[UIColor pantonePMS3435Color]	[UIColor colorWithRed:0.008 green:0.286 blue:0.188 alpha:1.0]
-PMS344	PMS344	[UIColor pantonePMS344Color]	[UIColor colorWithRed:0.710 green:0.886 blue:0.749 alpha:1.0]
-PMS345	PMS345	[UIColor pantonePMS345Color]	[UIColor colorWithRed:0.588 green:0.847 blue:0.686 alpha:1.0]
-PMS346	PMS346	[UIColor pantonePMS346Color]	[UIColor colorWithRed:0.439 green:0.808 blue:0.608 alpha:1.0]
-PMS347	PMS347	[UIColor pantonePMS347Color]	[UIColor colorWithRed:0.000 green:0.620 blue:0.376 alpha:1.0]
-PMS348	PMS348	[UIColor pantonePMS348Color]	[UIColor colorWithRed:0.000 green:0.529 blue:0.318 alpha:1.0]
-PMS349	PMS349	[UIColor pantonePMS349Color]	[UIColor colorWithRed:0.000 green:0.420 blue:0.247 alpha:1.0]
-PMS350	PMS350	[UIColor pantonePMS350Color]	[UIColor colorWithRed:0.137 green:0.310 blue:0.200 alpha:1.0]
-PMS351	PMS351	[UIColor pantonePMS351Color]	[UIColor colorWithRed:0.710 green:0.910 blue:0.749 alpha:1.0]
-PMS352	PMS352	[UIColor pantonePMS352Color]	[UIColor colorWithRed:0.600 green:0.898 blue:0.698 alpha:1.0]
-PMS353	PMS353	[UIColor pantonePMS353Color]	[UIColor colorWithRed:0.518 green:0.886 blue:0.659 alpha:1.0]
-PMS354	PMS354	[UIColor pantonePMS354Color]	[UIColor colorWithRed:0.000 green:0.718 blue:0.376 alpha:1.0]
-PMS3542X	PMS3542X	[UIColor pantonePMS3542XColor]	[UIColor colorWithRed:0.000 green:0.600 blue:0.267 alpha:1.0]
-PMS355	PMS355	[UIColor pantonePMS355Color]	[UIColor colorWithRed:0.000 green:0.620 blue:0.286 alpha:1.0]
-PMS356	PMS356	[UIColor pantonePMS356Color]	[UIColor colorWithRed:0.000 green:0.478 blue:0.239 alpha:1.0]
-PMS357	PMS357	[UIColor pantonePMS357Color]	[UIColor colorWithRed:0.129 green:0.357 blue:0.200 alpha:1.0]
-PMS358	PMS358	[UIColor pantonePMS358Color]	[UIColor colorWithRed:0.667 green:0.867 blue:0.588 alpha:1.0]
-PMS359	PMS359	[UIColor pantonePMS359Color]	[UIColor colorWithRed:0.627 green:0.859 blue:0.557 alpha:1.0]
-PMS360	PMS360	[UIColor pantonePMS360Color]	[UIColor colorWithRed:0.376 green:0.776 blue:0.349 alpha:1.0]
-PMS361	PMS361	[UIColor pantonePMS361Color]	[UIColor colorWithRed:0.118 green:0.710 blue:0.227 alpha:1.0]
-PMS362	PMS362	[UIColor pantonePMS362Color]	[UIColor colorWithRed:0.200 green:0.620 blue:0.208 alpha:1.0]
-PMS363	PMS363	[UIColor pantonePMS363Color]	[UIColor colorWithRed:0.239 green:0.557 blue:0.200 alpha:1.0]
-PMS364	PMS364	[UIColor pantonePMS364Color]	[UIColor colorWithRed:0.227 green:0.467 blue:0.157 alpha:1.0]
-PMS365	PMS365	[UIColor pantonePMS365Color]	[UIColor colorWithRed:0.827 green:0.910 blue:0.639 alpha:1.0]
-PMS366	PMS366	[UIColor pantonePMS366Color]	[UIColor colorWithRed:0.769 green:0.898 blue:0.557 alpha:1.0]
-PMS367	PMS367	[UIColor pantonePMS367Color]	[UIColor colorWithRed:0.667 green:0.867 blue:0.427 alpha:1.0]
-PMS368	PMS368	[UIColor pantonePMS368Color]	[UIColor colorWithRed:0.357 green:0.749 blue:0.129 alpha:1.0]
-PMS3682X	PMS3682X	[UIColor pantonePMS3682XColor]	[UIColor colorWithRed:0.000 green:0.620 blue:0.059 alpha:1.0]
-PMS369	PMS369	[UIColor pantonePMS369Color]	[UIColor colorWithRed:0.337 green:0.667 blue:0.110 alpha:1.0]
-PMS370	PMS370	[UIColor pantonePMS370Color]	[UIColor colorWithRed:0.337 green:0.557 blue:0.078 alpha:1.0]
-PMS371	PMS371	[UIColor pantonePMS371Color]	[UIColor colorWithRed:0.337 green:0.420 blue:0.129 alpha:1.0]
-PMS372	PMS372	[UIColor pantonePMS372Color]	[UIColor colorWithRed:0.847 green:0.929 blue:0.588 alpha:1.0]
-PMS373	PMS373	[UIColor pantonePMS373Color]	[UIColor colorWithRed:0.808 green:0.918 blue:0.510 alpha:1.0]
-PMS374	PMS374	[UIColor pantonePMS374Color]	[UIColor colorWithRed:0.729 green:0.910 blue:0.376 alpha:1.0]
-PMS375	PMS375	[UIColor pantonePMS375Color]	[UIColor colorWithRed:0.549 green:0.839 blue:0.000 alpha:1.0]
-PMS3752X	PMS3752X	[UIColor pantonePMS3752XColor]	[UIColor colorWithRed:0.329 green:0.737 blue:0.000 alpha:1.0]
-PMS376	PMS376	[UIColor pantonePMS376Color]	[UIColor colorWithRed:0.498 green:0.729 blue:0.000 alpha:1.0]
-PMS377	PMS377	[UIColor pantonePMS377Color]	[UIColor colorWithRed:0.439 green:0.576 blue:0.008 alpha:1.0]
-PMS378	PMS378	[UIColor pantonePMS378Color]	[UIColor colorWithRed:0.337 green:0.388 blue:0.078 alpha:1.0]
-PMS379	PMS379	[UIColor pantonePMS379Color]	[UIColor colorWithRed:0.878 green:0.918 blue:0.408 alpha:1.0]
-PMS380	PMS380	[UIColor pantonePMS380Color]	[UIColor colorWithRed:0.839 green:0.898 blue:0.259 alpha:1.0]
-PMS381	PMS381	[UIColor pantonePMS381Color]	[UIColor colorWithRed:0.800 green:0.886 blue:0.149 alpha:1.0]
-PMS382	PMS382	[UIColor pantonePMS382Color]	[UIColor colorWithRed:0.729 green:0.847 blue:0.039 alpha:1.0]
-PMS3822X	PMS3822X	[UIColor pantonePMS3822XColor]	[UIColor colorWithRed:0.620 green:0.769 blue:0.000 alpha:1.0]
-PMS383	PMS383	[UIColor pantonePMS383Color]	[UIColor colorWithRed:0.639 green:0.686 blue:0.027 alpha:1.0]
-PMS384	PMS384	[UIColor pantonePMS384Color]	[UIColor colorWithRed:0.576 green:0.600 blue:0.020 alpha:1.0]
-PMS385	PMS385	[UIColor pantonePMS385Color]	[UIColor colorWithRed:0.439 green:0.439 blue:0.078 alpha:1.0]
-PMS386	PMS386	[UIColor pantonePMS386Color]	[UIColor colorWithRed:0.910 green:0.929 blue:0.376 alpha:1.0]
-PMS387	PMS387	[UIColor pantonePMS387Color]	[UIColor colorWithRed:0.878 green:0.929 blue:0.267 alpha:1.0]
-PMS388	PMS388	[UIColor pantonePMS388Color]	[UIColor colorWithRed:0.839 green:0.910 blue:0.059 alpha:1.0]
-PMS389	PMS389	[UIColor pantonePMS389Color]	[UIColor colorWithRed:0.808 green:0.878 blue:0.027 alpha:1.0]
-PMS390	PMS390	[UIColor pantonePMS390Color]	[UIColor colorWithRed:0.729 green:0.769 blue:0.020 alpha:1.0]
-PMS391	PMS391	[UIColor pantonePMS391Color]	[UIColor colorWithRed:0.620 green:0.620 blue:0.027 alpha:1.0]
-PMS392	PMS392	[UIColor pantonePMS392Color]	[UIColor colorWithRed:0.518 green:0.510 blue:0.020 alpha:1.0]
-PMS393	PMS393	[UIColor pantonePMS393Color]	[UIColor colorWithRed:0.949 green:0.937 blue:0.529 alpha:1.0]
-PMS3935	PMS3935	[UIColor pantonePMS3935Color]	[UIColor colorWithRed:0.949 green:0.929 blue:0.427 alpha:1.0]
-PMS394	PMS394	[UIColor pantonePMS394Color]	[UIColor colorWithRed:0.918 green:0.929 blue:0.208 alpha:1.0]
-PMS3945	PMS3945	[UIColor pantonePMS3945Color]	[UIColor colorWithRed:0.937 green:0.918 blue:0.027 alpha:1.0]
-PMS395	PMS395	[UIColor pantonePMS395Color]	[UIColor colorWithRed:0.898 green:0.910 blue:0.067 alpha:1.0]
-PMS3955	PMS3955	[UIColor pantonePMS3955Color]	[UIColor colorWithRed:0.929 green:0.886 blue:0.067 alpha:1.0]
-PMS396	PMS396	[UIColor pantonePMS396Color]	[UIColor colorWithRed:0.878 green:0.886 blue:0.047 alpha:1.0]
-PMS3965	PMS3965	[UIColor pantonePMS3965Color]	[UIColor colorWithRed:0.910 green:0.867 blue:0.067 alpha:1.0]
-PMS397	PMS397	[UIColor pantonePMS397Color]	[UIColor colorWithRed:0.757 green:0.749 blue:0.039 alpha:1.0]
-PMS3975	PMS3975	[UIColor pantonePMS3975Color]	[UIColor colorWithRed:0.710 green:0.659 blue:0.047 alpha:1.0]
-PMS398	PMS398	[UIColor pantonePMS398Color]	[UIColor colorWithRed:0.686 green:0.659 blue:0.039 alpha:1.0]
-PMS3985	PMS3985	[UIColor pantonePMS3985Color]	[UIColor colorWithRed:0.600 green:0.549 blue:0.039 alpha:1.0]
-PMS399	PMS399	[UIColor pantonePMS399Color]	[UIColor colorWithRed:0.600 green:0.557 blue:0.027 alpha:1.0]
-PMS3995	PMS3995	[UIColor pantonePMS3995Color]	[UIColor colorWithRed:0.427 green:0.376 blue:0.008 alpha:1.0]
-PMS400	PMS400	[UIColor pantonePMS400Color]	[UIColor colorWithRed:0.820 green:0.776 blue:0.710 alpha:1.0]
-PMS401	PMS401	[UIColor pantonePMS401Color]	[UIColor colorWithRed:0.757 green:0.710 blue:0.647 alpha:1.0]
-PMS402	PMS402	[UIColor pantonePMS402Color]	[UIColor colorWithRed:0.686 green:0.647 blue:0.576 alpha:1.0]
-PMS403	PMS403	[UIColor pantonePMS403Color]	[UIColor colorWithRed:0.600 green:0.549 blue:0.486 alpha:1.0]
-PMS404	PMS404	[UIColor pantonePMS404Color]	[UIColor colorWithRed:0.510 green:0.459 blue:0.400 alpha:1.0]
-PMS405	PMS405	[UIColor pantonePMS405Color]	[UIColor colorWithRed:0.420 green:0.369 blue:0.310 alpha:1.0]
-PMS406	PMS406	[UIColor pantonePMS406Color]	[UIColor colorWithRed:0.808 green:0.757 blue:0.710 alpha:1.0]
-PMS407	PMS407	[UIColor pantonePMS407Color]	[UIColor colorWithRed:0.729 green:0.667 blue:0.620 alpha:1.0]
-PMS408	PMS408	[UIColor pantonePMS408Color]	[UIColor colorWithRed:0.659 green:0.600 blue:0.549 alpha:1.0]
-PMS409	PMS409	[UIColor pantonePMS409Color]	[UIColor colorWithRed:0.600 green:0.537 blue:0.486 alpha:1.0]
-PMS410	PMS410	[UIColor pantonePMS410Color]	[UIColor colorWithRed:0.486 green:0.427 blue:0.388 alpha:1.0]
-PMS411	PMS411	[UIColor pantonePMS411Color]	[UIColor colorWithRed:0.400 green:0.349 blue:0.298 alpha:1.0]
-PMS412	PMS412	[UIColor pantonePMS412Color]	[UIColor colorWithRed:0.239 green:0.188 blue:0.157 alpha:1.0]
-PMS413	PMS413	[UIColor pantonePMS413Color]	[UIColor colorWithRed:0.776 green:0.757 blue:0.698 alpha:1.0]
-PMS414	PMS414	[UIColor pantonePMS414Color]	[UIColor colorWithRed:0.710 green:0.686 blue:0.627 alpha:1.0]
-PMS415	PMS415	[UIColor pantonePMS415Color]	[UIColor colorWithRed:0.639 green:0.620 blue:0.549 alpha:1.0]
-PMS416	PMS416	[UIColor pantonePMS416Color]	[UIColor colorWithRed:0.557 green:0.549 blue:0.478 alpha:1.0]
-PMS417	PMS417	[UIColor pantonePMS417Color]	[UIColor colorWithRed:0.467 green:0.447 blue:0.388 alpha:1.0]
-PMS418	PMS418	[UIColor pantonePMS418Color]	[UIColor colorWithRed:0.376 green:0.369 blue:0.310 alpha:1.0]
-PMS419	PMS419	[UIColor pantonePMS419Color]	[UIColor colorWithRed:0.157 green:0.157 blue:0.129 alpha:1.0]
-PMS420	PMS420	[UIColor pantonePMS420Color]	[UIColor colorWithRed:0.820 green:0.800 blue:0.749 alpha:1.0]
-PMS421	PMS421	[UIColor pantonePMS421Color]	[UIColor colorWithRed:0.749 green:0.729 blue:0.686 alpha:1.0]
-PMS422	PMS422	[UIColor pantonePMS422Color]	[UIColor colorWithRed:0.686 green:0.667 blue:0.639 alpha:1.0]
-PMS423	PMS423	[UIColor pantonePMS423Color]	[UIColor colorWithRed:0.588 green:0.576 blue:0.557 alpha:1.0]
-PMS424	PMS424	[UIColor pantonePMS424Color]	[UIColor colorWithRed:0.510 green:0.498 blue:0.467 alpha:1.0]
-PMS425	PMS425	[UIColor pantonePMS425Color]	[UIColor colorWithRed:0.376 green:0.376 blue:0.357 alpha:1.0]
-PMS426	PMS426	[UIColor pantonePMS426Color]	[UIColor colorWithRed:0.169 green:0.169 blue:0.157 alpha:1.0]
-PMS427	PMS427	[UIColor pantonePMS427Color]	[UIColor colorWithRed:0.867 green:0.859 blue:0.820 alpha:1.0]
-PMS428	PMS428	[UIColor pantonePMS428Color]	[UIColor colorWithRed:0.820 green:0.808 blue:0.776 alpha:1.0]
-PMS429	PMS429	[UIColor pantonePMS429Color]	[UIColor colorWithRed:0.678 green:0.686 blue:0.667 alpha:1.0]
-PMS430	PMS430	[UIColor pantonePMS430Color]	[UIColor colorWithRed:0.569 green:0.588 blue:0.576 alpha:1.0]
-PMS431	PMS431	[UIColor pantonePMS431Color]	[UIColor colorWithRed:0.400 green:0.427 blue:0.439 alpha:1.0]
-PMS432	PMS432	[UIColor pantonePMS432Color]	[UIColor colorWithRed:0.267 green:0.310 blue:0.318 alpha:1.0]
-PMS433	PMS433	[UIColor pantonePMS433Color]	[UIColor colorWithRed:0.188 green:0.220 blue:0.227 alpha:1.0]
-PMS4332X	PMS4332X	[UIColor pantonePMS4332XColor]	[UIColor colorWithRed:0.039 green:0.047 blue:0.067 alpha:1.0]
-PMS434	PMS434	[UIColor pantonePMS434Color]	[UIColor colorWithRed:0.878 green:0.820 blue:0.776 alpha:1.0]
-PMS435	PMS435	[UIColor pantonePMS435Color]	[UIColor colorWithRed:0.827 green:0.749 blue:0.718 alpha:1.0]
-PMS436	PMS436	[UIColor pantonePMS436Color]	[UIColor colorWithRed:0.737 green:0.647 blue:0.620 alpha:1.0]
-PMS437	PMS437	[UIColor pantonePMS437Color]	[UIColor colorWithRed:0.549 green:0.439 blue:0.420 alpha:1.0]
-PMS438	PMS438	[UIColor pantonePMS438Color]	[UIColor colorWithRed:0.349 green:0.247 blue:0.239 alpha:1.0]
-PMS439	PMS439	[UIColor pantonePMS439Color]	[UIColor colorWithRed:0.286 green:0.208 blue:0.200 alpha:1.0]
-PMS440	PMS440	[UIColor pantonePMS440Color]	[UIColor colorWithRed:0.247 green:0.188 blue:0.169 alpha:1.0]
-PMS441	PMS441	[UIColor pantonePMS441Color]	[UIColor colorWithRed:0.820 green:0.820 blue:0.776 alpha:1.0]
-PMS442	PMS442	[UIColor pantonePMS442Color]	[UIColor colorWithRed:0.729 green:0.749 blue:0.718 alpha:1.0]
-PMS443	PMS443	[UIColor pantonePMS443Color]	[UIColor colorWithRed:0.639 green:0.659 blue:0.639 alpha:1.0]
-PMS444	PMS444	[UIColor pantonePMS444Color]	[UIColor colorWithRed:0.537 green:0.557 blue:0.549 alpha:1.0]
-PMS445	PMS445	[UIColor pantonePMS445Color]	[UIColor colorWithRed:0.337 green:0.349 blue:0.349 alpha:1.0]
-PMS446	PMS446	[UIColor pantonePMS446Color]	[UIColor colorWithRed:0.286 green:0.298 blue:0.286 alpha:1.0]
-PMS447	PMS447	[UIColor pantonePMS447Color]	[UIColor colorWithRed:0.247 green:0.247 blue:0.220 alpha:1.0]
-PMS448	PMS448	[UIColor pantonePMS448Color]	[UIColor colorWithRed:0.329 green:0.278 blue:0.176 alpha:1.0]
-PMS4485	PMS4485	[UIColor pantonePMS4485Color]	[UIColor colorWithRed:0.376 green:0.298 blue:0.067 alpha:1.0]
-PMS449	PMS449	[UIColor pantonePMS449Color]	[UIColor colorWithRed:0.329 green:0.278 blue:0.149 alpha:1.0]
-PMS4495	PMS4495	[UIColor pantonePMS4495Color]	[UIColor colorWithRed:0.529 green:0.459 blue:0.188 alpha:1.0]
-PMS450	PMS450	[UIColor pantonePMS450Color]	[UIColor colorWithRed:0.376 green:0.329 blue:0.169 alpha:1.0]
-PMS4505	PMS4505	[UIColor pantonePMS4505Color]	[UIColor colorWithRed:0.627 green:0.569 blue:0.318 alpha:1.0]
-PMS451	PMS451	[UIColor pantonePMS451Color]	[UIColor colorWithRed:0.678 green:0.627 blue:0.478 alpha:1.0]
-PMS4515	PMS4515	[UIColor pantonePMS4515Color]	[UIColor colorWithRed:0.737 green:0.678 blue:0.459 alpha:1.0]
-PMS452	PMS452	[UIColor pantonePMS452Color]	[UIColor colorWithRed:0.769 green:0.718 blue:0.588 alpha:1.0]
-PMS4525	PMS4525	[UIColor pantonePMS4525Color]	[UIColor colorWithRed:0.800 green:0.749 blue:0.557 alpha:1.0]
-PMS453	PMS453	[UIColor pantonePMS453Color]	[UIColor colorWithRed:0.839 green:0.800 blue:0.686 alpha:1.0]
-PMS4535	PMS4535	[UIColor pantonePMS4535Color]	[UIColor colorWithRed:0.859 green:0.808 blue:0.647 alpha:1.0]
-PMS454	PMS454	[UIColor pantonePMS454Color]	[UIColor colorWithRed:0.886 green:0.847 blue:0.749 alpha:1.0]
-PMS4545	PMS4545	[UIColor pantonePMS4545Color]	[UIColor colorWithRed:0.898 green:0.859 blue:0.729 alpha:1.0]
-PMS455	PMS455	[UIColor pantonePMS455Color]	[UIColor colorWithRed:0.400 green:0.337 blue:0.078 alpha:1.0]
-PMS456	PMS456	[UIColor pantonePMS456Color]	[UIColor colorWithRed:0.600 green:0.529 blue:0.078 alpha:1.0]
-PMS457	PMS457	[UIColor pantonePMS457Color]	[UIColor colorWithRed:0.710 green:0.608 blue:0.047 alpha:1.0]
-PMS458	PMS458	[UIColor pantonePMS458Color]	[UIColor colorWithRed:0.867 green:0.800 blue:0.420 alpha:1.0]
-PMS459	PMS459	[UIColor pantonePMS459Color]	[UIColor colorWithRed:0.886 green:0.839 blue:0.486 alpha:1.0]
-PMS460	PMS460	[UIColor pantonePMS460Color]	[UIColor colorWithRed:0.918 green:0.867 blue:0.588 alpha:1.0]
-PMS461	PMS461	[UIColor pantonePMS461Color]	[UIColor colorWithRed:0.929 green:0.898 blue:0.678 alpha:1.0]
-PMS462	PMS462	[UIColor pantonePMS462Color]	[UIColor colorWithRed:0.357 green:0.278 blue:0.137 alpha:1.0]
-PMS4625	PMS4625	[UIColor pantonePMS4625Color]	[UIColor colorWithRed:0.278 green:0.137 blue:0.067 alpha:1.0]
-PMS463	PMS463	[UIColor pantonePMS463Color]	[UIColor colorWithRed:0.459 green:0.329 blue:0.149 alpha:1.0]
-PMS4635	PMS4635	[UIColor pantonePMS4635Color]	[UIColor colorWithRed:0.549 green:0.349 blue:0.200 alpha:1.0]
-PMS464	PMS464	[UIColor pantonePMS464Color]	[UIColor colorWithRed:0.529 green:0.376 blue:0.157 alpha:1.0]
-PMS4642X	PMS4642X	[UIColor pantonePMS4642XColor]	[UIColor colorWithRed:0.439 green:0.259 blue:0.078 alpha:1.0]
-PMS4645	PMS4645	[UIColor pantonePMS4645Color]	[UIColor colorWithRed:0.698 green:0.510 blue:0.376 alpha:1.0]
-PMS465	PMS465	[UIColor pantonePMS465Color]	[UIColor colorWithRed:0.757 green:0.659 blue:0.459 alpha:1.0]
-PMS4655	PMS4655	[UIColor pantonePMS4655Color]	[UIColor colorWithRed:0.769 green:0.600 blue:0.467 alpha:1.0]
-PMS466	PMS466	[UIColor pantonePMS466Color]	[UIColor colorWithRed:0.820 green:0.749 blue:0.569 alpha:1.0]
-PMS4665	PMS4665	[UIColor pantonePMS4665Color]	[UIColor colorWithRed:0.847 green:0.710 blue:0.588 alpha:1.0]
-PMS467	PMS467	[UIColor pantonePMS467Color]	[UIColor colorWithRed:0.867 green:0.800 blue:0.647 alpha:1.0]
-PMS4675	PMS4675	[UIColor pantonePMS4675Color]	[UIColor colorWithRed:0.898 green:0.776 blue:0.667 alpha:1.0]
-PMS468	PMS468	[UIColor pantonePMS468Color]	[UIColor colorWithRed:0.886 green:0.839 blue:0.710 alpha:1.0]
-PMS4685	PMS4685	[UIColor pantonePMS4685Color]	[UIColor colorWithRed:0.929 green:0.827 blue:0.737 alpha:1.0]
-PMS469	PMS469	[UIColor pantonePMS469Color]	[UIColor colorWithRed:0.376 green:0.200 blue:0.067 alpha:1.0]
-PMS4695	PMS4695	[UIColor pantonePMS4695Color]	[UIColor colorWithRed:0.318 green:0.149 blue:0.110 alpha:1.0]
-PMS4705	PMS4705	[UIColor pantonePMS4705Color]	[UIColor colorWithRed:0.486 green:0.318 blue:0.239 alpha:1.0]
-PMS4712X	PMS4712X	[UIColor pantonePMS4712XColor]	[UIColor colorWithRed:0.639 green:0.267 blue:0.008 alpha:1.0]
-PMS4715	PMS4715	[UIColor pantonePMS4715Color]	[UIColor colorWithRed:0.600 green:0.439 blue:0.357 alpha:1.0]
-PMS4725	PMS4725	[UIColor pantonePMS4725Color]	[UIColor colorWithRed:0.710 green:0.569 blue:0.486 alpha:1.0]
-PMS4735	PMS4735	[UIColor pantonePMS4735Color]	[UIColor colorWithRed:0.800 green:0.686 blue:0.608 alpha:1.0]
-PMS4745	PMS4745	[UIColor pantonePMS4745Color]	[UIColor colorWithRed:0.847 green:0.749 blue:0.667 alpha:1.0]
-PMS4755	PMS4755	[UIColor pantonePMS4755Color]	[UIColor colorWithRed:0.886 green:0.800 blue:0.729 alpha:1.0]
-PMS476	PMS476	[UIColor pantonePMS476Color]	[UIColor colorWithRed:0.349 green:0.239 blue:0.169 alpha:1.0]
-PMS477	PMS477	[UIColor pantonePMS477Color]	[UIColor colorWithRed:0.388 green:0.220 blue:0.149 alpha:1.0]
-PMS478	PMS478	[UIColor pantonePMS478Color]	[UIColor colorWithRed:0.478 green:0.247 blue:0.157 alpha:1.0]
-PMS479	PMS479	[UIColor pantonePMS479Color]	[UIColor colorWithRed:0.686 green:0.537 blue:0.439 alpha:1.0]
-PMS480	PMS480	[UIColor pantonePMS480Color]	[UIColor colorWithRed:0.827 green:0.718 blue:0.639 alpha:1.0]
-PMS481	PMS481	[UIColor pantonePMS481Color]	[UIColor colorWithRed:0.878 green:0.800 blue:0.729 alpha:1.0]
-PMS482	PMS482	[UIColor pantonePMS482Color]	[UIColor colorWithRed:0.898 green:0.827 blue:0.757 alpha:1.0]
-PMS483	PMS483	[UIColor pantonePMS483Color]	[UIColor colorWithRed:0.420 green:0.188 blue:0.129 alpha:1.0]
-PMS484	PMS484	[UIColor pantonePMS484Color]	[UIColor colorWithRed:0.608 green:0.188 blue:0.110 alpha:1.0]
-PMS485	PMS485	[UIColor pantonePMS485Color]	[UIColor colorWithRed:0.847 green:0.118 blue:0.020 alpha:1.0]
-PMS4852X	PMS4852X	[UIColor pantonePMS4852XColor]	[UIColor colorWithRed:0.800 green:0.047 blue:0.000 alpha:1.0]
-PMS486	PMS486	[UIColor pantonePMS486Color]	[UIColor colorWithRed:0.929 green:0.620 blue:0.518 alpha:1.0]
-PMS487	PMS487	[UIColor pantonePMS487Color]	[UIColor colorWithRed:0.937 green:0.710 blue:0.627 alpha:1.0]
-PMS488	PMS488	[UIColor pantonePMS488Color]	[UIColor colorWithRed:0.949 green:0.769 blue:0.686 alpha:1.0]
-PMS489	PMS489	[UIColor pantonePMS489Color]	[UIColor colorWithRed:0.949 green:0.820 blue:0.749 alpha:1.0]
-PMS490	PMS490	[UIColor pantonePMS490Color]	[UIColor colorWithRed:0.357 green:0.149 blue:0.149 alpha:1.0]
-PMS491	PMS491	[UIColor pantonePMS491Color]	[UIColor colorWithRed:0.459 green:0.157 blue:0.157 alpha:1.0]
-PMS492	PMS492	[UIColor pantonePMS492Color]	[UIColor colorWithRed:0.569 green:0.200 blue:0.220 alpha:1.0]
-PMS493	PMS493	[UIColor pantonePMS493Color]	[UIColor colorWithRed:0.859 green:0.510 blue:0.549 alpha:1.0]
-PMS494	PMS494	[UIColor pantonePMS494Color]	[UIColor colorWithRed:0.949 green:0.678 blue:0.698 alpha:1.0]
-PMS495	PMS495	[UIColor pantonePMS495Color]	[UIColor colorWithRed:0.957 green:0.737 blue:0.749 alpha:1.0]
-PMS496	PMS496	[UIColor pantonePMS496Color]	[UIColor colorWithRed:0.969 green:0.788 blue:0.776 alpha:1.0]
-PMS497	PMS497	[UIColor pantonePMS497Color]	[UIColor colorWithRed:0.318 green:0.157 blue:0.149 alpha:1.0]
-PMS4975	PMS4975	[UIColor pantonePMS4975Color]	[UIColor colorWithRed:0.267 green:0.118 blue:0.110 alpha:1.0]
-PMS498	PMS498	[UIColor pantonePMS498Color]	[UIColor colorWithRed:0.427 green:0.200 blue:0.169 alpha:1.0]
-PMS4985	PMS4985	[UIColor pantonePMS4985Color]	[UIColor colorWithRed:0.518 green:0.286 blue:0.286 alpha:1.0]
-PMS499	PMS499	[UIColor pantonePMS499Color]	[UIColor colorWithRed:0.478 green:0.220 blue:0.176 alpha:1.0]
-PMS4995	PMS4995	[UIColor pantonePMS4995Color]	[UIColor colorWithRed:0.647 green:0.420 blue:0.427 alpha:1.0]
-PMS500	PMS500	[UIColor pantonePMS500Color]	[UIColor colorWithRed:0.808 green:0.537 blue:0.549 alpha:1.0]
-PMS5005	PMS5005	[UIColor pantonePMS5005Color]	[UIColor colorWithRed:0.737 green:0.529 blue:0.529 alpha:1.0]
-PMS501	PMS501	[UIColor pantonePMS501Color]	[UIColor colorWithRed:0.918 green:0.698 blue:0.698 alpha:1.0]
-PMS5015	PMS5015	[UIColor pantonePMS5015Color]	[UIColor colorWithRed:0.847 green:0.678 blue:0.659 alpha:1.0]
-PMS502	PMS502	[UIColor pantonePMS502Color]	[UIColor colorWithRed:0.949 green:0.776 blue:0.769 alpha:1.0]
-PMS5025	PMS5025	[UIColor pantonePMS5025Color]	[UIColor colorWithRed:0.886 green:0.737 blue:0.718 alpha:1.0]
-PMS503	PMS503	[UIColor pantonePMS503Color]	[UIColor colorWithRed:0.957 green:0.820 blue:0.800 alpha:1.0]
-PMS5035	PMS5035	[UIColor pantonePMS5035Color]	[UIColor colorWithRed:0.929 green:0.808 blue:0.776 alpha:1.0]
-PMS504	PMS504	[UIColor pantonePMS504Color]	[UIColor colorWithRed:0.318 green:0.118 blue:0.149 alpha:1.0]
-PMS505	PMS505	[UIColor pantonePMS505Color]	[UIColor colorWithRed:0.400 green:0.118 blue:0.169 alpha:1.0]
-PMS506	PMS506	[UIColor pantonePMS506Color]	[UIColor colorWithRed:0.478 green:0.149 blue:0.220 alpha:1.0]
-PMS507	PMS507	[UIColor pantonePMS507Color]	[UIColor colorWithRed:0.847 green:0.537 blue:0.608 alpha:1.0]
-PMS508	PMS508	[UIColor pantonePMS508Color]	[UIColor colorWithRed:0.910 green:0.647 blue:0.686 alpha:1.0]
-PMS509	PMS509	[UIColor pantonePMS509Color]	[UIColor colorWithRed:0.949 green:0.729 blue:0.749 alpha:1.0]
-PMS510	PMS510	[UIColor pantonePMS510Color]	[UIColor colorWithRed:0.957 green:0.776 blue:0.788 alpha:1.0]
-PMS511	PMS511	[UIColor pantonePMS511Color]	[UIColor colorWithRed:0.376 green:0.129 blue:0.267 alpha:1.0]
-PMS5115	PMS5115	[UIColor pantonePMS5115Color]	[UIColor colorWithRed:0.310 green:0.129 blue:0.227 alpha:1.0]
-PMS512	PMS512	[UIColor pantonePMS512Color]	[UIColor colorWithRed:0.518 green:0.129 blue:0.420 alpha:1.0]
-PMS5125	PMS5125	[UIColor pantonePMS5125Color]	[UIColor colorWithRed:0.459 green:0.278 blue:0.376 alpha:1.0]
-PMS513	PMS513	[UIColor pantonePMS513Color]	[UIColor colorWithRed:0.620 green:0.137 blue:0.529 alpha:1.0]
-PMS5135	PMS5135	[UIColor pantonePMS5135Color]	[UIColor colorWithRed:0.576 green:0.420 blue:0.498 alpha:1.0]
-PMS514	PMS514	[UIColor pantonePMS514Color]	[UIColor colorWithRed:0.847 green:0.518 blue:0.737 alpha:1.0]
-PMS5145	PMS5145	[UIColor pantonePMS5145Color]	[UIColor colorWithRed:0.678 green:0.529 blue:0.600 alpha:1.0]
-PMS515	PMS515	[UIColor pantonePMS515Color]	[UIColor colorWithRed:0.910 green:0.639 blue:0.788 alpha:1.0]
-PMS5155	PMS5155	[UIColor pantonePMS5155Color]	[UIColor colorWithRed:0.800 green:0.686 blue:0.718 alpha:1.0]
-PMS516	PMS516	[UIColor pantonePMS516Color]	[UIColor colorWithRed:0.949 green:0.729 blue:0.827 alpha:1.0]
-PMS5165	PMS5165	[UIColor pantonePMS5165Color]	[UIColor colorWithRed:0.878 green:0.788 blue:0.800 alpha:1.0]
-PMS517	PMS517	[UIColor pantonePMS517Color]	[UIColor colorWithRed:0.957 green:0.800 blue:0.847 alpha:1.0]
-PMS5175	PMS5175	[UIColor pantonePMS5175Color]	[UIColor colorWithRed:0.910 green:0.839 blue:0.820 alpha:1.0]
-PMS518	PMS518	[UIColor pantonePMS518Color]	[UIColor colorWithRed:0.318 green:0.176 blue:0.267 alpha:1.0]
-PMS5185	PMS5185	[UIColor pantonePMS5185Color]	[UIColor colorWithRed:0.278 green:0.157 blue:0.208 alpha:1.0]
-PMS519	PMS519	[UIColor pantonePMS519Color]	[UIColor colorWithRed:0.388 green:0.188 blue:0.369 alpha:1.0]
-PMS5195	PMS5195	[UIColor pantonePMS5195Color]	[UIColor colorWithRed:0.349 green:0.200 blue:0.267 alpha:1.0]
-PMS520	PMS520	[UIColor pantonePMS520Color]	[UIColor colorWithRed:0.439 green:0.208 blue:0.447 alpha:1.0]
-PMS5205	PMS5205	[UIColor pantonePMS5205Color]	[UIColor colorWithRed:0.557 green:0.408 blue:0.467 alpha:1.0]
-PMS521	PMS521	[UIColor pantonePMS521Color]	[UIColor colorWithRed:0.710 green:0.549 blue:0.698 alpha:1.0]
-PMS5215	PMS5215	[UIColor pantonePMS5215Color]	[UIColor colorWithRed:0.710 green:0.576 blue:0.608 alpha:1.0]
-PMS522	PMS522	[UIColor pantonePMS522Color]	[UIColor colorWithRed:0.776 green:0.639 blue:0.757 alpha:1.0]
-PMS5225	PMS5225	[UIColor pantonePMS5225Color]	[UIColor colorWithRed:0.800 green:0.678 blue:0.686 alpha:1.0]
-PMS523	PMS523	[UIColor pantonePMS523Color]	[UIColor colorWithRed:0.827 green:0.718 blue:0.800 alpha:1.0]
-PMS5235	PMS5235	[UIColor pantonePMS5235Color]	[UIColor colorWithRed:0.867 green:0.776 blue:0.769 alpha:1.0]
-PMS524	PMS524	[UIColor pantonePMS524Color]	[UIColor colorWithRed:0.886 green:0.800 blue:0.827 alpha:1.0]
-PMS5245	PMS5245	[UIColor pantonePMS5245Color]	[UIColor colorWithRed:0.898 green:0.827 blue:0.800 alpha:1.0]
-PMS525	PMS525	[UIColor pantonePMS525Color]	[UIColor colorWithRed:0.318 green:0.149 blue:0.329 alpha:1.0]
-PMS5255	PMS5255	[UIColor pantonePMS5255Color]	[UIColor colorWithRed:0.208 green:0.149 blue:0.310 alpha:1.0]
-PMS526	PMS526	[UIColor pantonePMS526Color]	[UIColor colorWithRed:0.408 green:0.129 blue:0.478 alpha:1.0]
-PMS5265	PMS5265	[UIColor pantonePMS5265Color]	[UIColor colorWithRed:0.286 green:0.239 blue:0.388 alpha:1.0]
-PMS527	PMS527	[UIColor pantonePMS527Color]	[UIColor colorWithRed:0.478 green:0.118 blue:0.600 alpha:1.0]
-PMS5275	PMS5275	[UIColor pantonePMS5275Color]	[UIColor colorWithRed:0.376 green:0.337 blue:0.467 alpha:1.0]
-PMS528	PMS528	[UIColor pantonePMS528Color]	[UIColor colorWithRed:0.686 green:0.447 blue:0.757 alpha:1.0]
-PMS5285	PMS5285	[UIColor pantonePMS5285Color]	[UIColor colorWithRed:0.549 green:0.510 blue:0.600 alpha:1.0]
-PMS529	PMS529	[UIColor pantonePMS529Color]	[UIColor colorWithRed:0.808 green:0.639 blue:0.827 alpha:1.0]
-PMS5295	PMS5295	[UIColor pantonePMS5295Color]	[UIColor colorWithRed:0.698 green:0.659 blue:0.710 alpha:1.0]
-PMS530	PMS530	[UIColor pantonePMS530Color]	[UIColor colorWithRed:0.839 green:0.686 blue:0.839 alpha:1.0]
-PMS5305	PMS5305	[UIColor pantonePMS5305Color]	[UIColor colorWithRed:0.800 green:0.757 blue:0.776 alpha:1.0]
-PMS531	PMS531	[UIColor pantonePMS531Color]	[UIColor colorWithRed:0.898 green:0.776 blue:0.859 alpha:1.0]
-PMS5315	PMS5315	[UIColor pantonePMS5315Color]	[UIColor colorWithRed:0.859 green:0.827 blue:0.827 alpha:1.0]
-PMS532	PMS532	[UIColor pantonePMS532Color]	[UIColor colorWithRed:0.208 green:0.220 blue:0.259 alpha:1.0]
-PMS533	PMS533	[UIColor pantonePMS533Color]	[UIColor colorWithRed:0.208 green:0.247 blue:0.357 alpha:1.0]
-PMS534	PMS534	[UIColor pantonePMS534Color]	[UIColor colorWithRed:0.227 green:0.286 blue:0.447 alpha:1.0]
-PMS535	PMS535	[UIColor pantonePMS535Color]	[UIColor colorWithRed:0.608 green:0.639 blue:0.718 alpha:1.0]
-PMS536	PMS536	[UIColor pantonePMS536Color]	[UIColor colorWithRed:0.678 green:0.698 blue:0.757 alpha:1.0]
-PMS537	PMS537	[UIColor pantonePMS537Color]	[UIColor colorWithRed:0.769 green:0.776 blue:0.808 alpha:1.0]
-PMS538	PMS538	[UIColor pantonePMS538Color]	[UIColor colorWithRed:0.839 green:0.827 blue:0.839 alpha:1.0]
-PMS539	PMS539	[UIColor pantonePMS539Color]	[UIColor colorWithRed:0.000 green:0.188 blue:0.286 alpha:1.0]
-PMS5395	PMS5395	[UIColor pantonePMS5395Color]	[UIColor colorWithRed:0.008 green:0.157 blue:0.227 alpha:1.0]
-PMS540	PMS540	[UIColor pantonePMS540Color]	[UIColor colorWithRed:0.000 green:0.200 blue:0.357 alpha:1.0]
-PMS5405	PMS5405	[UIColor pantonePMS5405Color]	[UIColor colorWithRed:0.247 green:0.376 blue:0.459 alpha:1.0]
-PMS541	PMS541	[UIColor pantonePMS541Color]	[UIColor colorWithRed:0.000 green:0.247 blue:0.467 alpha:1.0]
-PMS5415	PMS5415	[UIColor pantonePMS5415Color]	[UIColor colorWithRed:0.376 green:0.486 blue:0.549 alpha:1.0]
-PMS542	PMS542	[UIColor pantonePMS542Color]	[UIColor colorWithRed:0.400 green:0.576 blue:0.737 alpha:1.0]
-PMS5425	PMS5425	[UIColor pantonePMS5425Color]	[UIColor colorWithRed:0.518 green:0.600 blue:0.647 alpha:1.0]
-PMS543	PMS543	[UIColor pantonePMS543Color]	[UIColor colorWithRed:0.576 green:0.718 blue:0.820 alpha:1.0]
-PMS5435	PMS5435	[UIColor pantonePMS5435Color]	[UIColor colorWithRed:0.686 green:0.737 blue:0.749 alpha:1.0]
-PMS544	PMS544	[UIColor pantonePMS544Color]	[UIColor colorWithRed:0.718 green:0.800 blue:0.859 alpha:1.0]
-PMS5445	PMS5445	[UIColor pantonePMS5445Color]	[UIColor colorWithRed:0.769 green:0.800 blue:0.800 alpha:1.0]
-PMS545	PMS545	[UIColor pantonePMS545Color]	[UIColor colorWithRed:0.769 green:0.827 blue:0.867 alpha:1.0]
-PMS5455	PMS5455	[UIColor pantonePMS5455Color]	[UIColor colorWithRed:0.839 green:0.847 blue:0.827 alpha:1.0]
-PMS546	PMS546	[UIColor pantonePMS546Color]	[UIColor colorWithRed:0.047 green:0.220 blue:0.267 alpha:1.0]
-PMS5463	PMS5463	[UIColor pantonePMS5463Color]	[UIColor colorWithRed:0.000 green:0.208 blue:0.227 alpha:1.0]
-PMS5467	PMS5467	[UIColor pantonePMS5467Color]	[UIColor colorWithRed:0.098 green:0.220 blue:0.200 alpha:1.0]
-PMS547	PMS547	[UIColor pantonePMS547Color]	[UIColor colorWithRed:0.000 green:0.247 blue:0.329 alpha:1.0]
-PMS5473	PMS5473	[UIColor pantonePMS5473Color]	[UIColor colorWithRed:0.149 green:0.408 blue:0.427 alpha:1.0]
-PMS5477	PMS5477	[UIColor pantonePMS5477Color]	[UIColor colorWithRed:0.227 green:0.337 blue:0.310 alpha:1.0]
-PMS548	PMS548	[UIColor pantonePMS548Color]	[UIColor colorWithRed:0.000 green:0.267 blue:0.349 alpha:1.0]
-PMS5483	PMS5483	[UIColor pantonePMS5483Color]	[UIColor colorWithRed:0.376 green:0.569 blue:0.569 alpha:1.0]
-PMS5487	PMS5487	[UIColor pantonePMS5487Color]	[UIColor colorWithRed:0.400 green:0.486 blue:0.447 alpha:1.0]
-PMS549	PMS549	[UIColor pantonePMS549Color]	[UIColor colorWithRed:0.369 green:0.600 blue:0.667 alpha:1.0]
-PMS5493	PMS5493	[UIColor pantonePMS5493Color]	[UIColor colorWithRed:0.549 green:0.686 blue:0.678 alpha:1.0]
-PMS5497	PMS5497	[UIColor pantonePMS5497Color]	[UIColor colorWithRed:0.569 green:0.639 blue:0.600 alpha:1.0]
-PMS550	PMS550	[UIColor pantonePMS550Color]	[UIColor colorWithRed:0.529 green:0.686 blue:0.749 alpha:1.0]
-PMS5503	PMS5503	[UIColor pantonePMS5503Color]	[UIColor colorWithRed:0.667 green:0.769 blue:0.749 alpha:1.0]
-PMS5507	PMS5507	[UIColor pantonePMS5507Color]	[UIColor colorWithRed:0.686 green:0.729 blue:0.698 alpha:1.0]
-PMS551	PMS551	[UIColor pantonePMS551Color]	[UIColor colorWithRed:0.639 green:0.757 blue:0.788 alpha:1.0]
-PMS5513	PMS5513	[UIColor pantonePMS5513Color]	[UIColor colorWithRed:0.808 green:0.847 blue:0.820 alpha:1.0]
-PMS5517	PMS5517	[UIColor pantonePMS5517Color]	[UIColor colorWithRed:0.788 green:0.808 blue:0.769 alpha:1.0]
-PMS552	PMS552	[UIColor pantonePMS552Color]	[UIColor colorWithRed:0.769 green:0.839 blue:0.839 alpha:1.0]
-PMS5523	PMS5523	[UIColor pantonePMS5523Color]	[UIColor colorWithRed:0.839 green:0.867 blue:0.839 alpha:1.0]
-PMS5527	PMS5527	[UIColor pantonePMS5527Color]	[UIColor colorWithRed:0.808 green:0.820 blue:0.776 alpha:1.0]
-PMS553	PMS553	[UIColor pantonePMS553Color]	[UIColor colorWithRed:0.137 green:0.267 blue:0.208 alpha:1.0]
-PMS5535	PMS5535	[UIColor pantonePMS5535Color]	[UIColor colorWithRed:0.129 green:0.239 blue:0.188 alpha:1.0]
-PMS554	PMS554	[UIColor pantonePMS554Color]	[UIColor colorWithRed:0.098 green:0.369 blue:0.278 alpha:1.0]
-PMS5545	PMS5545	[UIColor pantonePMS5545Color]	[UIColor colorWithRed:0.310 green:0.427 blue:0.369 alpha:1.0]
-PMS555	PMS555	[UIColor pantonePMS555Color]	[UIColor colorWithRed:0.027 green:0.427 blue:0.329 alpha:1.0]
-PMS5555	PMS5555	[UIColor pantonePMS5555Color]	[UIColor colorWithRed:0.467 green:0.569 blue:0.510 alpha:1.0]
-PMS556	PMS556	[UIColor pantonePMS556Color]	[UIColor colorWithRed:0.478 green:0.659 blue:0.569 alpha:1.0]
-PMS5565	PMS5565	[UIColor pantonePMS5565Color]	[UIColor colorWithRed:0.588 green:0.667 blue:0.600 alpha:1.0]
-PMS557	PMS557	[UIColor pantonePMS557Color]	[UIColor colorWithRed:0.639 green:0.757 blue:0.678 alpha:1.0]
-PMS5575	PMS5575	[UIColor pantonePMS5575Color]	[UIColor colorWithRed:0.686 green:0.749 blue:0.678 alpha:1.0]
-PMS558	PMS558	[UIColor pantonePMS558Color]	[UIColor colorWithRed:0.718 green:0.808 blue:0.737 alpha:1.0]
-PMS5585	PMS5585	[UIColor pantonePMS5585Color]	[UIColor colorWithRed:0.769 green:0.808 blue:0.749 alpha:1.0]
-PMS559	PMS559	[UIColor pantonePMS559Color]	[UIColor colorWithRed:0.776 green:0.839 blue:0.769 alpha:1.0]
-PMS5595	PMS5595	[UIColor pantonePMS5595Color]	[UIColor colorWithRed:0.847 green:0.859 blue:0.800 alpha:1.0]
-PMS560	PMS560	[UIColor pantonePMS560Color]	[UIColor colorWithRed:0.169 green:0.298 blue:0.247 alpha:1.0]
-PMS5605	PMS5605	[UIColor pantonePMS5605Color]	[UIColor colorWithRed:0.137 green:0.227 blue:0.176 alpha:1.0]
-PMS561	PMS561	[UIColor pantonePMS561Color]	[UIColor colorWithRed:0.149 green:0.400 blue:0.349 alpha:1.0]
-PMS5615	PMS5615	[UIColor pantonePMS5615Color]	[UIColor colorWithRed:0.329 green:0.408 blue:0.337 alpha:1.0]
-PMS562	PMS562	[UIColor pantonePMS562Color]	[UIColor colorWithRed:0.118 green:0.478 blue:0.427 alpha:1.0]
-PMS5625	PMS5625	[UIColor pantonePMS5625Color]	[UIColor colorWithRed:0.447 green:0.518 blue:0.439 alpha:1.0]
-PMS563	PMS563	[UIColor pantonePMS563Color]	[UIColor colorWithRed:0.498 green:0.737 blue:0.667 alpha:1.0]
-PMS5635	PMS5635	[UIColor pantonePMS5635Color]	[UIColor colorWithRed:0.620 green:0.667 blue:0.600 alpha:1.0]
-PMS564	PMS564	[UIColor pantonePMS564Color]	[UIColor colorWithRed:0.627 green:0.808 blue:0.737 alpha:1.0]
-PMS5645	PMS5645	[UIColor pantonePMS5645Color]	[UIColor colorWithRed:0.737 green:0.757 blue:0.698 alpha:1.0]
-PMS565	PMS565	[UIColor pantonePMS565Color]	[UIColor colorWithRed:0.737 green:0.859 blue:0.800 alpha:1.0]
-PMS5655	PMS5655	[UIColor pantonePMS5655Color]	[UIColor colorWithRed:0.776 green:0.800 blue:0.729 alpha:1.0]
-PMS566	PMS566	[UIColor pantonePMS566Color]	[UIColor colorWithRed:0.820 green:0.886 blue:0.827 alpha:1.0]
-PMS568	PMS568	[UIColor pantonePMS568Color]	[UIColor colorWithRed:0.839 green:0.839 blue:0.776 alpha:1.0]
-PMS569	PMS569	[UIColor pantonePMS569Color]	[UIColor colorWithRed:0.020 green:0.439 blue:0.369 alpha:1.0]
-PMS570	PMS570	[UIColor pantonePMS570Color]	[UIColor colorWithRed:0.000 green:0.529 blue:0.447 alpha:1.0]
-PMS571	PMS571	[UIColor pantonePMS571Color]	[UIColor colorWithRed:0.498 green:0.776 blue:0.698 alpha:1.0]
-PMS572	PMS572	[UIColor pantonePMS572Color]	[UIColor colorWithRed:0.667 green:0.859 blue:0.776 alpha:1.0]
-PMS573	PMS573	[UIColor pantonePMS573Color]	[UIColor colorWithRed:0.737 green:0.886 blue:0.808 alpha:1.0]
-PMS574	PMS574	[UIColor pantonePMS574Color]	[UIColor colorWithRed:0.800 green:0.898 blue:0.839 alpha:1.0]
-PMS5743	PMS5743	[UIColor pantonePMS5743Color]	[UIColor colorWithRed:0.847 green:0.867 blue:0.710 alpha:1.0]
-PMS5747	PMS5747	[UIColor pantonePMS5747Color]	[UIColor colorWithRed:0.847 green:0.839 blue:0.718 alpha:1.0]
-PMS575	PMS575	[UIColor pantonePMS575Color]	[UIColor colorWithRed:0.286 green:0.349 blue:0.157 alpha:1.0]
-PMS5753	PMS5753	[UIColor pantonePMS5753Color]	[UIColor colorWithRed:0.247 green:0.286 blue:0.149 alpha:1.0]
-PMS5757	PMS5757	[UIColor pantonePMS5757Color]	[UIColor colorWithRed:0.259 green:0.278 blue:0.086 alpha:1.0]
-PMS576	PMS576	[UIColor pantonePMS576Color]	[UIColor colorWithRed:0.329 green:0.467 blue:0.188 alpha:1.0]
-PMS5763	PMS5763	[UIColor pantonePMS5763Color]	[UIColor colorWithRed:0.369 green:0.400 blue:0.227 alpha:1.0]
-PMS5767	PMS5767	[UIColor pantonePMS5767Color]	[UIColor colorWithRed:0.420 green:0.439 blue:0.169 alpha:1.0]
-PMS577	PMS577	[UIColor pantonePMS577Color]	[UIColor colorWithRed:0.376 green:0.557 blue:0.227 alpha:1.0]
-PMS5773	PMS5773	[UIColor pantonePMS5773Color]	[UIColor colorWithRed:0.467 green:0.486 blue:0.310 alpha:1.0]
-PMS5777	PMS5777	[UIColor pantonePMS5777Color]	[UIColor colorWithRed:0.549 green:0.569 blue:0.310 alpha:1.0]
-PMS578	PMS578	[UIColor pantonePMS578Color]	[UIColor colorWithRed:0.710 green:0.800 blue:0.557 alpha:1.0]
-PMS5783	PMS5783	[UIColor pantonePMS5783Color]	[UIColor colorWithRed:0.608 green:0.620 blue:0.447 alpha:1.0]
-PMS5787	PMS5787	[UIColor pantonePMS5787Color]	[UIColor colorWithRed:0.667 green:0.678 blue:0.459 alpha:1.0]
-PMS579	PMS579	[UIColor pantonePMS579Color]	[UIColor colorWithRed:0.776 green:0.839 blue:0.627 alpha:1.0]
-PMS5793	PMS5793	[UIColor pantonePMS5793Color]	[UIColor colorWithRed:0.710 green:0.710 blue:0.557 alpha:1.0]
-PMS5797	PMS5797	[UIColor pantonePMS5797Color]	[UIColor colorWithRed:0.776 green:0.776 blue:0.600 alpha:1.0]
-PMS580	PMS580	[UIColor pantonePMS580Color]	[UIColor colorWithRed:0.788 green:0.839 blue:0.639 alpha:1.0]
-PMS5807	PMS5807	[UIColor pantonePMS5807Color]	[UIColor colorWithRed:0.827 green:0.820 blue:0.667 alpha:1.0]
-PMS581	PMS581	[UIColor pantonePMS581Color]	[UIColor colorWithRed:0.878 green:0.867 blue:0.737 alpha:1.0]
-PMS5815	PMS5815	[UIColor pantonePMS5815Color]	[UIColor colorWithRed:0.286 green:0.267 blue:0.067 alpha:1.0]
-PMS582	PMS582	[UIColor pantonePMS582Color]	[UIColor colorWithRed:0.376 green:0.369 blue:0.067 alpha:1.0]
-PMS5825	PMS5825	[UIColor pantonePMS5825Color]	[UIColor colorWithRed:0.459 green:0.439 blue:0.169 alpha:1.0]
-PMS583	PMS583	[UIColor pantonePMS583Color]	[UIColor colorWithRed:0.529 green:0.537 blue:0.020 alpha:1.0]
-PMS5835	PMS5835	[UIColor pantonePMS5835Color]	[UIColor colorWithRed:0.620 green:0.600 blue:0.349 alpha:1.0]
-PMS584	PMS584	[UIColor pantonePMS584Color]	[UIColor colorWithRed:0.667 green:0.729 blue:0.039 alpha:1.0]
-PMS5845	PMS5845	[UIColor pantonePMS5845Color]	[UIColor colorWithRed:0.698 green:0.667 blue:0.439 alpha:1.0]
-PMS585	PMS585	[UIColor pantonePMS585Color]	[UIColor colorWithRed:0.859 green:0.878 blue:0.420 alpha:1.0]
-PMS5855	PMS5855	[UIColor pantonePMS5855Color]	[UIColor colorWithRed:0.800 green:0.776 blue:0.576 alpha:1.0]
-PMS586	PMS586	[UIColor pantonePMS586Color]	[UIColor colorWithRed:0.886 green:0.898 blue:0.518 alpha:1.0]
-PMS5865	PMS5865	[UIColor pantonePMS5865Color]	[UIColor colorWithRed:0.839 green:0.808 blue:0.639 alpha:1.0]
-PMS587	PMS587	[UIColor pantonePMS587Color]	[UIColor colorWithRed:0.910 green:0.910 blue:0.608 alpha:1.0]
-PMS5875	PMS5875	[UIColor pantonePMS5875Color]	[UIColor colorWithRed:0.878 green:0.859 blue:0.710 alpha:1.0]
-PMS600	PMS600	[UIColor pantonePMS600Color]	[UIColor colorWithRed:0.957 green:0.929 blue:0.686 alpha:1.0]
-PMS601	PMS601	[UIColor pantonePMS601Color]	[UIColor colorWithRed:0.949 green:0.929 blue:0.620 alpha:1.0]
-PMS602	PMS602	[UIColor pantonePMS602Color]	[UIColor colorWithRed:0.949 green:0.918 blue:0.529 alpha:1.0]
-PMS603	PMS603	[UIColor pantonePMS603Color]	[UIColor colorWithRed:0.929 green:0.910 blue:0.357 alpha:1.0]
-PMS604	PMS604	[UIColor pantonePMS604Color]	[UIColor colorWithRed:0.910 green:0.867 blue:0.129 alpha:1.0]
-PMS605	PMS605	[UIColor pantonePMS605Color]	[UIColor colorWithRed:0.867 green:0.808 blue:0.067 alpha:1.0]
-PMS606	PMS606	[UIColor pantonePMS606Color]	[UIColor colorWithRed:0.827 green:0.749 blue:0.067 alpha:1.0]
-PMS607	PMS607	[UIColor pantonePMS607Color]	[UIColor colorWithRed:0.949 green:0.918 blue:0.737 alpha:1.0]
-PMS608	PMS608	[UIColor pantonePMS608Color]	[UIColor colorWithRed:0.937 green:0.910 blue:0.678 alpha:1.0]
-PMS609	PMS609	[UIColor pantonePMS609Color]	[UIColor colorWithRed:0.918 green:0.898 blue:0.588 alpha:1.0]
-PMS610	PMS610	[UIColor pantonePMS610Color]	[UIColor colorWithRed:0.886 green:0.859 blue:0.447 alpha:1.0]
-PMS611	PMS611	[UIColor pantonePMS611Color]	[UIColor colorWithRed:0.839 green:0.808 blue:0.286 alpha:1.0]
-PMS612	PMS612	[UIColor pantonePMS612Color]	[UIColor colorWithRed:0.769 green:0.729 blue:0.000 alpha:1.0]
-PMS613	PMS613	[UIColor pantonePMS613Color]	[UIColor colorWithRed:0.686 green:0.627 blue:0.047 alpha:1.0]
-PMS614	PMS614	[UIColor pantonePMS614Color]	[UIColor colorWithRed:0.918 green:0.886 blue:0.718 alpha:1.0]
-PMS615	PMS615	[UIColor pantonePMS615Color]	[UIColor colorWithRed:0.886 green:0.859 blue:0.667 alpha:1.0]
-PMS616	PMS616	[UIColor pantonePMS616Color]	[UIColor colorWithRed:0.867 green:0.839 blue:0.608 alpha:1.0]
-PMS617	PMS617	[UIColor pantonePMS617Color]	[UIColor colorWithRed:0.800 green:0.769 blue:0.486 alpha:1.0]
-PMS618	PMS618	[UIColor pantonePMS618Color]	[UIColor colorWithRed:0.710 green:0.667 blue:0.349 alpha:1.0]
-PMS619	PMS619	[UIColor pantonePMS619Color]	[UIColor colorWithRed:0.588 green:0.549 blue:0.157 alpha:1.0]
-PMS620	PMS620	[UIColor pantonePMS620Color]	[UIColor colorWithRed:0.518 green:0.467 blue:0.067 alpha:1.0]
-PMS621	PMS621	[UIColor pantonePMS621Color]	[UIColor colorWithRed:0.847 green:0.867 blue:0.808 alpha:1.0]
-PMS622	PMS622	[UIColor pantonePMS622Color]	[UIColor colorWithRed:0.757 green:0.820 blue:0.749 alpha:1.0]
-PMS623	PMS623	[UIColor pantonePMS623Color]	[UIColor colorWithRed:0.647 green:0.749 blue:0.667 alpha:1.0]
-PMS624	PMS624	[UIColor pantonePMS624Color]	[UIColor colorWithRed:0.498 green:0.627 blue:0.549 alpha:1.0]
-PMS625	PMS625	[UIColor pantonePMS625Color]	[UIColor colorWithRed:0.357 green:0.529 blue:0.447 alpha:1.0]
-PMS626	PMS626	[UIColor pantonePMS626Color]	[UIColor colorWithRed:0.129 green:0.329 blue:0.247 alpha:1.0]
-PMS627	PMS627	[UIColor pantonePMS627Color]	[UIColor colorWithRed:0.047 green:0.188 blue:0.149 alpha:1.0]
-PMS628	PMS628	[UIColor pantonePMS628Color]	[UIColor colorWithRed:0.800 green:0.886 blue:0.867 alpha:1.0]
-PMS629	PMS629	[UIColor pantonePMS629Color]	[UIColor colorWithRed:0.698 green:0.847 blue:0.847 alpha:1.0]
-PMS630	PMS630	[UIColor pantonePMS630Color]	[UIColor colorWithRed:0.549 green:0.800 blue:0.827 alpha:1.0]
-PMS631	PMS631	[UIColor pantonePMS631Color]	[UIColor colorWithRed:0.329 green:0.718 blue:0.776 alpha:1.0]
-PMS632	PMS632	[UIColor pantonePMS632Color]	[UIColor colorWithRed:0.000 green:0.627 blue:0.729 alpha:1.0]
-PMS633	PMS633	[UIColor pantonePMS633Color]	[UIColor colorWithRed:0.000 green:0.498 blue:0.600 alpha:1.0]
-PMS634	PMS634	[UIColor pantonePMS634Color]	[UIColor colorWithRed:0.000 green:0.400 blue:0.498 alpha:1.0]
-PMS635	PMS635	[UIColor pantonePMS635Color]	[UIColor colorWithRed:0.729 green:0.878 blue:0.878 alpha:1.0]
-PMS636	PMS636	[UIColor pantonePMS636Color]	[UIColor colorWithRed:0.600 green:0.839 blue:0.867 alpha:1.0]
-PMS637	PMS637	[UIColor pantonePMS637Color]	[UIColor colorWithRed:0.420 green:0.788 blue:0.859 alpha:1.0]
-PMS638	PMS638	[UIColor pantonePMS638Color]	[UIColor colorWithRed:0.000 green:0.710 blue:0.839 alpha:1.0]
-PMS639	PMS639	[UIColor pantonePMS639Color]	[UIColor colorWithRed:0.000 green:0.627 blue:0.769 alpha:1.0]
-PMS640	PMS640	[UIColor pantonePMS640Color]	[UIColor colorWithRed:0.000 green:0.549 blue:0.698 alpha:1.0]
-PMS641	PMS641	[UIColor pantonePMS641Color]	[UIColor colorWithRed:0.000 green:0.478 blue:0.647 alpha:1.0]
-PMS642	PMS642	[UIColor pantonePMS642Color]	[UIColor colorWithRed:0.820 green:0.847 blue:0.847 alpha:1.0]
-PMS643	PMS643	[UIColor pantonePMS643Color]	[UIColor colorWithRed:0.776 green:0.820 blue:0.839 alpha:1.0]
-PMS644	PMS644	[UIColor pantonePMS644Color]	[UIColor colorWithRed:0.608 green:0.686 blue:0.769 alpha:1.0]
-PMS645	PMS645	[UIColor pantonePMS645Color]	[UIColor colorWithRed:0.467 green:0.588 blue:0.698 alpha:1.0]
-PMS646	PMS646	[UIColor pantonePMS646Color]	[UIColor colorWithRed:0.369 green:0.510 blue:0.639 alpha:1.0]
-PMS647	PMS647	[UIColor pantonePMS647Color]	[UIColor colorWithRed:0.149 green:0.329 blue:0.486 alpha:1.0]
-PMS648	PMS648	[UIColor pantonePMS648Color]	[UIColor colorWithRed:0.000 green:0.188 blue:0.369 alpha:1.0]
-PMS649	PMS649	[UIColor pantonePMS649Color]	[UIColor colorWithRed:0.839 green:0.839 blue:0.847 alpha:1.0]
-PMS650	PMS650	[UIColor pantonePMS650Color]	[UIColor colorWithRed:0.749 green:0.776 blue:0.820 alpha:1.0]
-PMS651	PMS651	[UIColor pantonePMS651Color]	[UIColor colorWithRed:0.608 green:0.667 blue:0.749 alpha:1.0]
-PMS652	PMS652	[UIColor pantonePMS652Color]	[UIColor colorWithRed:0.427 green:0.529 blue:0.659 alpha:1.0]
-PMS653	PMS653	[UIColor pantonePMS653Color]	[UIColor colorWithRed:0.200 green:0.337 blue:0.529 alpha:1.0]
-PMS654	PMS654	[UIColor pantonePMS654Color]	[UIColor colorWithRed:0.059 green:0.169 blue:0.357 alpha:1.0]
-PMS655	PMS655	[UIColor pantonePMS655Color]	[UIColor colorWithRed:0.047 green:0.110 blue:0.278 alpha:1.0]
-PMS656	PMS656	[UIColor pantonePMS656Color]	[UIColor colorWithRed:0.839 green:0.859 blue:0.878 alpha:1.0]
-PMS657	PMS657	[UIColor pantonePMS657Color]	[UIColor colorWithRed:0.757 green:0.788 blue:0.867 alpha:1.0]
-PMS658	PMS658	[UIColor pantonePMS658Color]	[UIColor colorWithRed:0.647 green:0.686 blue:0.839 alpha:1.0]
-PMS659	PMS659	[UIColor pantonePMS659Color]	[UIColor colorWithRed:0.498 green:0.549 blue:0.749 alpha:1.0]
-PMS660	PMS660	[UIColor pantonePMS660Color]	[UIColor colorWithRed:0.349 green:0.376 blue:0.659 alpha:1.0]
-PMS661	PMS661	[UIColor pantonePMS661Color]	[UIColor colorWithRed:0.176 green:0.200 blue:0.557 alpha:1.0]
-PMS662	PMS662	[UIColor pantonePMS662Color]	[UIColor colorWithRed:0.047 green:0.098 blue:0.459 alpha:1.0]
-PMS663	PMS663	[UIColor pantonePMS663Color]	[UIColor colorWithRed:0.886 green:0.827 blue:0.839 alpha:1.0]
-PMS664	PMS664	[UIColor pantonePMS664Color]	[UIColor colorWithRed:0.847 green:0.800 blue:0.820 alpha:1.0]
-PMS665	PMS665	[UIColor pantonePMS665Color]	[UIColor colorWithRed:0.776 green:0.710 blue:0.769 alpha:1.0]
-PMS666	PMS666	[UIColor pantonePMS666Color]	[UIColor colorWithRed:0.659 green:0.576 blue:0.678 alpha:1.0]
-PMS667	PMS667	[UIColor pantonePMS667Color]	[UIColor colorWithRed:0.498 green:0.400 blue:0.537 alpha:1.0]
-PMS668	PMS668	[UIColor pantonePMS668Color]	[UIColor colorWithRed:0.400 green:0.286 blue:0.459 alpha:1.0]
-PMS669	PMS669	[UIColor pantonePMS669Color]	[UIColor colorWithRed:0.278 green:0.169 blue:0.349 alpha:1.0]
-PMS670	PMS670	[UIColor pantonePMS670Color]	[UIColor colorWithRed:0.949 green:0.839 blue:0.847 alpha:1.0]
-PMS671	PMS671	[UIColor pantonePMS671Color]	[UIColor colorWithRed:0.937 green:0.776 blue:0.827 alpha:1.0]
-PMS672	PMS672	[UIColor pantonePMS672Color]	[UIColor colorWithRed:0.918 green:0.667 blue:0.769 alpha:1.0]
-PMS673	PMS673	[UIColor pantonePMS673Color]	[UIColor colorWithRed:0.878 green:0.549 blue:0.698 alpha:1.0]
-PMS674	PMS674	[UIColor pantonePMS674Color]	[UIColor colorWithRed:0.827 green:0.420 blue:0.620 alpha:1.0]
-PMS675	PMS675	[UIColor pantonePMS675Color]	[UIColor colorWithRed:0.737 green:0.220 blue:0.467 alpha:1.0]
-PMS676	PMS676	[UIColor pantonePMS676Color]	[UIColor colorWithRed:0.627 green:0.000 blue:0.329 alpha:1.0]
-PMS677	PMS677	[UIColor pantonePMS677Color]	[UIColor colorWithRed:0.929 green:0.839 blue:0.839 alpha:1.0]
-PMS678	PMS678	[UIColor pantonePMS678Color]	[UIColor colorWithRed:0.918 green:0.800 blue:0.808 alpha:1.0]
-PMS679	PMS679	[UIColor pantonePMS679Color]	[UIColor colorWithRed:0.898 green:0.749 blue:0.776 alpha:1.0]
-PMS680	PMS680	[UIColor pantonePMS680Color]	[UIColor colorWithRed:0.827 green:0.620 blue:0.686 alpha:1.0]
-PMS681	PMS681	[UIColor pantonePMS681Color]	[UIColor colorWithRed:0.718 green:0.447 blue:0.557 alpha:1.0]
-PMS682	PMS682	[UIColor pantonePMS682Color]	[UIColor colorWithRed:0.627 green:0.318 blue:0.459 alpha:1.0]
-PMS683	PMS683	[UIColor pantonePMS683Color]	[UIColor colorWithRed:0.498 green:0.157 blue:0.310 alpha:1.0]
-PMS684	PMS684	[UIColor pantonePMS684Color]	[UIColor colorWithRed:0.937 green:0.800 blue:0.808 alpha:1.0]
-PMS685	PMS685	[UIColor pantonePMS685Color]	[UIColor colorWithRed:0.918 green:0.749 blue:0.769 alpha:1.0]
-PMS686	PMS686	[UIColor pantonePMS686Color]	[UIColor colorWithRed:0.878 green:0.667 blue:0.729 alpha:1.0]
-PMS687	PMS687	[UIColor pantonePMS687Color]	[UIColor colorWithRed:0.788 green:0.537 blue:0.620 alpha:1.0]
-PMS688	PMS688	[UIColor pantonePMS688Color]	[UIColor colorWithRed:0.698 green:0.400 blue:0.518 alpha:1.0]
-PMS689	PMS689	[UIColor pantonePMS689Color]	[UIColor colorWithRed:0.576 green:0.259 blue:0.400 alpha:1.0]
-PMS690	PMS690	[UIColor pantonePMS690Color]	[UIColor colorWithRed:0.439 green:0.137 blue:0.259 alpha:1.0]
-PMS691	PMS691	[UIColor pantonePMS691Color]	[UIColor colorWithRed:0.937 green:0.820 blue:0.788 alpha:1.0]
-PMS692	PMS692	[UIColor pantonePMS692Color]	[UIColor colorWithRed:0.910 green:0.749 blue:0.729 alpha:1.0]
-PMS693	PMS693	[UIColor pantonePMS693Color]	[UIColor colorWithRed:0.859 green:0.659 blue:0.647 alpha:1.0]
-PMS694	PMS694	[UIColor pantonePMS694Color]	[UIColor colorWithRed:0.788 green:0.549 blue:0.549 alpha:1.0]
-PMS695	PMS695	[UIColor pantonePMS695Color]	[UIColor colorWithRed:0.698 green:0.420 blue:0.439 alpha:1.0]
-PMS696	PMS696	[UIColor pantonePMS696Color]	[UIColor colorWithRed:0.557 green:0.278 blue:0.286 alpha:1.0]
-PMS697	PMS697	[UIColor pantonePMS697Color]	[UIColor colorWithRed:0.498 green:0.220 blue:0.227 alpha:1.0]
-PMS698	PMS698	[UIColor pantonePMS698Color]	[UIColor colorWithRed:0.969 green:0.820 blue:0.800 alpha:1.0]
-PMS699	PMS699	[UIColor pantonePMS699Color]	[UIColor colorWithRed:0.969 green:0.749 blue:0.749 alpha:1.0]
-PMS700	PMS700	[UIColor pantonePMS700Color]	[UIColor colorWithRed:0.949 green:0.647 blue:0.667 alpha:1.0]
-PMS701	PMS701	[UIColor pantonePMS701Color]	[UIColor colorWithRed:0.910 green:0.529 blue:0.557 alpha:1.0]
-PMS702	PMS702	[UIColor pantonePMS702Color]	[UIColor colorWithRed:0.839 green:0.376 blue:0.427 alpha:1.0]
-PMS703	PMS703	[UIColor pantonePMS703Color]	[UIColor colorWithRed:0.718 green:0.220 blue:0.267 alpha:1.0]
-PMS704	PMS704	[UIColor pantonePMS704Color]	[UIColor colorWithRed:0.620 green:0.157 blue:0.157 alpha:1.0]
-PMS705	PMS705	[UIColor pantonePMS705Color]	[UIColor colorWithRed:0.976 green:0.867 blue:0.839 alpha:1.0]
-PMS706	PMS706	[UIColor pantonePMS706Color]	[UIColor colorWithRed:0.988 green:0.788 blue:0.776 alpha:1.0]
-PMS707	PMS707	[UIColor pantonePMS707Color]	[UIColor colorWithRed:0.988 green:0.678 blue:0.686 alpha:1.0]
-PMS708	PMS708	[UIColor pantonePMS708Color]	[UIColor colorWithRed:0.976 green:0.557 blue:0.600 alpha:1.0]
-PMS709	PMS709	[UIColor pantonePMS709Color]	[UIColor colorWithRed:0.949 green:0.408 blue:0.467 alpha:1.0]
-PMS710	PMS710	[UIColor pantonePMS710Color]	[UIColor colorWithRed:0.878 green:0.259 blue:0.318 alpha:1.0]
-PMS711	PMS711	[UIColor pantonePMS711Color]	[UIColor colorWithRed:0.820 green:0.176 blue:0.200 alpha:1.0]
-PMS712	PMS712	[UIColor pantonePMS712Color]	[UIColor colorWithRed:1.000 green:0.827 blue:0.667 alpha:1.0]
-PMS713	PMS713	[UIColor pantonePMS713Color]	[UIColor colorWithRed:0.976 green:0.788 blue:0.639 alpha:1.0]
-PMS714	PMS714	[UIColor pantonePMS714Color]	[UIColor colorWithRed:0.976 green:0.729 blue:0.510 alpha:1.0]
-PMS715	PMS715	[UIColor pantonePMS715Color]	[UIColor colorWithRed:0.988 green:0.620 blue:0.286 alpha:1.0]
-PMS716	PMS716	[UIColor pantonePMS716Color]	[UIColor colorWithRed:0.949 green:0.518 blue:0.067 alpha:1.0]
-PMS717	PMS717	[UIColor pantonePMS717Color]	[UIColor colorWithRed:0.827 green:0.427 blue:0.000 alpha:1.0]
-PMS718	PMS718	[UIColor pantonePMS718Color]	[UIColor colorWithRed:0.749 green:0.357 blue:0.000 alpha:1.0]
-PMS719	PMS719	[UIColor pantonePMS719Color]	[UIColor colorWithRed:0.957 green:0.820 blue:0.686 alpha:1.0]
-PMS720	PMS720	[UIColor pantonePMS720Color]	[UIColor colorWithRed:0.937 green:0.769 blue:0.620 alpha:1.0]
-PMS721	PMS721	[UIColor pantonePMS721Color]	[UIColor colorWithRed:0.910 green:0.698 blue:0.510 alpha:1.0]
-PMS722	PMS722	[UIColor pantonePMS722Color]	[UIColor colorWithRed:0.820 green:0.557 blue:0.329 alpha:1.0]
-PMS723	PMS723	[UIColor pantonePMS723Color]	[UIColor colorWithRed:0.729 green:0.459 blue:0.188 alpha:1.0]
-PMS724	PMS724	[UIColor pantonePMS724Color]	[UIColor colorWithRed:0.557 green:0.286 blue:0.020 alpha:1.0]
-PMS725	PMS725	[UIColor pantonePMS725Color]	[UIColor colorWithRed:0.459 green:0.220 blue:0.008 alpha:1.0]
-PMS726	PMS726	[UIColor pantonePMS726Color]	[UIColor colorWithRed:0.929 green:0.827 blue:0.710 alpha:1.0]
-PMS727	PMS727	[UIColor pantonePMS727Color]	[UIColor colorWithRed:0.886 green:0.749 blue:0.608 alpha:1.0]
-PMS728	PMS728	[UIColor pantonePMS728Color]	[UIColor colorWithRed:0.827 green:0.659 blue:0.486 alpha:1.0]
-PMS729	PMS729	[UIColor pantonePMS729Color]	[UIColor colorWithRed:0.757 green:0.557 blue:0.376 alpha:1.0]
-PMS730	PMS730	[UIColor pantonePMS730Color]	[UIColor colorWithRed:0.667 green:0.459 blue:0.247 alpha:1.0]
-PMS731	PMS731	[UIColor pantonePMS731Color]	[UIColor colorWithRed:0.447 green:0.247 blue:0.039 alpha:1.0]
-PMS732	PMS732	[UIColor pantonePMS732Color]	[UIColor colorWithRed:0.376 green:0.200 blue:0.039 alpha:1.0]
-PMS801	PMS801	[UIColor pantonePMS801Color]	[UIColor colorWithRed:0.000 green:0.667 blue:0.800 alpha:1.0]
-PMS8012X	PMS8012X	[UIColor pantonePMS8012XColor]	[UIColor colorWithRed:0.000 green:0.537 blue:0.686 alpha:1.0]
-PMS802	PMS802	[UIColor pantonePMS802Color]	[UIColor colorWithRed:0.376 green:0.867 blue:0.286 alpha:1.0]
-PMS8022X	PMS8022X	[UIColor pantonePMS8022XColor]	[UIColor colorWithRed:0.110 green:0.808 blue:0.157 alpha:1.0]
-PMS803	PMS803	[UIColor pantonePMS803Color]	[UIColor colorWithRed:1.000 green:0.929 blue:0.220 alpha:1.0]
-PMS8032X	PMS8032X	[UIColor pantonePMS8032XColor]	[UIColor colorWithRed:1.000 green:0.847 blue:0.086 alpha:1.0]
-PMS804	PMS804	[UIColor pantonePMS804Color]	[UIColor colorWithRed:1.000 green:0.576 blue:0.220 alpha:1.0]
-PMS8042X	PMS8042X	[UIColor pantonePMS8042XColor]	[UIColor colorWithRed:1.000 green:0.498 blue:0.118 alpha:1.0]
-PMS805	PMS805	[UIColor pantonePMS805Color]	[UIColor colorWithRed:0.976 green:0.349 blue:0.318 alpha:1.0]
-PMS8052X	PMS8052X	[UIColor pantonePMS8052XColor]	[UIColor colorWithRed:0.976 green:0.227 blue:0.169 alpha:1.0]
-PMS806	PMS806	[UIColor pantonePMS806Color]	[UIColor colorWithRed:1.000 green:0.000 blue:0.576 alpha:1.0]
-PMS8062X	PMS8062X	[UIColor pantonePMS8062XColor]	[UIColor colorWithRed:0.969 green:0.008 blue:0.486 alpha:1.0]
-PMS807	PMS807	[UIColor pantonePMS807Color]	[UIColor colorWithRed:0.839 green:0.000 blue:0.620 alpha:1.0]
-PMS8072X	PMS8072X	[UIColor pantonePMS8072XColor]	[UIColor colorWithRed:0.749 green:0.000 blue:0.549 alpha:1.0]
-PMS808	PMS808	[UIColor pantonePMS808Color]	[UIColor colorWithRed:0.000 green:0.710 blue:0.608 alpha:1.0]
-PMS8082X	PMS8082X	[UIColor pantonePMS8082XColor]	[UIColor colorWithRed:0.000 green:0.627 blue:0.529 alpha:1.0]
-PMS809	PMS809	[UIColor pantonePMS809Color]	[UIColor colorWithRed:0.867 green:0.878 blue:0.059 alpha:1.0]
-PMS8092X	PMS8092X	[UIColor pantonePMS8092XColor]	[UIColor colorWithRed:0.839 green:0.839 blue:0.047 alpha:1.0]
-PMS810	PMS810	[UIColor pantonePMS810Color]	[UIColor colorWithRed:1.000 green:0.800 blue:0.118 alpha:1.0]
-PMS8102X	PMS8102X	[UIColor pantonePMS8102XColor]	[UIColor colorWithRed:1.000 green:0.737 blue:0.129 alpha:1.0]
-PMS811	PMS811	[UIColor pantonePMS811Color]	[UIColor colorWithRed:1.000 green:0.447 blue:0.278 alpha:1.0]
-PMS8112X	PMS8112X	[UIColor pantonePMS8112XColor]	[UIColor colorWithRed:1.000 green:0.329 blue:0.086 alpha:1.0]
-PMS812	PMS812	[UIColor pantonePMS812Color]	[UIColor colorWithRed:0.988 green:0.137 blue:0.400 alpha:1.0]
-PMS8122X	PMS8122X	[UIColor pantonePMS8122XColor]	[UIColor colorWithRed:0.988 green:0.027 blue:0.310 alpha:1.0]
-PMS813	PMS813	[UIColor pantonePMS813Color]	[UIColor colorWithRed:0.898 green:0.000 blue:0.600 alpha:1.0]
-PMS8132X	PMS8132X	[UIColor pantonePMS8132XColor]	[UIColor colorWithRed:0.820 green:0.000 blue:0.518 alpha:1.0]
-PMS814	PMS814	[UIColor pantonePMS814Color]	[UIColor colorWithRed:0.549 green:0.376 blue:0.757 alpha:1.0]
-PMS8142X	PMS8142X	[UIColor pantonePMS8142XColor]	[UIColor colorWithRed:0.439 green:0.247 blue:0.686 alpha:1.0]
-PantoneYellow	PantoneYellow	[UIColor pantonePantoneYellowColor]	[UIColor colorWithRed:0.988 green:0.878 blue:0.086 alpha:1.0]
-ProcessBlue	ProcessBlue	[UIColor pantoneProcessBlueColor]	[UIColor colorWithRed:0.000 green:0.569 blue:0.788 alpha:1.0]
-ProcessBlue2X	ProcessBlue2X	[UIColor pantoneProcessBlue2XColor]	[UIColor colorWithRed:0.000 green:0.467 blue:0.749 alpha:1.0]
-ProcessYellow	ProcessYellow	[UIColor pantoneProcessYellowColor]	[UIColor colorWithRed:0.969 green:0.886 blue:0.078 alpha:1.0]
-Purple	Purple	[UIColor pantonePurpleColor]	[UIColor colorWithRed:0.749 green:0.188 blue:0.710 alpha:1.0]
-Purple2X	Purple2X	[UIColor pantonePurple2XColor]	[UIColor colorWithRed:0.667 green:0.000 blue:0.588 alpha:1.0]
-Red032	Red032	[UIColor pantoneRed032Color]	[UIColor colorWithRed:0.937 green:0.169 blue:0.176 alpha:1.0]
-ReflexBlue	ReflexBlue	[UIColor pantoneReflexBlueColor]	[UIColor colorWithRed:0.047 green:0.110 blue:0.549 alpha:1.0]
-ReflexBlue2X	ReflexBlue2X	[UIColor pantoneReflexBlue2XColor]	[UIColor colorWithRed:0.110 green:0.000 blue:0.478 alpha:1.0]
-RhodamineRed	RhodamineRed	[UIColor pantoneRhodamineRedColor]	[UIColor colorWithRed:0.929 green:0.000 blue:0.569 alpha:1.0]
-RhodamineRed2X	RhodamineRed2X	[UIColor pantoneRhodamineRed2XColor]	[UIColor colorWithRed:0.820 green:0.020 blue:0.447 alpha:1.0]
-RubineRed	RubineRed	[UIColor pantoneRubineRedColor]	[UIColor colorWithRed:0.820 green:0.000 blue:0.337 alpha:1.0]
-RubineRed2X	RubineRed2X	[UIColor pantoneRubineRed2XColor]	[UIColor colorWithRed:0.776 green:0.000 blue:0.239 alpha:1.0]
-Violet	Violet	[UIColor pantoneVioletColor]	[UIColor colorWithRed:0.400 green:0.027 blue:0.647 alpha:1.0]
-Violet2X	Violet2X	[UIColor pantoneViolet2XColor]	[UIColor colorWithRed:0.349 green:0.000 blue:0.557 alpha:1.0]
-WarmGray1	WarmGray1	[UIColor pantoneWarmGray1Color]	[UIColor colorWithRed:0.898 green:0.859 blue:0.800 alpha:1.0]
-WarmGray10	WarmGray10	[UIColor pantoneWarmGray10Color]	[UIColor colorWithRed:0.510 green:0.447 blue:0.388 alpha:1.0]
-WarmGray11	WarmGray11	[UIColor pantoneWarmGray11Color]	[UIColor colorWithRed:0.427 green:0.369 blue:0.318 alpha:1.0]
-WarmGray2	WarmGray2	[UIColor pantoneWarmGray2Color]	[UIColor colorWithRed:0.867 green:0.820 blue:0.757 alpha:1.0]
-WarmGray3	WarmGray3	[UIColor pantoneWarmGray3Color]	[UIColor colorWithRed:0.800 green:0.757 blue:0.698 alpha:1.0]
-WarmGray4	WarmGray4	[UIColor pantoneWarmGray4Color]	[UIColor colorWithRed:0.757 green:0.710 blue:0.647 alpha:1.0]
-WarmGray5	WarmGray5	[UIColor pantoneWarmGray5Color]	[UIColor colorWithRed:0.710 green:0.659 blue:0.600 alpha:1.0]
-WarmGray6	WarmGray6	[UIColor pantoneWarmGray6Color]	[UIColor colorWithRed:0.686 green:0.639 blue:0.576 alpha:1.0]
-WarmGray7	WarmGray7	[UIColor pantoneWarmGray7Color]	[UIColor colorWithRed:0.639 green:0.588 blue:0.529 alpha:1.0]
-WarmGray8	WarmGray8	[UIColor pantoneWarmGray8Color]	[UIColor colorWithRed:0.588 green:0.537 blue:0.478 alpha:1.0]
-WarmGray9	WarmGray9	[UIColor pantoneWarmGray9Color]	[UIColor colorWithRed:0.549 green:0.498 blue:0.439 alpha:1.0]
-WarmRed	WarmRed	[UIColor pantoneWarmRedColor]	[UIColor colorWithRed:0.976 green:0.247 blue:0.149 alpha:1.0]
-WarmRed2X	WarmRed2X	[UIColor pantoneWarmRed2XColor]	[UIColor colorWithRed:0.878 green:0.227 blue:0.000 alpha:1.0]
-Yellow2X	Yellow2X	[UIColor pantoneYellow2XColor]	[UIColor colorWithRed:0.988 green:0.886 blue:0.086 alpha:1.0]
+<table>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlackColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlackColor.png" width="32" height="32" alt="Black" style="max-width:100%;"></a></td>
+        <td>Black</td>
+        <td>[UIColor pantoneBlackColor]</td>
+        <td>[UIColor colorWithRed:0.239 green:0.200 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack2Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack2Color.png" width="32" height="32" alt="Black2" style="max-width:100%;"></a></td>
+        <td>Black2</td>
+        <td>[UIColor pantoneBlack2Color]</td>
+        <td>[UIColor colorWithRed:0.227 green:0.200 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack22XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack22XColor.png" width="32" height="32" alt="Black22X" style="max-width:100%;"></a></td>
+        <td>Black22X</td>
+        <td>[UIColor pantoneBlack22XColor]</td>
+        <td>[UIColor colorWithRed:0.067 green:0.067 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack3Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack3Color.png" width="32" height="32" alt="Black3" style="max-width:100%;"></a></td>
+        <td>Black3</td>
+        <td>[UIColor pantoneBlack3Color]</td>
+        <td>[UIColor colorWithRed:0.157 green:0.176 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack32XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack32XColor.png" width="32" height="32" alt="Black32X" style="max-width:100%;"></a></td>
+        <td>Black32X</td>
+        <td>[UIColor pantoneBlack32XColor]</td>
+        <td>[UIColor colorWithRed:0.067 green:0.067 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack4Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack4Color.png" width="32" height="32" alt="Black4" style="max-width:100%;"></a></td>
+        <td>Black4</td>
+        <td>[UIColor pantoneBlack4Color]</td>
+        <td>[UIColor colorWithRed:0.239 green:0.188 blue:0.137 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack42XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack42XColor.png" width="32" height="32" alt="Black42X" style="max-width:100%;"></a></td>
+        <td>Black42X</td>
+        <td>[UIColor pantoneBlack42XColor]</td>
+        <td>[UIColor colorWithRed:0.059 green:0.059 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack5Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack5Color.png" width="32" height="32" alt="Black5" style="max-width:100%;"></a></td>
+        <td>Black5</td>
+        <td>[UIColor pantoneBlack5Color]</td>
+        <td>[UIColor colorWithRed:0.259 green:0.176 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack52XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack52XColor.png" width="32" height="32" alt="Black52X" style="max-width:100%;"></a></td>
+        <td>Black52X</td>
+        <td>[UIColor pantoneBlack52XColor]</td>
+        <td>[UIColor colorWithRed:0.067 green:0.047 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack6Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack6Color.png" width="32" height="32" alt="Black6" style="max-width:100%;"></a></td>
+        <td>Black6</td>
+        <td>[UIColor pantoneBlack6Color]</td>
+        <td>[UIColor colorWithRed:0.110 green:0.149 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack62XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack62XColor.png" width="32" height="32" alt="Black62X" style="max-width:100%;"></a></td>
+        <td>Black62X</td>
+        <td>[UIColor pantoneBlack62XColor]</td>
+        <td>[UIColor colorWithRed:0.027 green:0.047 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack7Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack7Color.png" width="32" height="32" alt="Black7" style="max-width:100%;"></a></td>
+        <td>Black7</td>
+        <td>[UIColor pantoneBlack7Color]</td>
+        <td>[UIColor colorWithRed:0.267 green:0.239 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack72XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlack72XColor.png" width="32" height="32" alt="Black72X" style="max-width:100%;"></a></td>
+        <td>Black72X</td>
+        <td>[UIColor pantoneBlack72XColor]</td>
+        <td>[UIColor colorWithRed:0.200 green:0.188 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlue072Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneBlue072Color.png" width="32" height="32" alt="Blue072" style="max-width:100%;"></a></td>
+        <td>Blue072</td>
+        <td>[UIColor pantoneBlue072Color]</td>
+        <td>[UIColor colorWithRed:0.220 green:0.000 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray1Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray1Color.png" width="32" height="32" alt="CoolGray1" style="max-width:100%;"></a></td>
+        <td>CoolGray1</td>
+        <td>[UIColor pantoneCoolGray1Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.886 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray10Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray10Color.png" width="32" height="32" alt="CoolGray10" style="max-width:100%;"></a></td>
+        <td>CoolGray10</td>
+        <td>[UIColor pantoneCoolGray10Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.467 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray11Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray11Color.png" width="32" height="32" alt="CoolGray11" style="max-width:100%;"></a></td>
+        <td>CoolGray11</td>
+        <td>[UIColor pantoneCoolGray11Color]</td>
+        <td>[UIColor colorWithRed:0.408 green:0.400 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray2Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray2Color.png" width="32" height="32" alt="CoolGray2" style="max-width:100%;"></a></td>
+        <td>CoolGray2</td>
+        <td>[UIColor pantoneCoolGray2Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.847 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray3Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray3Color.png" width="32" height="32" alt="CoolGray3" style="max-width:100%;"></a></td>
+        <td>CoolGray3</td>
+        <td>[UIColor pantoneCoolGray3Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.808 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray4Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray4Color.png" width="32" height="32" alt="CoolGray4" style="max-width:100%;"></a></td>
+        <td>CoolGray4</td>
+        <td>[UIColor pantoneCoolGray4Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.757 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray5Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray5Color.png" width="32" height="32" alt="CoolGray5" style="max-width:100%;"></a></td>
+        <td>CoolGray5</td>
+        <td>[UIColor pantoneCoolGray5Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.718 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray6Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray6Color.png" width="32" height="32" alt="CoolGray6" style="max-width:100%;"></a></td>
+        <td>CoolGray6</td>
+        <td>[UIColor pantoneCoolGray6Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.698 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray7Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray7Color.png" width="32" height="32" alt="CoolGray7" style="max-width:100%;"></a></td>
+        <td>CoolGray7</td>
+        <td>[UIColor pantoneCoolGray7Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.639 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray8Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray8Color.png" width="32" height="32" alt="CoolGray8" style="max-width:100%;"></a></td>
+        <td>CoolGray8</td>
+        <td>[UIColor pantoneCoolGray8Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.600 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray9Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneCoolGray9Color.png" width="32" height="32" alt="CoolGray9" style="max-width:100%;"></a></td>
+        <td>CoolGray9</td>
+        <td>[UIColor pantoneCoolGray9Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.537 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneGreenColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneGreenColor.png" width="32" height="32" alt="Green" style="max-width:100%;"></a></td>
+        <td>Green</td>
+        <td>[UIColor pantoneGreenColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.686 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneGreen2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneGreen2XColor.png" width="32" height="32" alt="Green2X" style="max-width:100%;"></a></td>
+        <td>Green2X</td>
+        <td>[UIColor pantoneGreen2XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.588 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneOrange021Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneOrange021Color.png" width="32" height="32" alt="Orange021" style="max-width:100%;"></a></td>
+        <td>Orange021</td>
+        <td>[UIColor pantoneOrange021Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.420 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS100Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS100Color.png" width="32" height="32" alt="PMS100" style="max-width:100%;"></a></td>
+        <td>PMS100</td>
+        <td>[UIColor pantonePMS100Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.929 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS101Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS101Color.png" width="32" height="32" alt="PMS101" style="max-width:100%;"></a></td>
+        <td>PMS101</td>
+        <td>[UIColor pantonePMS101Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.929 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS102Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS102Color.png" width="32" height="32" alt="PMS102" style="max-width:100%;"></a></td>
+        <td>PMS102</td>
+        <td>[UIColor pantonePMS102Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.910 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS103Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS103Color.png" width="32" height="32" alt="PMS103" style="max-width:100%;"></a></td>
+        <td>PMS103</td>
+        <td>[UIColor pantonePMS103Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.678 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS104Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS104Color.png" width="32" height="32" alt="PMS104" style="max-width:100%;"></a></td>
+        <td>PMS104</td>
+        <td>[UIColor pantonePMS104Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.608 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS105Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS105Color.png" width="32" height="32" alt="PMS105" style="max-width:100%;"></a></td>
+        <td>PMS105</td>
+        <td>[UIColor pantonePMS105Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.459 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS106Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS106Color.png" width="32" height="32" alt="PMS106" style="max-width:100%;"></a></td>
+        <td>PMS106</td>
+        <td>[UIColor pantonePMS106Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.910 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS107Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS107Color.png" width="32" height="32" alt="PMS107" style="max-width:100%;"></a></td>
+        <td>PMS107</td>
+        <td>[UIColor pantonePMS107Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.898 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS108Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS108Color.png" width="32" height="32" alt="PMS108" style="max-width:100%;"></a></td>
+        <td>PMS108</td>
+        <td>[UIColor pantonePMS108Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.867 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS109Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS109Color.png" width="32" height="32" alt="PMS109" style="max-width:100%;"></a></td>
+        <td>PMS109</td>
+        <td>[UIColor pantonePMS109Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.839 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS110Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS110Color.png" width="32" height="32" alt="PMS110" style="max-width:100%;"></a></td>
+        <td>PMS110</td>
+        <td>[UIColor pantonePMS110Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.710 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS111Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS111Color.png" width="32" height="32" alt="PMS111" style="max-width:100%;"></a></td>
+        <td>PMS111</td>
+        <td>[UIColor pantonePMS111Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.576 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS112Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS112Color.png" width="32" height="32" alt="PMS112" style="max-width:100%;"></a></td>
+        <td>PMS112</td>
+        <td>[UIColor pantonePMS112Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.518 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS113Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS113Color.png" width="32" height="32" alt="PMS113" style="max-width:100%;"></a></td>
+        <td>PMS113</td>
+        <td>[UIColor pantonePMS113Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.898 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS114Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS114Color.png" width="32" height="32" alt="PMS114" style="max-width:100%;"></a></td>
+        <td>PMS114</td>
+        <td>[UIColor pantonePMS114Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.886 blue:0.298 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS115Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS115Color.png" width="32" height="32" alt="PMS115" style="max-width:100%;"></a></td>
+        <td>PMS115</td>
+        <td>[UIColor pantonePMS115Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.878 blue:0.298 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS116Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS116Color.png" width="32" height="32" alt="PMS116" style="max-width:100%;"></a></td>
+        <td>PMS116</td>
+        <td>[UIColor pantonePMS116Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.820 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1162XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1162XColor.png" width="32" height="32" alt="PMS1162X" style="max-width:100%;"></a></td>
+        <td>PMS1162X</td>
+        <td>[UIColor pantonePMS1162XColor]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.710 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS117Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS117Color.png" width="32" height="32" alt="PMS117" style="max-width:100%;"></a></td>
+        <td>PMS117</td>
+        <td>[UIColor pantonePMS117Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.627 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS118Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS118Color.png" width="32" height="32" alt="PMS118" style="max-width:100%;"></a></td>
+        <td>PMS118</td>
+        <td>[UIColor pantonePMS118Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.557 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS119Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS119Color.png" width="32" height="32" alt="PMS119" style="max-width:100%;"></a></td>
+        <td>PMS119</td>
+        <td>[UIColor pantonePMS119Color]</td>
+        <td>[UIColor colorWithRed:0.537 green:0.467 blue:0.098 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS120Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS120Color.png" width="32" height="32" alt="PMS120" style="max-width:100%;"></a></td>
+        <td>PMS120</td>
+        <td>[UIColor pantonePMS120Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.886 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1205Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1205Color.png" width="32" height="32" alt="PMS1205" style="max-width:100%;"></a></td>
+        <td>PMS1205</td>
+        <td>[UIColor pantonePMS1205Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.910 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS121Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS121Color.png" width="32" height="32" alt="PMS121" style="max-width:100%;"></a></td>
+        <td>PMS121</td>
+        <td>[UIColor pantonePMS121Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.878 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1215Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1215Color.png" width="32" height="32" alt="PMS1215" style="max-width:100%;"></a></td>
+        <td>PMS1215</td>
+        <td>[UIColor pantonePMS1215Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.878 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS122Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS122Color.png" width="32" height="32" alt="PMS122" style="max-width:100%;"></a></td>
+        <td>PMS122</td>
+        <td>[UIColor pantonePMS122Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.847 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1225Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1225Color.png" width="32" height="32" alt="PMS1225" style="max-width:100%;"></a></td>
+        <td>PMS1225</td>
+        <td>[UIColor pantonePMS1225Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.800 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS123Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS123Color.png" width="32" height="32" alt="PMS123" style="max-width:100%;"></a></td>
+        <td>PMS123</td>
+        <td>[UIColor pantonePMS123Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.776 blue:0.118 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1235Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1235Color.png" width="32" height="32" alt="PMS1235" style="max-width:100%;"></a></td>
+        <td>PMS1235</td>
+        <td>[UIColor pantonePMS1235Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.710 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS124Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS124Color.png" width="32" height="32" alt="PMS124" style="max-width:100%;"></a></td>
+        <td>PMS124</td>
+        <td>[UIColor pantonePMS124Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.667 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1245Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1245Color.png" width="32" height="32" alt="PMS1245" style="max-width:100%;"></a></td>
+        <td>PMS1245</td>
+        <td>[UIColor pantonePMS1245Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.569 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS125Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS125Color.png" width="32" height="32" alt="PMS125" style="max-width:100%;"></a></td>
+        <td>PMS125</td>
+        <td>[UIColor pantonePMS125Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.549 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1255Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1255Color.png" width="32" height="32" alt="PMS1255" style="max-width:100%;"></a></td>
+        <td>PMS1255</td>
+        <td>[UIColor pantonePMS1255Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.498 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1265Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1265Color.png" width="32" height="32" alt="PMS1265" style="max-width:100%;"></a></td>
+        <td>PMS1265</td>
+        <td>[UIColor pantonePMS1265Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.388 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS127Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS127Color.png" width="32" height="32" alt="PMS127" style="max-width:100%;"></a></td>
+        <td>PMS127</td>
+        <td>[UIColor pantonePMS127Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.886 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS128Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS128Color.png" width="32" height="32" alt="PMS128" style="max-width:100%;"></a></td>
+        <td>PMS128</td>
+        <td>[UIColor pantonePMS128Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.859 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS129Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS129Color.png" width="32" height="32" alt="PMS129" style="max-width:100%;"></a></td>
+        <td>PMS129</td>
+        <td>[UIColor pantonePMS129Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.820 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS130Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS130Color.png" width="32" height="32" alt="PMS130" style="max-width:100%;"></a></td>
+        <td>PMS130</td>
+        <td>[UIColor pantonePMS130Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.686 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1302XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1302XColor.png" width="32" height="32" alt="PMS1302X" style="max-width:100%;"></a></td>
+        <td>PMS1302X</td>
+        <td>[UIColor pantonePMS1302XColor]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.569 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS131Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS131Color.png" width="32" height="32" alt="PMS131" style="max-width:100%;"></a></td>
+        <td>PMS131</td>
+        <td>[UIColor pantonePMS131Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.576 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS132Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS132Color.png" width="32" height="32" alt="PMS132" style="max-width:100%;"></a></td>
+        <td>PMS132</td>
+        <td>[UIColor pantonePMS132Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.486 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS133Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS133Color.png" width="32" height="32" alt="PMS133" style="max-width:100%;"></a></td>
+        <td>PMS133</td>
+        <td>[UIColor pantonePMS133Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.357 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS134Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS134Color.png" width="32" height="32" alt="PMS134" style="max-width:100%;"></a></td>
+        <td>PMS134</td>
+        <td>[UIColor pantonePMS134Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.847 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1345Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1345Color.png" width="32" height="32" alt="PMS1345" style="max-width:100%;"></a></td>
+        <td>PMS1345</td>
+        <td>[UIColor pantonePMS1345Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.839 blue:0.569 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS135Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS135Color.png" width="32" height="32" alt="PMS135" style="max-width:100%;"></a></td>
+        <td>PMS135</td>
+        <td>[UIColor pantonePMS135Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.788 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1355Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1355Color.png" width="32" height="32" alt="PMS1355" style="max-width:100%;"></a></td>
+        <td>PMS1355</td>
+        <td>[UIColor pantonePMS1355Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.808 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS136Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS136Color.png" width="32" height="32" alt="PMS136" style="max-width:100%;"></a></td>
+        <td>PMS136</td>
+        <td>[UIColor pantonePMS136Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.749 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1365Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1365Color.png" width="32" height="32" alt="PMS1365" style="max-width:100%;"></a></td>
+        <td>PMS1365</td>
+        <td>[UIColor pantonePMS1365Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.729 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS137Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS137Color.png" width="32" height="32" alt="PMS137" style="max-width:100%;"></a></td>
+        <td>PMS137</td>
+        <td>[UIColor pantonePMS137Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.639 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1375Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1375Color.png" width="32" height="32" alt="PMS1375" style="max-width:100%;"></a></td>
+        <td>PMS1375</td>
+        <td>[UIColor pantonePMS1375Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.608 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS138Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS138Color.png" width="32" height="32" alt="PMS138" style="max-width:100%;"></a></td>
+        <td>PMS138</td>
+        <td>[UIColor pantonePMS138Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.549 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1385Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1385Color.png" width="32" height="32" alt="PMS1385" style="max-width:100%;"></a></td>
+        <td>PMS1385</td>
+        <td>[UIColor pantonePMS1385Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.478 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS139Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS139Color.png" width="32" height="32" alt="PMS139" style="max-width:100%;"></a></td>
+        <td>PMS139</td>
+        <td>[UIColor pantonePMS139Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.459 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1395Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1395Color.png" width="32" height="32" alt="PMS1395" style="max-width:100%;"></a></td>
+        <td>PMS1395</td>
+        <td>[UIColor pantonePMS1395Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.376 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS140Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS140Color.png" width="32" height="32" alt="PMS140" style="max-width:100%;"></a></td>
+        <td>PMS140</td>
+        <td>[UIColor pantonePMS140Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.357 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1405Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1405Color.png" width="32" height="32" alt="PMS1405" style="max-width:100%;"></a></td>
+        <td>PMS1405</td>
+        <td>[UIColor pantonePMS1405Color]</td>
+        <td>[UIColor colorWithRed:0.420 green:0.278 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS141Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS141Color.png" width="32" height="32" alt="PMS141" style="max-width:100%;"></a></td>
+        <td>PMS141</td>
+        <td>[UIColor pantonePMS141Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.808 blue:0.408 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS142Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS142Color.png" width="32" height="32" alt="PMS142" style="max-width:100%;"></a></td>
+        <td>PMS142</td>
+        <td>[UIColor pantonePMS142Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.749 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS143Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS143Color.png" width="32" height="32" alt="PMS143" style="max-width:100%;"></a></td>
+        <td>PMS143</td>
+        <td>[UIColor pantonePMS143Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.698 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS144Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS144Color.png" width="32" height="32" alt="PMS144" style="max-width:100%;"></a></td>
+        <td>PMS144</td>
+        <td>[UIColor pantonePMS144Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.549 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS145Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS145Color.png" width="32" height="32" alt="PMS145" style="max-width:100%;"></a></td>
+        <td>PMS145</td>
+        <td>[UIColor pantonePMS145Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.498 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS146Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS146Color.png" width="32" height="32" alt="PMS146" style="max-width:100%;"></a></td>
+        <td>PMS146</td>
+        <td>[UIColor pantonePMS146Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.420 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS147Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS147Color.png" width="32" height="32" alt="PMS147" style="max-width:100%;"></a></td>
+        <td>PMS147</td>
+        <td>[UIColor pantonePMS147Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.369 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS148Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS148Color.png" width="32" height="32" alt="PMS148" style="max-width:100%;"></a></td>
+        <td>PMS148</td>
+        <td>[UIColor pantonePMS148Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.839 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1485Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1485Color.png" width="32" height="32" alt="PMS1485" style="max-width:100%;"></a></td>
+        <td>PMS1485</td>
+        <td>[UIColor pantonePMS1485Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.718 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS149Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS149Color.png" width="32" height="32" alt="PMS149" style="max-width:100%;"></a></td>
+        <td>PMS149</td>
+        <td>[UIColor pantonePMS149Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.800 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1495Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1495Color.png" width="32" height="32" alt="PMS1495" style="max-width:100%;"></a></td>
+        <td>PMS1495</td>
+        <td>[UIColor pantonePMS1495Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.600 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS150Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS150Color.png" width="32" height="32" alt="PMS150" style="max-width:100%;"></a></td>
+        <td>PMS150</td>
+        <td>[UIColor pantonePMS150Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.678 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1505Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1505Color.png" width="32" height="32" alt="PMS1505" style="max-width:100%;"></a></td>
+        <td>PMS1505</td>
+        <td>[UIColor pantonePMS1505Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.486 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS151Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS151Color.png" width="32" height="32" alt="PMS151" style="max-width:100%;"></a></td>
+        <td>PMS151</td>
+        <td>[UIColor pantonePMS151Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.498 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS152Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS152Color.png" width="32" height="32" alt="PMS152" style="max-width:100%;"></a></td>
+        <td>PMS152</td>
+        <td>[UIColor pantonePMS152Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.459 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1525Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1525Color.png" width="32" height="32" alt="PMS1525" style="max-width:100%;"></a></td>
+        <td>PMS1525</td>
+        <td>[UIColor pantonePMS1525Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.329 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS153Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS153Color.png" width="32" height="32" alt="PMS153" style="max-width:100%;"></a></td>
+        <td>PMS153</td>
+        <td>[UIColor pantonePMS153Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.427 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1535Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1535Color.png" width="32" height="32" alt="PMS1535" style="max-width:100%;"></a></td>
+        <td>PMS1535</td>
+        <td>[UIColor pantonePMS1535Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.267 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS154Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS154Color.png" width="32" height="32" alt="PMS154" style="max-width:100%;"></a></td>
+        <td>PMS154</td>
+        <td>[UIColor pantonePMS154Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.349 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1545Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1545Color.png" width="32" height="32" alt="PMS1545" style="max-width:100%;"></a></td>
+        <td>PMS1545</td>
+        <td>[UIColor pantonePMS1545Color]</td>
+        <td>[UIColor colorWithRed:0.298 green:0.157 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS155Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS155Color.png" width="32" height="32" alt="PMS155" style="max-width:100%;"></a></td>
+        <td>PMS155</td>
+        <td>[UIColor pantonePMS155Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.859 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1555Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1555Color.png" width="32" height="32" alt="PMS1555" style="max-width:100%;"></a></td>
+        <td>PMS1555</td>
+        <td>[UIColor pantonePMS1555Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.749 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS156Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS156Color.png" width="32" height="32" alt="PMS156" style="max-width:100%;"></a></td>
+        <td>PMS156</td>
+        <td>[UIColor pantonePMS156Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.776 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1565Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1565Color.png" width="32" height="32" alt="PMS1565" style="max-width:100%;"></a></td>
+        <td>PMS1565</td>
+        <td>[UIColor pantonePMS1565Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.647 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS157Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS157Color.png" width="32" height="32" alt="PMS157" style="max-width:100%;"></a></td>
+        <td>PMS157</td>
+        <td>[UIColor pantonePMS157Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.627 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1575Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1575Color.png" width="32" height="32" alt="PMS1575" style="max-width:100%;"></a></td>
+        <td>PMS1575</td>
+        <td>[UIColor pantonePMS1575Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.529 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS158Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS158Color.png" width="32" height="32" alt="PMS158" style="max-width:100%;"></a></td>
+        <td>PMS158</td>
+        <td>[UIColor pantonePMS158Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.459 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1585Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1585Color.png" width="32" height="32" alt="PMS1585" style="max-width:100%;"></a></td>
+        <td>PMS1585</td>
+        <td>[UIColor pantonePMS1585Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.420 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS159Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS159Color.png" width="32" height="32" alt="PMS159" style="max-width:100%;"></a></td>
+        <td>PMS159</td>
+        <td>[UIColor pantonePMS159Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.376 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1595Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1595Color.png" width="32" height="32" alt="PMS1595" style="max-width:100%;"></a></td>
+        <td>PMS1595</td>
+        <td>[UIColor pantonePMS1595Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.357 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS160Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS160Color.png" width="32" height="32" alt="PMS160" style="max-width:100%;"></a></td>
+        <td>PMS160</td>
+        <td>[UIColor pantonePMS160Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.329 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1605Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1605Color.png" width="32" height="32" alt="PMS1605" style="max-width:100%;"></a></td>
+        <td>PMS1605</td>
+        <td>[UIColor pantonePMS1605Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.310 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS161Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS161Color.png" width="32" height="32" alt="PMS161" style="max-width:100%;"></a></td>
+        <td>PMS161</td>
+        <td>[UIColor pantonePMS161Color]</td>
+        <td>[UIColor colorWithRed:0.388 green:0.227 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1615Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1615Color.png" width="32" height="32" alt="PMS1615" style="max-width:100%;"></a></td>
+        <td>PMS1615</td>
+        <td>[UIColor pantonePMS1615Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.247 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS162Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS162Color.png" width="32" height="32" alt="PMS162" style="max-width:100%;"></a></td>
+        <td>PMS162</td>
+        <td>[UIColor pantonePMS162Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.776 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1625Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1625Color.png" width="32" height="32" alt="PMS1625" style="max-width:100%;"></a></td>
+        <td>PMS1625</td>
+        <td>[UIColor pantonePMS1625Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.647 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS163Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS163Color.png" width="32" height="32" alt="PMS163" style="max-width:100%;"></a></td>
+        <td>PMS163</td>
+        <td>[UIColor pantonePMS163Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.620 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1635Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1635Color.png" width="32" height="32" alt="PMS1635" style="max-width:100%;"></a></td>
+        <td>PMS1635</td>
+        <td>[UIColor pantonePMS1635Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.557 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS164Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS164Color.png" width="32" height="32" alt="PMS164" style="max-width:100%;"></a></td>
+        <td>PMS164</td>
+        <td>[UIColor pantonePMS164Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.498 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1645Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1645Color.png" width="32" height="32" alt="PMS1645" style="max-width:100%;"></a></td>
+        <td>PMS1645</td>
+        <td>[UIColor pantonePMS1645Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.447 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS165Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS165Color.png" width="32" height="32" alt="PMS165" style="max-width:100%;"></a></td>
+        <td>PMS165</td>
+        <td>[UIColor pantonePMS165Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.388 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1652XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1652XColor.png" width="32" height="32" alt="PMS1652X" style="max-width:100%;"></a></td>
+        <td>PMS1652X</td>
+        <td>[UIColor pantonePMS1652XColor]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.310 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1655Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1655Color.png" width="32" height="32" alt="PMS1655" style="max-width:100%;"></a></td>
+        <td>PMS1655</td>
+        <td>[UIColor pantonePMS1655Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.337 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS166Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS166Color.png" width="32" height="32" alt="PMS166" style="max-width:100%;"></a></td>
+        <td>PMS166</td>
+        <td>[UIColor pantonePMS166Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.349 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1665Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1665Color.png" width="32" height="32" alt="PMS1665" style="max-width:100%;"></a></td>
+        <td>PMS1665</td>
+        <td>[UIColor pantonePMS1665Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.337 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS167Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS167Color.png" width="32" height="32" alt="PMS167" style="max-width:100%;"></a></td>
+        <td>PMS167</td>
+        <td>[UIColor pantonePMS167Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.310 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1675Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1675Color.png" width="32" height="32" alt="PMS1675" style="max-width:100%;"></a></td>
+        <td>PMS1675</td>
+        <td>[UIColor pantonePMS1675Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.247 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS168Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS168Color.png" width="32" height="32" alt="PMS168" style="max-width:100%;"></a></td>
+        <td>PMS168</td>
+        <td>[UIColor pantonePMS168Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.188 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1685Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1685Color.png" width="32" height="32" alt="PMS1685" style="max-width:100%;"></a></td>
+        <td>PMS1685</td>
+        <td>[UIColor pantonePMS1685Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.208 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS169Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS169Color.png" width="32" height="32" alt="PMS169" style="max-width:100%;"></a></td>
+        <td>PMS169</td>
+        <td>[UIColor pantonePMS169Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.729 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS170Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS170Color.png" width="32" height="32" alt="PMS170" style="max-width:100%;"></a></td>
+        <td>PMS170</td>
+        <td>[UIColor pantonePMS170Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.537 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS171Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS171Color.png" width="32" height="32" alt="PMS171" style="max-width:100%;"></a></td>
+        <td>PMS171</td>
+        <td>[UIColor pantonePMS171Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.376 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS172Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS172Color.png" width="32" height="32" alt="PMS172" style="max-width:100%;"></a></td>
+        <td>PMS172</td>
+        <td>[UIColor pantonePMS172Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.286 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS173Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS173Color.png" width="32" height="32" alt="PMS173" style="max-width:100%;"></a></td>
+        <td>PMS173</td>
+        <td>[UIColor pantonePMS173Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.267 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS174Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS174Color.png" width="32" height="32" alt="PMS174" style="max-width:100%;"></a></td>
+        <td>PMS174</td>
+        <td>[UIColor pantonePMS174Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.200 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS175Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS175Color.png" width="32" height="32" alt="PMS175" style="max-width:100%;"></a></td>
+        <td>PMS175</td>
+        <td>[UIColor pantonePMS175Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.200 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS176Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS176Color.png" width="32" height="32" alt="PMS176" style="max-width:100%;"></a></td>
+        <td>PMS176</td>
+        <td>[UIColor pantonePMS176Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.686 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1765Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1765Color.png" width="32" height="32" alt="PMS1765" style="max-width:100%;"></a></td>
+        <td>PMS1765</td>
+        <td>[UIColor pantonePMS1765Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.620 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1767Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1767Color.png" width="32" height="32" alt="PMS1767" style="max-width:100%;"></a></td>
+        <td>PMS1767</td>
+        <td>[UIColor pantonePMS1767Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.698 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS177Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS177Color.png" width="32" height="32" alt="PMS177" style="max-width:100%;"></a></td>
+        <td>PMS177</td>
+        <td>[UIColor pantonePMS177Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.510 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1775Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1775Color.png" width="32" height="32" alt="PMS1775" style="max-width:100%;"></a></td>
+        <td>PMS1775</td>
+        <td>[UIColor pantonePMS1775Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.518 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1777Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1777Color.png" width="32" height="32" alt="PMS1777" style="max-width:100%;"></a></td>
+        <td>PMS1777</td>
+        <td>[UIColor pantonePMS1777Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.400 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS178Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS178Color.png" width="32" height="32" alt="PMS178" style="max-width:100%;"></a></td>
+        <td>PMS178</td>
+        <td>[UIColor pantonePMS178Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.369 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1785Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1785Color.png" width="32" height="32" alt="PMS1785" style="max-width:100%;"></a></td>
+        <td>PMS1785</td>
+        <td>[UIColor pantonePMS1785Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.310 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1787Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1787Color.png" width="32" height="32" alt="PMS1787" style="max-width:100%;"></a></td>
+        <td>PMS1787</td>
+        <td>[UIColor pantonePMS1787Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.247 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1788Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1788Color.png" width="32" height="32" alt="PMS1788" style="max-width:100%;"></a></td>
+        <td>PMS1788</td>
+        <td>[UIColor pantonePMS1788Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.169 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS17882XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS17882XColor.png" width="32" height="32" alt="PMS17882X" style="max-width:100%;"></a></td>
+        <td>PMS17882X</td>
+        <td>[UIColor pantonePMS17882XColor]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.129 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS179Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS179Color.png" width="32" height="32" alt="PMS179" style="max-width:100%;"></a></td>
+        <td>PMS179</td>
+        <td>[UIColor pantonePMS179Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.239 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1795Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1795Color.png" width="32" height="32" alt="PMS1795" style="max-width:100%;"></a></td>
+        <td>PMS1795</td>
+        <td>[UIColor pantonePMS1795Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.157 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1797Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1797Color.png" width="32" height="32" alt="PMS1797" style="max-width:100%;"></a></td>
+        <td>PMS1797</td>
+        <td>[UIColor pantonePMS1797Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.176 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS180Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS180Color.png" width="32" height="32" alt="PMS180" style="max-width:100%;"></a></td>
+        <td>PMS180</td>
+        <td>[UIColor pantonePMS180Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.220 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1805Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1805Color.png" width="32" height="32" alt="PMS1805" style="max-width:100%;"></a></td>
+        <td>PMS1805</td>
+        <td>[UIColor pantonePMS1805Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.149 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1807Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1807Color.png" width="32" height="32" alt="PMS1807" style="max-width:100%;"></a></td>
+        <td>PMS1807</td>
+        <td>[UIColor pantonePMS1807Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.188 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS181Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS181Color.png" width="32" height="32" alt="PMS181" style="max-width:100%;"></a></td>
+        <td>PMS181</td>
+        <td>[UIColor pantonePMS181Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.176 blue:0.137 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1815Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1815Color.png" width="32" height="32" alt="PMS1815" style="max-width:100%;"></a></td>
+        <td>PMS1815</td>
+        <td>[UIColor pantonePMS1815Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.129 blue:0.118 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1817Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1817Color.png" width="32" height="32" alt="PMS1817" style="max-width:100%;"></a></td>
+        <td>PMS1817</td>
+        <td>[UIColor pantonePMS1817Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.176 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS182Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS182Color.png" width="32" height="32" alt="PMS182" style="max-width:100%;"></a></td>
+        <td>PMS182</td>
+        <td>[UIColor pantonePMS182Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.749 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS183Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS183Color.png" width="32" height="32" alt="PMS183" style="max-width:100%;"></a></td>
+        <td>PMS183</td>
+        <td>[UIColor pantonePMS183Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.549 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS184Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS184Color.png" width="32" height="32" alt="PMS184" style="max-width:100%;"></a></td>
+        <td>PMS184</td>
+        <td>[UIColor pantonePMS184Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.369 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS185Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS185Color.png" width="32" height="32" alt="PMS185" style="max-width:100%;"></a></td>
+        <td>PMS185</td>
+        <td>[UIColor pantonePMS185Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.067 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS18522XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS18522XColor.png" width="32" height="32" alt="PMS18522X" style="max-width:100%;"></a></td>
+        <td>PMS18522X</td>
+        <td>[UIColor pantonePMS18522XColor]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.086 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS186Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS186Color.png" width="32" height="32" alt="PMS186" style="max-width:100%;"></a></td>
+        <td>PMS186</td>
+        <td>[UIColor pantonePMS186Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.067 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS187Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS187Color.png" width="32" height="32" alt="PMS187" style="max-width:100%;"></a></td>
+        <td>PMS187</td>
+        <td>[UIColor pantonePMS187Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.118 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS188Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS188Color.png" width="32" height="32" alt="PMS188" style="max-width:100%;"></a></td>
+        <td>PMS188</td>
+        <td>[UIColor pantonePMS188Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.129 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS189Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS189Color.png" width="32" height="32" alt="PMS189" style="max-width:100%;"></a></td>
+        <td>PMS189</td>
+        <td>[UIColor pantonePMS189Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.639 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1895Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1895Color.png" width="32" height="32" alt="PMS1895" style="max-width:100%;"></a></td>
+        <td>PMS1895</td>
+        <td>[UIColor pantonePMS1895Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.749 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS190Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS190Color.png" width="32" height="32" alt="PMS190" style="max-width:100%;"></a></td>
+        <td>PMS190</td>
+        <td>[UIColor pantonePMS190Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.459 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1905Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1905Color.png" width="32" height="32" alt="PMS1905" style="max-width:100%;"></a></td>
+        <td>PMS1905</td>
+        <td>[UIColor pantonePMS1905Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.608 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS191Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS191Color.png" width="32" height="32" alt="PMS191" style="max-width:100%;"></a></td>
+        <td>PMS191</td>
+        <td>[UIColor pantonePMS191Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.278 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1915Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1915Color.png" width="32" height="32" alt="PMS1915" style="max-width:100%;"></a></td>
+        <td>PMS1915</td>
+        <td>[UIColor pantonePMS1915Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.329 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS192Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS192Color.png" width="32" height="32" alt="PMS192" style="max-width:100%;"></a></td>
+        <td>PMS192</td>
+        <td>[UIColor pantonePMS192Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.020 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1925Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1925Color.png" width="32" height="32" alt="PMS1925" style="max-width:100%;"></a></td>
+        <td>PMS1925</td>
+        <td>[UIColor pantonePMS1925Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.027 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS193Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS193Color.png" width="32" height="32" alt="PMS193" style="max-width:100%;"></a></td>
+        <td>PMS193</td>
+        <td>[UIColor pantonePMS193Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.039 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1935Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1935Color.png" width="32" height="32" alt="PMS1935" style="max-width:100%;"></a></td>
+        <td>PMS1935</td>
+        <td>[UIColor pantonePMS1935Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.020 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS194Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS194Color.png" width="32" height="32" alt="PMS194" style="max-width:100%;"></a></td>
+        <td>PMS194</td>
+        <td>[UIColor pantonePMS194Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.129 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1945Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1945Color.png" width="32" height="32" alt="PMS1945" style="max-width:100%;"></a></td>
+        <td>PMS1945</td>
+        <td>[UIColor pantonePMS1945Color]</td>
+        <td>[UIColor colorWithRed:0.659 green:0.047 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS195Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS195Color.png" width="32" height="32" alt="PMS195" style="max-width:100%;"></a></td>
+        <td>PMS195</td>
+        <td>[UIColor pantonePMS195Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.176 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1955Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS1955Color.png" width="32" height="32" alt="PMS1955" style="max-width:100%;"></a></td>
+        <td>PMS1955</td>
+        <td>[UIColor pantonePMS1955Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.086 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS196Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS196Color.png" width="32" height="32" alt="PMS196" style="max-width:100%;"></a></td>
+        <td>PMS196</td>
+        <td>[UIColor pantonePMS196Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.788 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS197Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS197Color.png" width="32" height="32" alt="PMS197" style="max-width:100%;"></a></td>
+        <td>PMS197</td>
+        <td>[UIColor pantonePMS197Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.600 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS198Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS198Color.png" width="32" height="32" alt="PMS198" style="max-width:100%;"></a></td>
+        <td>PMS198</td>
+        <td>[UIColor pantonePMS198Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.337 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS199Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS199Color.png" width="32" height="32" alt="PMS199" style="max-width:100%;"></a></td>
+        <td>PMS199</td>
+        <td>[UIColor pantonePMS199Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.110 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS200Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS200Color.png" width="32" height="32" alt="PMS200" style="max-width:100%;"></a></td>
+        <td>PMS200</td>
+        <td>[UIColor pantonePMS200Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.118 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS201Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS201Color.png" width="32" height="32" alt="PMS201" style="max-width:100%;"></a></td>
+        <td>PMS201</td>
+        <td>[UIColor pantonePMS201Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.149 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS202Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS202Color.png" width="32" height="32" alt="PMS202" style="max-width:100%;"></a></td>
+        <td>PMS202</td>
+        <td>[UIColor pantonePMS202Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.149 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS203Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS203Color.png" width="32" height="32" alt="PMS203" style="max-width:100%;"></a></td>
+        <td>PMS203</td>
+        <td>[UIColor pantonePMS203Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.686 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS204Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS204Color.png" width="32" height="32" alt="PMS204" style="max-width:100%;"></a></td>
+        <td>PMS204</td>
+        <td>[UIColor pantonePMS204Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.478 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS205Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS205Color.png" width="32" height="32" alt="PMS205" style="max-width:100%;"></a></td>
+        <td>PMS205</td>
+        <td>[UIColor pantonePMS205Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.298 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS206Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS206Color.png" width="32" height="32" alt="PMS206" style="max-width:100%;"></a></td>
+        <td>PMS206</td>
+        <td>[UIColor pantonePMS206Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.020 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS207Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS207Color.png" width="32" height="32" alt="PMS207" style="max-width:100%;"></a></td>
+        <td>PMS207</td>
+        <td>[UIColor pantonePMS207Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.000 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS208Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS208Color.png" width="32" height="32" alt="PMS208" style="max-width:100%;"></a></td>
+        <td>PMS208</td>
+        <td>[UIColor pantonePMS208Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.137 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS209Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS209Color.png" width="32" height="32" alt="PMS209" style="max-width:100%;"></a></td>
+        <td>PMS209</td>
+        <td>[UIColor pantonePMS209Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.149 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS210Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS210Color.png" width="32" height="32" alt="PMS210" style="max-width:100%;"></a></td>
+        <td>PMS210</td>
+        <td>[UIColor pantonePMS210Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.627 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS211Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS211Color.png" width="32" height="32" alt="PMS211" style="max-width:100%;"></a></td>
+        <td>PMS211</td>
+        <td>[UIColor pantonePMS211Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.467 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS212Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS212Color.png" width="32" height="32" alt="PMS212" style="max-width:100%;"></a></td>
+        <td>PMS212</td>
+        <td>[UIColor pantonePMS212Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.310 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS213Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS213Color.png" width="32" height="32" alt="PMS213" style="max-width:100%;"></a></td>
+        <td>PMS213</td>
+        <td>[UIColor pantonePMS213Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.059 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS214Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS214Color.png" width="32" height="32" alt="PMS214" style="max-width:100%;"></a></td>
+        <td>PMS214</td>
+        <td>[UIColor pantonePMS214Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.008 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS215Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS215Color.png" width="32" height="32" alt="PMS215" style="max-width:100%;"></a></td>
+        <td>PMS215</td>
+        <td>[UIColor pantonePMS215Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.020 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS216Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS216Color.png" width="32" height="32" alt="PMS216" style="max-width:100%;"></a></td>
+        <td>PMS216</td>
+        <td>[UIColor pantonePMS216Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.118 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS217Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS217Color.png" width="32" height="32" alt="PMS217" style="max-width:100%;"></a></td>
+        <td>PMS217</td>
+        <td>[UIColor pantonePMS217Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.749 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS218Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS218Color.png" width="32" height="32" alt="PMS218" style="max-width:100%;"></a></td>
+        <td>PMS218</td>
+        <td>[UIColor pantonePMS218Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.447 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS219Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS219Color.png" width="32" height="32" alt="PMS219" style="max-width:100%;"></a></td>
+        <td>PMS219</td>
+        <td>[UIColor pantonePMS219Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.157 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS220Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS220Color.png" width="32" height="32" alt="PMS220" style="max-width:100%;"></a></td>
+        <td>PMS220</td>
+        <td>[UIColor pantonePMS220Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.000 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS221Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS221Color.png" width="32" height="32" alt="PMS221" style="max-width:100%;"></a></td>
+        <td>PMS221</td>
+        <td>[UIColor pantonePMS221Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.000 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS222Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS222Color.png" width="32" height="32" alt="PMS222" style="max-width:100%;"></a></td>
+        <td>PMS222</td>
+        <td>[UIColor pantonePMS222Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.098 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS223Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS223Color.png" width="32" height="32" alt="PMS223" style="max-width:100%;"></a></td>
+        <td>PMS223</td>
+        <td>[UIColor pantonePMS223Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.576 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS224Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS224Color.png" width="32" height="32" alt="PMS224" style="max-width:100%;"></a></td>
+        <td>PMS224</td>
+        <td>[UIColor pantonePMS224Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.420 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS225Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS225Color.png" width="32" height="32" alt="PMS225" style="max-width:100%;"></a></td>
+        <td>PMS225</td>
+        <td>[UIColor pantonePMS225Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.157 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS226Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS226Color.png" width="32" height="32" alt="PMS226" style="max-width:100%;"></a></td>
+        <td>PMS226</td>
+        <td>[UIColor pantonePMS226Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.008 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS227Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS227Color.png" width="32" height="32" alt="PMS227" style="max-width:100%;"></a></td>
+        <td>PMS227</td>
+        <td>[UIColor pantonePMS227Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.000 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS228Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS228Color.png" width="32" height="32" alt="PMS228" style="max-width:100%;"></a></td>
+        <td>PMS228</td>
+        <td>[UIColor pantonePMS228Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.000 blue:0.298 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS229Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS229Color.png" width="32" height="32" alt="PMS229" style="max-width:100%;"></a></td>
+        <td>PMS229</td>
+        <td>[UIColor pantonePMS229Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.129 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS230Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS230Color.png" width="32" height="32" alt="PMS230" style="max-width:100%;"></a></td>
+        <td>PMS230</td>
+        <td>[UIColor pantonePMS230Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.627 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS231Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS231Color.png" width="32" height="32" alt="PMS231" style="max-width:100%;"></a></td>
+        <td>PMS231</td>
+        <td>[UIColor pantonePMS231Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.439 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS232Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS232Color.png" width="32" height="32" alt="PMS232" style="max-width:100%;"></a></td>
+        <td>PMS232</td>
+        <td>[UIColor pantonePMS232Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.247 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS233Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS233Color.png" width="32" height="32" alt="PMS233" style="max-width:100%;"></a></td>
+        <td>PMS233</td>
+        <td>[UIColor pantonePMS233Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.000 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS234Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS234Color.png" width="32" height="32" alt="PMS234" style="max-width:100%;"></a></td>
+        <td>PMS234</td>
+        <td>[UIColor pantonePMS234Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.000 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS235Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS235Color.png" width="32" height="32" alt="PMS235" style="max-width:100%;"></a></td>
+        <td>PMS235</td>
+        <td>[UIColor pantonePMS235Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.020 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS236Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS236Color.png" width="32" height="32" alt="PMS236" style="max-width:100%;"></a></td>
+        <td>PMS236</td>
+        <td>[UIColor pantonePMS236Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.686 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2365Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2365Color.png" width="32" height="32" alt="PMS2365" style="max-width:100%;"></a></td>
+        <td>PMS2365</td>
+        <td>[UIColor pantonePMS2365Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.769 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS237Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS237Color.png" width="32" height="32" alt="PMS237" style="max-width:100%;"></a></td>
+        <td>PMS237</td>
+        <td>[UIColor pantonePMS237Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.518 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2375Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2375Color.png" width="32" height="32" alt="PMS2375" style="max-width:100%;"></a></td>
+        <td>PMS2375</td>
+        <td>[UIColor pantonePMS2375Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.420 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS238Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS238Color.png" width="32" height="32" alt="PMS238" style="max-width:100%;"></a></td>
+        <td>PMS238</td>
+        <td>[UIColor pantonePMS238Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.310 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2385Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2385Color.png" width="32" height="32" alt="PMS2385" style="max-width:100%;"></a></td>
+        <td>PMS2385</td>
+        <td>[UIColor pantonePMS2385Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.157 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS239Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS239Color.png" width="32" height="32" alt="PMS239" style="max-width:100%;"></a></td>
+        <td>PMS239</td>
+        <td>[UIColor pantonePMS239Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.129 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2392XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2392XColor.png" width="32" height="32" alt="PMS2392X" style="max-width:100%;"></a></td>
+        <td>PMS2392X</td>
+        <td>[UIColor pantonePMS2392XColor]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.020 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2395Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2395Color.png" width="32" height="32" alt="PMS2395" style="max-width:100%;"></a></td>
+        <td>PMS2395</td>
+        <td>[UIColor pantonePMS2395Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.000 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS240Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS240Color.png" width="32" height="32" alt="PMS240" style="max-width:100%;"></a></td>
+        <td>PMS240</td>
+        <td>[UIColor pantonePMS240Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.059 blue:0.537 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2405Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2405Color.png" width="32" height="32" alt="PMS2405" style="max-width:100%;"></a></td>
+        <td>PMS2405</td>
+        <td>[UIColor pantonePMS2405Color]</td>
+        <td>[UIColor colorWithRed:0.659 green:0.000 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS241Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS241Color.png" width="32" height="32" alt="PMS241" style="max-width:100%;"></a></td>
+        <td>PMS241</td>
+        <td>[UIColor pantonePMS241Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.000 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2415Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2415Color.png" width="32" height="32" alt="PMS2415" style="max-width:100%;"></a></td>
+        <td>PMS2415</td>
+        <td>[UIColor pantonePMS2415Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.000 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS242Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS242Color.png" width="32" height="32" alt="PMS242" style="max-width:100%;"></a></td>
+        <td>PMS242</td>
+        <td>[UIColor pantonePMS242Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.110 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2425Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2425Color.png" width="32" height="32" alt="PMS2425" style="max-width:100%;"></a></td>
+        <td>PMS2425</td>
+        <td>[UIColor pantonePMS2425Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.000 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS243Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS243Color.png" width="32" height="32" alt="PMS243" style="max-width:100%;"></a></td>
+        <td>PMS243</td>
+        <td>[UIColor pantonePMS243Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.729 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS244Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS244Color.png" width="32" height="32" alt="PMS244" style="max-width:100%;"></a></td>
+        <td>PMS244</td>
+        <td>[UIColor pantonePMS244Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.627 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS245Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS245Color.png" width="32" height="32" alt="PMS245" style="max-width:100%;"></a></td>
+        <td>PMS245</td>
+        <td>[UIColor pantonePMS245Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.498 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS246Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS246Color.png" width="32" height="32" alt="PMS246" style="max-width:100%;"></a></td>
+        <td>PMS246</td>
+        <td>[UIColor pantonePMS246Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.000 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS247Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS247Color.png" width="32" height="32" alt="PMS247" style="max-width:100%;"></a></td>
+        <td>PMS247</td>
+        <td>[UIColor pantonePMS247Color]</td>
+        <td>[UIColor colorWithRed:0.718 green:0.000 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS248Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS248Color.png" width="32" height="32" alt="PMS248" style="max-width:100%;"></a></td>
+        <td>PMS248</td>
+        <td>[UIColor pantonePMS248Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.020 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS249Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS249Color.png" width="32" height="32" alt="PMS249" style="max-width:100%;"></a></td>
+        <td>PMS249</td>
+        <td>[UIColor pantonePMS249Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.157 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS250Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS250Color.png" width="32" height="32" alt="PMS250" style="max-width:100%;"></a></td>
+        <td>PMS250</td>
+        <td>[UIColor pantonePMS250Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.769 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS251Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS251Color.png" width="32" height="32" alt="PMS251" style="max-width:100%;"></a></td>
+        <td>PMS251</td>
+        <td>[UIColor pantonePMS251Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.620 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS252Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS252Color.png" width="32" height="32" alt="PMS252" style="max-width:100%;"></a></td>
+        <td>PMS252</td>
+        <td>[UIColor pantonePMS252Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.420 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS253Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS253Color.png" width="32" height="32" alt="PMS253" style="max-width:100%;"></a></td>
+        <td>PMS253</td>
+        <td>[UIColor pantonePMS253Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.137 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS254Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS254Color.png" width="32" height="32" alt="PMS254" style="max-width:100%;"></a></td>
+        <td>PMS254</td>
+        <td>[UIColor pantonePMS254Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.176 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS255Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS255Color.png" width="32" height="32" alt="PMS255" style="max-width:100%;"></a></td>
+        <td>PMS255</td>
+        <td>[UIColor pantonePMS255Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.176 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS256Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS256Color.png" width="32" height="32" alt="PMS256" style="max-width:100%;"></a></td>
+        <td>PMS256</td>
+        <td>[UIColor pantonePMS256Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.769 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2562Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2562Color.png" width="32" height="32" alt="PMS2562" style="max-width:100%;"></a></td>
+        <td>PMS2562</td>
+        <td>[UIColor pantonePMS2562Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.659 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2563Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2563Color.png" width="32" height="32" alt="PMS2563" style="max-width:100%;"></a></td>
+        <td>PMS2563</td>
+        <td>[UIColor pantonePMS2563Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.627 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2567Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2567Color.png" width="32" height="32" alt="PMS2567" style="max-width:100%;"></a></td>
+        <td>PMS2567</td>
+        <td>[UIColor pantonePMS2567Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.576 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS257Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS257Color.png" width="32" height="32" alt="PMS257" style="max-width:100%;"></a></td>
+        <td>PMS257</td>
+        <td>[UIColor pantonePMS257Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.647 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2572Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2572Color.png" width="32" height="32" alt="PMS2572" style="max-width:100%;"></a></td>
+        <td>PMS2572</td>
+        <td>[UIColor pantonePMS2572Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.529 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2573Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2573Color.png" width="32" height="32" alt="PMS2573" style="max-width:100%;"></a></td>
+        <td>PMS2573</td>
+        <td>[UIColor pantonePMS2573Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.486 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2577Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2577Color.png" width="32" height="32" alt="PMS2577" style="max-width:100%;"></a></td>
+        <td>PMS2577</td>
+        <td>[UIColor pantonePMS2577Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.447 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS258Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS258Color.png" width="32" height="32" alt="PMS258" style="max-width:100%;"></a></td>
+        <td>PMS258</td>
+        <td>[UIColor pantonePMS258Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.310 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2582Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2582Color.png" width="32" height="32" alt="PMS2582" style="max-width:100%;"></a></td>
+        <td>PMS2582</td>
+        <td>[UIColor pantonePMS2582Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.278 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2583Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2583Color.png" width="32" height="32" alt="PMS2583" style="max-width:100%;"></a></td>
+        <td>PMS2583</td>
+        <td>[UIColor pantonePMS2583Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.310 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2587Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2587Color.png" width="32" height="32" alt="PMS2587" style="max-width:100%;"></a></td>
+        <td>PMS2587</td>
+        <td>[UIColor pantonePMS2587Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.278 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS259Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS259Color.png" width="32" height="32" alt="PMS259" style="max-width:100%;"></a></td>
+        <td>PMS259</td>
+        <td>[UIColor pantonePMS259Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.086 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2592Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2592Color.png" width="32" height="32" alt="PMS2592" style="max-width:100%;"></a></td>
+        <td>PMS2592</td>
+        <td>[UIColor pantonePMS2592Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.059 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS25922XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS25922XColor.png" width="32" height="32" alt="PMS25922X" style="max-width:100%;"></a></td>
+        <td>PMS25922X</td>
+        <td>[UIColor pantonePMS25922XColor]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.000 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2593Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2593Color.png" width="32" height="32" alt="PMS2593" style="max-width:100%;"></a></td>
+        <td>PMS2593</td>
+        <td>[UIColor pantonePMS2593Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.169 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2597Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2597Color.png" width="32" height="32" alt="PMS2597" style="max-width:100%;"></a></td>
+        <td>PMS2597</td>
+        <td>[UIColor pantonePMS2597Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.000 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS260Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS260Color.png" width="32" height="32" alt="PMS260" style="max-width:100%;"></a></td>
+        <td>PMS260</td>
+        <td>[UIColor pantonePMS260Color]</td>
+        <td>[UIColor colorWithRed:0.408 green:0.118 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2602Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2602Color.png" width="32" height="32" alt="PMS2602" style="max-width:100%;"></a></td>
+        <td>PMS2602</td>
+        <td>[UIColor pantonePMS2602Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.047 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2603Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2603Color.png" width="32" height="32" alt="PMS2603" style="max-width:100%;"></a></td>
+        <td>PMS2603</td>
+        <td>[UIColor pantonePMS2603Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.078 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2607Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2607Color.png" width="32" height="32" alt="PMS2607" style="max-width:100%;"></a></td>
+        <td>PMS2607</td>
+        <td>[UIColor pantonePMS2607Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.008 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS261Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS261Color.png" width="32" height="32" alt="PMS261" style="max-width:100%;"></a></td>
+        <td>PMS261</td>
+        <td>[UIColor pantonePMS261Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.129 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2612Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2612Color.png" width="32" height="32" alt="PMS2612" style="max-width:100%;"></a></td>
+        <td>PMS2612</td>
+        <td>[UIColor pantonePMS2612Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.118 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2613Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2613Color.png" width="32" height="32" alt="PMS2613" style="max-width:100%;"></a></td>
+        <td>PMS2613</td>
+        <td>[UIColor pantonePMS2613Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.067 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2617Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2617Color.png" width="32" height="32" alt="PMS2617" style="max-width:100%;"></a></td>
+        <td>PMS2617</td>
+        <td>[UIColor pantonePMS2617Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.047 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS262Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS262Color.png" width="32" height="32" alt="PMS262" style="max-width:100%;"></a></td>
+        <td>PMS262</td>
+        <td>[UIColor pantonePMS262Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.137 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2622Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2622Color.png" width="32" height="32" alt="PMS2622" style="max-width:100%;"></a></td>
+        <td>PMS2622</td>
+        <td>[UIColor pantonePMS2622Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.176 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2623Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2623Color.png" width="32" height="32" alt="PMS2623" style="max-width:100%;"></a></td>
+        <td>PMS2623</td>
+        <td>[UIColor pantonePMS2623Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.098 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2627Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2627Color.png" width="32" height="32" alt="PMS2627" style="max-width:100%;"></a></td>
+        <td>PMS2627</td>
+        <td>[UIColor pantonePMS2627Color]</td>
+        <td>[UIColor colorWithRed:0.298 green:0.078 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS263Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS263Color.png" width="32" height="32" alt="PMS263" style="max-width:100%;"></a></td>
+        <td>PMS263</td>
+        <td>[UIColor pantonePMS263Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.808 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2635Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2635Color.png" width="32" height="32" alt="PMS2635" style="max-width:100%;"></a></td>
+        <td>PMS2635</td>
+        <td>[UIColor pantonePMS2635Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.678 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS264Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS264Color.png" width="32" height="32" alt="PMS264" style="max-width:100%;"></a></td>
+        <td>PMS264</td>
+        <td>[UIColor pantonePMS264Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.667 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2645Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2645Color.png" width="32" height="32" alt="PMS2645" style="max-width:100%;"></a></td>
+        <td>PMS2645</td>
+        <td>[UIColor pantonePMS2645Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.569 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS265Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS265Color.png" width="32" height="32" alt="PMS265" style="max-width:100%;"></a></td>
+        <td>PMS265</td>
+        <td>[UIColor pantonePMS265Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.388 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2655Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2655Color.png" width="32" height="32" alt="PMS2655" style="max-width:100%;"></a></td>
+        <td>PMS2655</td>
+        <td>[UIColor pantonePMS2655Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.427 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS266Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS266Color.png" width="32" height="32" alt="PMS266" style="max-width:100%;"></a></td>
+        <td>PMS266</td>
+        <td>[UIColor pantonePMS266Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.157 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2665Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2665Color.png" width="32" height="32" alt="PMS2665" style="max-width:100%;"></a></td>
+        <td>PMS2665</td>
+        <td>[UIColor pantonePMS2665Color]</td>
+        <td>[UIColor colorWithRed:0.537 green:0.310 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS267Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS267Color.png" width="32" height="32" alt="PMS267" style="max-width:100%;"></a></td>
+        <td>PMS267</td>
+        <td>[UIColor pantonePMS267Color]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.067 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS268Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS268Color.png" width="32" height="32" alt="PMS268" style="max-width:100%;"></a></td>
+        <td>PMS268</td>
+        <td>[UIColor pantonePMS268Color]</td>
+        <td>[UIColor colorWithRed:0.310 green:0.129 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2685Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2685Color.png" width="32" height="32" alt="PMS2685" style="max-width:100%;"></a></td>
+        <td>PMS2685</td>
+        <td>[UIColor pantonePMS2685Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.000 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS269Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS269Color.png" width="32" height="32" alt="PMS269" style="max-width:100%;"></a></td>
+        <td>PMS269</td>
+        <td>[UIColor pantonePMS269Color]</td>
+        <td>[UIColor colorWithRed:0.267 green:0.137 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2695Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2695Color.png" width="32" height="32" alt="PMS2695" style="max-width:100%;"></a></td>
+        <td>PMS2695</td>
+        <td>[UIColor pantonePMS2695Color]</td>
+        <td>[UIColor colorWithRed:0.267 green:0.137 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS270Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS270Color.png" width="32" height="32" alt="PMS270" style="max-width:100%;"></a></td>
+        <td>PMS270</td>
+        <td>[UIColor pantonePMS270Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.686 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2705Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2705Color.png" width="32" height="32" alt="PMS2705" style="max-width:100%;"></a></td>
+        <td>PMS2705</td>
+        <td>[UIColor pantonePMS2705Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.620 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2706Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2706Color.png" width="32" height="32" alt="PMS2706" style="max-width:100%;"></a></td>
+        <td>PMS2706</td>
+        <td>[UIColor pantonePMS2706Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.808 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2707Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2707Color.png" width="32" height="32" alt="PMS2707" style="max-width:100%;"></a></td>
+        <td>PMS2707</td>
+        <td>[UIColor pantonePMS2707Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.820 blue:0.898 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2708Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2708Color.png" width="32" height="32" alt="PMS2708" style="max-width:100%;"></a></td>
+        <td>PMS2708</td>
+        <td>[UIColor pantonePMS2708Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.737 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS271Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS271Color.png" width="32" height="32" alt="PMS271" style="max-width:100%;"></a></td>
+        <td>PMS271</td>
+        <td>[UIColor pantonePMS271Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.569 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2715Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2715Color.png" width="32" height="32" alt="PMS2715" style="max-width:100%;"></a></td>
+        <td>PMS2715</td>
+        <td>[UIColor pantonePMS2715Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.478 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2716Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2716Color.png" width="32" height="32" alt="PMS2716" style="max-width:100%;"></a></td>
+        <td>PMS2716</td>
+        <td>[UIColor pantonePMS2716Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.627 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2717Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2717Color.png" width="32" height="32" alt="PMS2717" style="max-width:100%;"></a></td>
+        <td>PMS2717</td>
+        <td>[UIColor pantonePMS2717Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.729 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2718Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2718Color.png" width="32" height="32" alt="PMS2718" style="max-width:100%;"></a></td>
+        <td>PMS2718</td>
+        <td>[UIColor pantonePMS2718Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.467 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS272Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS272Color.png" width="32" height="32" alt="PMS272" style="max-width:100%;"></a></td>
+        <td>PMS272</td>
+        <td>[UIColor pantonePMS272Color]</td>
+        <td>[UIColor colorWithRed:0.537 green:0.467 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2725Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2725Color.png" width="32" height="32" alt="PMS2725" style="max-width:100%;"></a></td>
+        <td>PMS2725</td>
+        <td>[UIColor pantonePMS2725Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.318 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2726Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2726Color.png" width="32" height="32" alt="PMS2726" style="max-width:100%;"></a></td>
+        <td>PMS2726</td>
+        <td>[UIColor pantonePMS2726Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.337 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2727Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2727Color.png" width="32" height="32" alt="PMS2727" style="max-width:100%;"></a></td>
+        <td>PMS2727</td>
+        <td>[UIColor pantonePMS2727Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.408 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2728Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2728Color.png" width="32" height="32" alt="PMS2728" style="max-width:100%;"></a></td>
+        <td>PMS2728</td>
+        <td>[UIColor pantonePMS2728Color]</td>
+        <td>[UIColor colorWithRed:0.188 green:0.267 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS273Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS273Color.png" width="32" height="32" alt="PMS273" style="max-width:100%;"></a></td>
+        <td>PMS273</td>
+        <td>[UIColor pantonePMS273Color]</td>
+        <td>[UIColor colorWithRed:0.220 green:0.098 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2735Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2735Color.png" width="32" height="32" alt="PMS2735" style="max-width:100%;"></a></td>
+        <td>PMS2735</td>
+        <td>[UIColor pantonePMS2735Color]</td>
+        <td>[UIColor colorWithRed:0.310 green:0.000 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2736Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2736Color.png" width="32" height="32" alt="PMS2736" style="max-width:100%;"></a></td>
+        <td>PMS2736</td>
+        <td>[UIColor pantonePMS2736Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.188 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2738Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2738Color.png" width="32" height="32" alt="PMS2738" style="max-width:100%;"></a></td>
+        <td>PMS2738</td>
+        <td>[UIColor pantonePMS2738Color]</td>
+        <td>[UIColor colorWithRed:0.176 green:0.000 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS274Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS274Color.png" width="32" height="32" alt="PMS274" style="max-width:100%;"></a></td>
+        <td>PMS274</td>
+        <td>[UIColor pantonePMS274Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.067 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2745Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2745Color.png" width="32" height="32" alt="PMS2745" style="max-width:100%;"></a></td>
+        <td>PMS2745</td>
+        <td>[UIColor pantonePMS2745Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.000 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2746Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2746Color.png" width="32" height="32" alt="PMS2746" style="max-width:100%;"></a></td>
+        <td>PMS2746</td>
+        <td>[UIColor pantonePMS2746Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.157 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2747Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2747Color.png" width="32" height="32" alt="PMS2747" style="max-width:100%;"></a></td>
+        <td>PMS2747</td>
+        <td>[UIColor pantonePMS2747Color]</td>
+        <td>[UIColor colorWithRed:0.110 green:0.078 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2748Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2748Color.png" width="32" height="32" alt="PMS2748" style="max-width:100%;"></a></td>
+        <td>PMS2748</td>
+        <td>[UIColor pantonePMS2748Color]</td>
+        <td>[UIColor colorWithRed:0.118 green:0.110 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS275Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS275Color.png" width="32" height="32" alt="PMS275" style="max-width:100%;"></a></td>
+        <td>PMS275</td>
+        <td>[UIColor pantonePMS275Color]</td>
+        <td>[UIColor colorWithRed:0.149 green:0.059 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2755Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2755Color.png" width="32" height="32" alt="PMS2755" style="max-width:100%;"></a></td>
+        <td>PMS2755</td>
+        <td>[UIColor pantonePMS2755Color]</td>
+        <td>[UIColor colorWithRed:0.208 green:0.000 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2756Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2756Color.png" width="32" height="32" alt="PMS2756" style="max-width:100%;"></a></td>
+        <td>PMS2756</td>
+        <td>[UIColor pantonePMS2756Color]</td>
+        <td>[UIColor colorWithRed:0.200 green:0.157 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2757Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2757Color.png" width="32" height="32" alt="PMS2757" style="max-width:100%;"></a></td>
+        <td>PMS2757</td>
+        <td>[UIColor pantonePMS2757Color]</td>
+        <td>[UIColor colorWithRed:0.078 green:0.086 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2758Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2758Color.png" width="32" height="32" alt="PMS2758" style="max-width:100%;"></a></td>
+        <td>PMS2758</td>
+        <td>[UIColor pantonePMS2758Color]</td>
+        <td>[UIColor colorWithRed:0.098 green:0.129 blue:0.408 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS276Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS276Color.png" width="32" height="32" alt="PMS276" style="max-width:100%;"></a></td>
+        <td>PMS276</td>
+        <td>[UIColor pantonePMS276Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.129 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2765Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2765Color.png" width="32" height="32" alt="PMS2765" style="max-width:100%;"></a></td>
+        <td>PMS2765</td>
+        <td>[UIColor pantonePMS2765Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.047 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2766Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2766Color.png" width="32" height="32" alt="PMS2766" style="max-width:100%;"></a></td>
+        <td>PMS2766</td>
+        <td>[UIColor pantonePMS2766Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.149 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2767Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2767Color.png" width="32" height="32" alt="PMS2767" style="max-width:100%;"></a></td>
+        <td>PMS2767</td>
+        <td>[UIColor pantonePMS2767Color]</td>
+        <td>[UIColor colorWithRed:0.078 green:0.129 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2768Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2768Color.png" width="32" height="32" alt="PMS2768" style="max-width:100%;"></a></td>
+        <td>PMS2768</td>
+        <td>[UIColor pantonePMS2768Color]</td>
+        <td>[UIColor colorWithRed:0.067 green:0.129 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS277Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS277Color.png" width="32" height="32" alt="PMS277" style="max-width:100%;"></a></td>
+        <td>PMS277</td>
+        <td>[UIColor pantonePMS277Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.820 blue:0.910 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS278Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS278Color.png" width="32" height="32" alt="PMS278" style="max-width:100%;"></a></td>
+        <td>PMS278</td>
+        <td>[UIColor pantonePMS278Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.729 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS279Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS279Color.png" width="32" height="32" alt="PMS279" style="max-width:100%;"></a></td>
+        <td>PMS279</td>
+        <td>[UIColor pantonePMS279Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.537 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS280Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS280Color.png" width="32" height="32" alt="PMS280" style="max-width:100%;"></a></td>
+        <td>PMS280</td>
+        <td>[UIColor pantonePMS280Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.169 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS281Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS281Color.png" width="32" height="32" alt="PMS281" style="max-width:100%;"></a></td>
+        <td>PMS281</td>
+        <td>[UIColor pantonePMS281Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.157 blue:0.408 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS282Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS282Color.png" width="32" height="32" alt="PMS282" style="max-width:100%;"></a></td>
+        <td>PMS282</td>
+        <td>[UIColor pantonePMS282Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.149 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS283Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS283Color.png" width="32" height="32" alt="PMS283" style="max-width:100%;"></a></td>
+        <td>PMS283</td>
+        <td>[UIColor pantonePMS283Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.769 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS284Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS284Color.png" width="32" height="32" alt="PMS284" style="max-width:100%;"></a></td>
+        <td>PMS284</td>
+        <td>[UIColor pantonePMS284Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.667 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS285Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS285Color.png" width="32" height="32" alt="PMS285" style="max-width:100%;"></a></td>
+        <td>PMS285</td>
+        <td>[UIColor pantonePMS285Color]</td>
+        <td>[UIColor colorWithRed:0.227 green:0.459 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS286Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS286Color.png" width="32" height="32" alt="PMS286" style="max-width:100%;"></a></td>
+        <td>PMS286</td>
+        <td>[UIColor pantonePMS286Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.220 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS287Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS287Color.png" width="32" height="32" alt="PMS287" style="max-width:100%;"></a></td>
+        <td>PMS287</td>
+        <td>[UIColor pantonePMS287Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.220 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS288Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS288Color.png" width="32" height="32" alt="PMS288" style="max-width:100%;"></a></td>
+        <td>PMS288</td>
+        <td>[UIColor pantonePMS288Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.200 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS289Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS289Color.png" width="32" height="32" alt="PMS289" style="max-width:100%;"></a></td>
+        <td>PMS289</td>
+        <td>[UIColor pantonePMS289Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.149 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS290Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS290Color.png" width="32" height="32" alt="PMS290" style="max-width:100%;"></a></td>
+        <td>PMS290</td>
+        <td>[UIColor pantonePMS290Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.847 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2905Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2905Color.png" width="32" height="32" alt="PMS2905" style="max-width:100%;"></a></td>
+        <td>PMS2905</td>
+        <td>[UIColor pantonePMS2905Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.776 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS291Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS291Color.png" width="32" height="32" alt="PMS291" style="max-width:100%;"></a></td>
+        <td>PMS291</td>
+        <td>[UIColor pantonePMS291Color]</td>
+        <td>[UIColor colorWithRed:0.659 green:0.808 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2915Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2915Color.png" width="32" height="32" alt="PMS2915" style="max-width:100%;"></a></td>
+        <td>PMS2915</td>
+        <td>[UIColor pantonePMS2915Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.686 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS292Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS292Color.png" width="32" height="32" alt="PMS292" style="max-width:100%;"></a></td>
+        <td>PMS292</td>
+        <td>[UIColor pantonePMS292Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.698 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2925Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2925Color.png" width="32" height="32" alt="PMS2925" style="max-width:100%;"></a></td>
+        <td>PMS2925</td>
+        <td>[UIColor pantonePMS2925Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.557 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS293Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS293Color.png" width="32" height="32" alt="PMS293" style="max-width:100%;"></a></td>
+        <td>PMS293</td>
+        <td>[UIColor pantonePMS293Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.318 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2935Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2935Color.png" width="32" height="32" alt="PMS2935" style="max-width:100%;"></a></td>
+        <td>PMS2935</td>
+        <td>[UIColor pantonePMS2935Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.357 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS294Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS294Color.png" width="32" height="32" alt="PMS294" style="max-width:100%;"></a></td>
+        <td>PMS294</td>
+        <td>[UIColor pantonePMS294Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.247 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2945Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2945Color.png" width="32" height="32" alt="PMS2945" style="max-width:100%;"></a></td>
+        <td>PMS2945</td>
+        <td>[UIColor pantonePMS2945Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.329 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS295Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS295Color.png" width="32" height="32" alt="PMS295" style="max-width:100%;"></a></td>
+        <td>PMS295</td>
+        <td>[UIColor pantonePMS295Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.220 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2955Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2955Color.png" width="32" height="32" alt="PMS2955" style="max-width:100%;"></a></td>
+        <td>PMS2955</td>
+        <td>[UIColor pantonePMS2955Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.239 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS296Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS296Color.png" width="32" height="32" alt="PMS296" style="max-width:100%;"></a></td>
+        <td>PMS296</td>
+        <td>[UIColor pantonePMS296Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.176 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2965Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2965Color.png" width="32" height="32" alt="PMS2965" style="max-width:100%;"></a></td>
+        <td>PMS2965</td>
+        <td>[UIColor pantonePMS2965Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.200 blue:0.298 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS297Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS297Color.png" width="32" height="32" alt="PMS297" style="max-width:100%;"></a></td>
+        <td>PMS297</td>
+        <td>[UIColor pantonePMS297Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.776 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2975Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2975Color.png" width="32" height="32" alt="PMS2975" style="max-width:100%;"></a></td>
+        <td>PMS2975</td>
+        <td>[UIColor pantonePMS2975Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.878 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS298Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS298Color.png" width="32" height="32" alt="PMS298" style="max-width:100%;"></a></td>
+        <td>PMS298</td>
+        <td>[UIColor pantonePMS298Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.710 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2985Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2985Color.png" width="32" height="32" alt="PMS2985" style="max-width:100%;"></a></td>
+        <td>PMS2985</td>
+        <td>[UIColor pantonePMS2985Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.749 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS299Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS299Color.png" width="32" height="32" alt="PMS299" style="max-width:100%;"></a></td>
+        <td>PMS299</td>
+        <td>[UIColor pantonePMS299Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.639 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2992XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2992XColor.png" width="32" height="32" alt="PMS2992X" style="max-width:100%;"></a></td>
+        <td>PMS2992X</td>
+        <td>[UIColor pantonePMS2992XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.498 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2995Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS2995Color.png" width="32" height="32" alt="PMS2995" style="max-width:100%;"></a></td>
+        <td>PMS2995</td>
+        <td>[UIColor pantonePMS2995Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.647 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS300Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS300Color.png" width="32" height="32" alt="PMS300" style="max-width:100%;"></a></td>
+        <td>PMS300</td>
+        <td>[UIColor pantonePMS300Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.447 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3005Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3005Color.png" width="32" height="32" alt="PMS3005" style="max-width:100%;"></a></td>
+        <td>PMS3005</td>
+        <td>[UIColor pantonePMS3005Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.518 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS301Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS301Color.png" width="32" height="32" alt="PMS301" style="max-width:100%;"></a></td>
+        <td>PMS301</td>
+        <td>[UIColor pantonePMS301Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.357 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3015Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3015Color.png" width="32" height="32" alt="PMS3015" style="max-width:100%;"></a></td>
+        <td>PMS3015</td>
+        <td>[UIColor pantonePMS3015Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.439 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS302Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS302Color.png" width="32" height="32" alt="PMS302" style="max-width:100%;"></a></td>
+        <td>PMS302</td>
+        <td>[UIColor pantonePMS302Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.310 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3025Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3025Color.png" width="32" height="32" alt="PMS3025" style="max-width:100%;"></a></td>
+        <td>PMS3025</td>
+        <td>[UIColor pantonePMS3025Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.329 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS303Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS303Color.png" width="32" height="32" alt="PMS303" style="max-width:100%;"></a></td>
+        <td>PMS303</td>
+        <td>[UIColor pantonePMS303Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.247 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3035Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3035Color.png" width="32" height="32" alt="PMS3035" style="max-width:100%;"></a></td>
+        <td>PMS3035</td>
+        <td>[UIColor pantonePMS3035Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.267 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS304Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS304Color.png" width="32" height="32" alt="PMS304" style="max-width:100%;"></a></td>
+        <td>PMS304</td>
+        <td>[UIColor pantonePMS304Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.867 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS305Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS305Color.png" width="32" height="32" alt="PMS305" style="max-width:100%;"></a></td>
+        <td>PMS305</td>
+        <td>[UIColor pantonePMS305Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.808 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS306Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS306Color.png" width="32" height="32" alt="PMS306" style="max-width:100%;"></a></td>
+        <td>PMS306</td>
+        <td>[UIColor pantonePMS306Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.737 blue:0.886 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3062XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3062XColor.png" width="32" height="32" alt="PMS3062X" style="max-width:100%;"></a></td>
+        <td>PMS3062X</td>
+        <td>[UIColor pantonePMS3062XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.639 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS307Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS307Color.png" width="32" height="32" alt="PMS307" style="max-width:100%;"></a></td>
+        <td>PMS307</td>
+        <td>[UIColor pantonePMS307Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.478 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS308Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS308Color.png" width="32" height="32" alt="PMS308" style="max-width:100%;"></a></td>
+        <td>PMS308</td>
+        <td>[UIColor pantonePMS308Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.376 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS309Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS309Color.png" width="32" height="32" alt="PMS309" style="max-width:100%;"></a></td>
+        <td>PMS309</td>
+        <td>[UIColor pantonePMS309Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.247 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS310Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS310Color.png" width="32" height="32" alt="PMS310" style="max-width:100%;"></a></td>
+        <td>PMS310</td>
+        <td>[UIColor pantonePMS310Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.820 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3105Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3105Color.png" width="32" height="32" alt="PMS3105" style="max-width:100%;"></a></td>
+        <td>PMS3105</td>
+        <td>[UIColor pantonePMS3105Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.839 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS311Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS311Color.png" width="32" height="32" alt="PMS311" style="max-width:100%;"></a></td>
+        <td>PMS311</td>
+        <td>[UIColor pantonePMS311Color]</td>
+        <td>[UIColor colorWithRed:0.157 green:0.769 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3115Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3115Color.png" width="32" height="32" alt="PMS3115" style="max-width:100%;"></a></td>
+        <td>PMS3115</td>
+        <td>[UIColor pantonePMS3115Color]</td>
+        <td>[UIColor colorWithRed:0.176 green:0.776 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS312Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS312Color.png" width="32" height="32" alt="PMS312" style="max-width:100%;"></a></td>
+        <td>PMS312</td>
+        <td>[UIColor pantonePMS312Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.678 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3125Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3125Color.png" width="32" height="32" alt="PMS3125" style="max-width:100%;"></a></td>
+        <td>PMS3125</td>
+        <td>[UIColor pantonePMS3125Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.718 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS313Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS313Color.png" width="32" height="32" alt="PMS313" style="max-width:100%;"></a></td>
+        <td>PMS313</td>
+        <td>[UIColor pantonePMS313Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.600 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3135Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3135Color.png" width="32" height="32" alt="PMS3135" style="max-width:100%;"></a></td>
+        <td>PMS3135</td>
+        <td>[UIColor pantonePMS3135Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.608 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS314Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS314Color.png" width="32" height="32" alt="PMS314" style="max-width:100%;"></a></td>
+        <td>PMS314</td>
+        <td>[UIColor pantonePMS314Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.510 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3145Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3145Color.png" width="32" height="32" alt="PMS3145" style="max-width:100%;"></a></td>
+        <td>PMS3145</td>
+        <td>[UIColor pantonePMS3145Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.518 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS315Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS315Color.png" width="32" height="32" alt="PMS315" style="max-width:100%;"></a></td>
+        <td>PMS315</td>
+        <td>[UIColor pantonePMS315Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.420 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3155Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3155Color.png" width="32" height="32" alt="PMS3155" style="max-width:100%;"></a></td>
+        <td>PMS3155</td>
+        <td>[UIColor pantonePMS3155Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.427 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS316Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS316Color.png" width="32" height="32" alt="PMS316" style="max-width:100%;"></a></td>
+        <td>PMS316</td>
+        <td>[UIColor pantonePMS316Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.286 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3165Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3165Color.png" width="32" height="32" alt="PMS3165" style="max-width:100%;"></a></td>
+        <td>PMS3165</td>
+        <td>[UIColor pantonePMS3165Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.337 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS317Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS317Color.png" width="32" height="32" alt="PMS317" style="max-width:100%;"></a></td>
+        <td>PMS317</td>
+        <td>[UIColor pantonePMS317Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.910 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS318Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS318Color.png" width="32" height="32" alt="PMS318" style="max-width:100%;"></a></td>
+        <td>PMS318</td>
+        <td>[UIColor pantonePMS318Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.867 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS319Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS319Color.png" width="32" height="32" alt="PMS319" style="max-width:100%;"></a></td>
+        <td>PMS319</td>
+        <td>[UIColor pantonePMS319Color]</td>
+        <td>[UIColor colorWithRed:0.298 green:0.808 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS320Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS320Color.png" width="32" height="32" alt="PMS320" style="max-width:100%;"></a></td>
+        <td>PMS320</td>
+        <td>[UIColor pantonePMS320Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.620 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3202XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3202XColor.png" width="32" height="32" alt="PMS3202X" style="max-width:100%;"></a></td>
+        <td>PMS3202X</td>
+        <td>[UIColor pantonePMS3202XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.498 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS321Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS321Color.png" width="32" height="32" alt="PMS321" style="max-width:100%;"></a></td>
+        <td>PMS321</td>
+        <td>[UIColor pantonePMS321Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.529 blue:0.537 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS322Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS322Color.png" width="32" height="32" alt="PMS322" style="max-width:100%;"></a></td>
+        <td>PMS322</td>
+        <td>[UIColor pantonePMS322Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.447 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS323Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS323Color.png" width="32" height="32" alt="PMS323" style="max-width:100%;"></a></td>
+        <td>PMS323</td>
+        <td>[UIColor pantonePMS323Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.400 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS324Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS324Color.png" width="32" height="32" alt="PMS324" style="max-width:100%;"></a></td>
+        <td>PMS324</td>
+        <td>[UIColor pantonePMS324Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.867 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3242Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3242Color.png" width="32" height="32" alt="PMS3242" style="max-width:100%;"></a></td>
+        <td>PMS3242</td>
+        <td>[UIColor pantonePMS3242Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.867 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3245Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3245Color.png" width="32" height="32" alt="PMS3245" style="max-width:100%;"></a></td>
+        <td>PMS3245</td>
+        <td>[UIColor pantonePMS3245Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.878 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3248Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3248Color.png" width="32" height="32" alt="PMS3248" style="max-width:100%;"></a></td>
+        <td>PMS3248</td>
+        <td>[UIColor pantonePMS3248Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.827 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS325Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS325Color.png" width="32" height="32" alt="PMS325" style="max-width:100%;"></a></td>
+        <td>PMS325</td>
+        <td>[UIColor pantonePMS325Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.788 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3252Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3252Color.png" width="32" height="32" alt="PMS3252" style="max-width:100%;"></a></td>
+        <td>PMS3252</td>
+        <td>[UIColor pantonePMS3252Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.839 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3255Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3255Color.png" width="32" height="32" alt="PMS3255" style="max-width:100%;"></a></td>
+        <td>PMS3255</td>
+        <td>[UIColor pantonePMS3255Color]</td>
+        <td>[UIColor colorWithRed:0.278 green:0.839 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3258Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3258Color.png" width="32" height="32" alt="PMS3258" style="max-width:100%;"></a></td>
+        <td>PMS3258</td>
+        <td>[UIColor pantonePMS3258Color]</td>
+        <td>[UIColor colorWithRed:0.208 green:0.769 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS326Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS326Color.png" width="32" height="32" alt="PMS326" style="max-width:100%;"></a></td>
+        <td>PMS326</td>
+        <td>[UIColor pantonePMS326Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.698 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3262Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3262Color.png" width="32" height="32" alt="PMS3262" style="max-width:100%;"></a></td>
+        <td>PMS3262</td>
+        <td>[UIColor pantonePMS3262Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.757 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3265Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3265Color.png" width="32" height="32" alt="PMS3265" style="max-width:100%;"></a></td>
+        <td>PMS3265</td>
+        <td>[UIColor pantonePMS3265Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.776 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3268Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3268Color.png" width="32" height="32" alt="PMS3268" style="max-width:100%;"></a></td>
+        <td>PMS3268</td>
+        <td>[UIColor pantonePMS3268Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.686 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS327Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS327Color.png" width="32" height="32" alt="PMS327" style="max-width:100%;"></a></td>
+        <td>PMS327</td>
+        <td>[UIColor pantonePMS327Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.549 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3272Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3272Color.png" width="32" height="32" alt="PMS3272" style="max-width:100%;"></a></td>
+        <td>PMS3272</td>
+        <td>[UIColor pantonePMS3272Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.667 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3272XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3272XColor.png" width="32" height="32" alt="PMS3272X" style="max-width:100%;"></a></td>
+        <td>PMS3272X</td>
+        <td>[UIColor pantonePMS3272XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.537 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3275Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3275Color.png" width="32" height="32" alt="PMS3275" style="max-width:100%;"></a></td>
+        <td>PMS3275</td>
+        <td>[UIColor pantonePMS3275Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.698 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3278Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3278Color.png" width="32" height="32" alt="PMS3278" style="max-width:100%;"></a></td>
+        <td>PMS3278</td>
+        <td>[UIColor pantonePMS3278Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.608 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS328Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS328Color.png" width="32" height="32" alt="PMS328" style="max-width:100%;"></a></td>
+        <td>PMS328</td>
+        <td>[UIColor pantonePMS328Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.467 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3282Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3282Color.png" width="32" height="32" alt="PMS3282" style="max-width:100%;"></a></td>
+        <td>PMS3282</td>
+        <td>[UIColor pantonePMS3282Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.549 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3285Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3285Color.png" width="32" height="32" alt="PMS3285" style="max-width:100%;"></a></td>
+        <td>PMS3285</td>
+        <td>[UIColor pantonePMS3285Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.600 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3288Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3288Color.png" width="32" height="32" alt="PMS3288" style="max-width:100%;"></a></td>
+        <td>PMS3288</td>
+        <td>[UIColor pantonePMS3288Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.510 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS329Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS329Color.png" width="32" height="32" alt="PMS329" style="max-width:100%;"></a></td>
+        <td>PMS329</td>
+        <td>[UIColor pantonePMS329Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.427 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3292Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3292Color.png" width="32" height="32" alt="PMS3292" style="max-width:100%;"></a></td>
+        <td>PMS3292</td>
+        <td>[UIColor pantonePMS3292Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.376 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3295Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3295Color.png" width="32" height="32" alt="PMS3295" style="max-width:100%;"></a></td>
+        <td>PMS3295</td>
+        <td>[UIColor pantonePMS3295Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.510 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3298Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3298Color.png" width="32" height="32" alt="PMS3298" style="max-width:100%;"></a></td>
+        <td>PMS3298</td>
+        <td>[UIColor pantonePMS3298Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.420 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS330Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS330Color.png" width="32" height="32" alt="PMS330" style="max-width:100%;"></a></td>
+        <td>PMS330</td>
+        <td>[UIColor pantonePMS330Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.349 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3302Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3302Color.png" width="32" height="32" alt="PMS3302" style="max-width:100%;"></a></td>
+        <td>PMS3302</td>
+        <td>[UIColor pantonePMS3302Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.286 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3305Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3305Color.png" width="32" height="32" alt="PMS3305" style="max-width:100%;"></a></td>
+        <td>PMS3305</td>
+        <td>[UIColor pantonePMS3305Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.310 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3308Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3308Color.png" width="32" height="32" alt="PMS3308" style="max-width:100%;"></a></td>
+        <td>PMS3308</td>
+        <td>[UIColor pantonePMS3308Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.267 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS331Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS331Color.png" width="32" height="32" alt="PMS331" style="max-width:100%;"></a></td>
+        <td>PMS331</td>
+        <td>[UIColor pantonePMS331Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.918 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS332Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS332Color.png" width="32" height="32" alt="PMS332" style="max-width:100%;"></a></td>
+        <td>PMS332</td>
+        <td>[UIColor pantonePMS332Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.898 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS333Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS333Color.png" width="32" height="32" alt="PMS333" style="max-width:100%;"></a></td>
+        <td>PMS333</td>
+        <td>[UIColor pantonePMS333Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.867 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS334Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS334Color.png" width="32" height="32" alt="PMS334" style="max-width:100%;"></a></td>
+        <td>PMS334</td>
+        <td>[UIColor pantonePMS334Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.600 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS335Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS335Color.png" width="32" height="32" alt="PMS335" style="max-width:100%;"></a></td>
+        <td>PMS335</td>
+        <td>[UIColor pantonePMS335Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.486 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS336Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS336Color.png" width="32" height="32" alt="PMS336" style="max-width:100%;"></a></td>
+        <td>PMS336</td>
+        <td>[UIColor pantonePMS336Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.408 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS337Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS337Color.png" width="32" height="32" alt="PMS337" style="max-width:100%;"></a></td>
+        <td>PMS337</td>
+        <td>[UIColor pantonePMS337Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.859 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3375Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3375Color.png" width="32" height="32" alt="PMS3375" style="max-width:100%;"></a></td>
+        <td>PMS3375</td>
+        <td>[UIColor pantonePMS3375Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.886 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS338Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS338Color.png" width="32" height="32" alt="PMS338" style="max-width:100%;"></a></td>
+        <td>PMS338</td>
+        <td>[UIColor pantonePMS338Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.820 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3385Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3385Color.png" width="32" height="32" alt="PMS3385" style="max-width:100%;"></a></td>
+        <td>PMS3385</td>
+        <td>[UIColor pantonePMS3385Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.847 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS339Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS339Color.png" width="32" height="32" alt="PMS339" style="max-width:100%;"></a></td>
+        <td>PMS339</td>
+        <td>[UIColor pantonePMS339Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.698 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3395Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3395Color.png" width="32" height="32" alt="PMS3395" style="max-width:100%;"></a></td>
+        <td>PMS3395</td>
+        <td>[UIColor pantonePMS3395Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.788 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS340Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS340Color.png" width="32" height="32" alt="PMS340" style="max-width:100%;"></a></td>
+        <td>PMS340</td>
+        <td>[UIColor pantonePMS340Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.600 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3405Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3405Color.png" width="32" height="32" alt="PMS3405" style="max-width:100%;"></a></td>
+        <td>PMS3405</td>
+        <td>[UIColor pantonePMS3405Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.698 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS341Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS341Color.png" width="32" height="32" alt="PMS341" style="max-width:100%;"></a></td>
+        <td>PMS341</td>
+        <td>[UIColor pantonePMS341Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.478 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3415Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3415Color.png" width="32" height="32" alt="PMS3415" style="max-width:100%;"></a></td>
+        <td>PMS3415</td>
+        <td>[UIColor pantonePMS3415Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.486 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS342Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS342Color.png" width="32" height="32" alt="PMS342" style="max-width:100%;"></a></td>
+        <td>PMS342</td>
+        <td>[UIColor pantonePMS342Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.420 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3425Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3425Color.png" width="32" height="32" alt="PMS3425" style="max-width:100%;"></a></td>
+        <td>PMS3425</td>
+        <td>[UIColor pantonePMS3425Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.408 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS343Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS343Color.png" width="32" height="32" alt="PMS343" style="max-width:100%;"></a></td>
+        <td>PMS343</td>
+        <td>[UIColor pantonePMS343Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.337 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3435Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3435Color.png" width="32" height="32" alt="PMS3435" style="max-width:100%;"></a></td>
+        <td>PMS3435</td>
+        <td>[UIColor pantonePMS3435Color]</td>
+        <td>[UIColor colorWithRed:0.008 green:0.286 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS344Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS344Color.png" width="32" height="32" alt="PMS344" style="max-width:100%;"></a></td>
+        <td>PMS344</td>
+        <td>[UIColor pantonePMS344Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.886 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS345Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS345Color.png" width="32" height="32" alt="PMS345" style="max-width:100%;"></a></td>
+        <td>PMS345</td>
+        <td>[UIColor pantonePMS345Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.847 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS346Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS346Color.png" width="32" height="32" alt="PMS346" style="max-width:100%;"></a></td>
+        <td>PMS346</td>
+        <td>[UIColor pantonePMS346Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.808 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS347Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS347Color.png" width="32" height="32" alt="PMS347" style="max-width:100%;"></a></td>
+        <td>PMS347</td>
+        <td>[UIColor pantonePMS347Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.620 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS348Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS348Color.png" width="32" height="32" alt="PMS348" style="max-width:100%;"></a></td>
+        <td>PMS348</td>
+        <td>[UIColor pantonePMS348Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.529 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS349Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS349Color.png" width="32" height="32" alt="PMS349" style="max-width:100%;"></a></td>
+        <td>PMS349</td>
+        <td>[UIColor pantonePMS349Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.420 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS350Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS350Color.png" width="32" height="32" alt="PMS350" style="max-width:100%;"></a></td>
+        <td>PMS350</td>
+        <td>[UIColor pantonePMS350Color]</td>
+        <td>[UIColor colorWithRed:0.137 green:0.310 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS351Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS351Color.png" width="32" height="32" alt="PMS351" style="max-width:100%;"></a></td>
+        <td>PMS351</td>
+        <td>[UIColor pantonePMS351Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.910 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS352Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS352Color.png" width="32" height="32" alt="PMS352" style="max-width:100%;"></a></td>
+        <td>PMS352</td>
+        <td>[UIColor pantonePMS352Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.898 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS353Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS353Color.png" width="32" height="32" alt="PMS353" style="max-width:100%;"></a></td>
+        <td>PMS353</td>
+        <td>[UIColor pantonePMS353Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.886 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS354Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS354Color.png" width="32" height="32" alt="PMS354" style="max-width:100%;"></a></td>
+        <td>PMS354</td>
+        <td>[UIColor pantonePMS354Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.718 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3542XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3542XColor.png" width="32" height="32" alt="PMS3542X" style="max-width:100%;"></a></td>
+        <td>PMS3542X</td>
+        <td>[UIColor pantonePMS3542XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.600 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS355Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS355Color.png" width="32" height="32" alt="PMS355" style="max-width:100%;"></a></td>
+        <td>PMS355</td>
+        <td>[UIColor pantonePMS355Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.620 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS356Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS356Color.png" width="32" height="32" alt="PMS356" style="max-width:100%;"></a></td>
+        <td>PMS356</td>
+        <td>[UIColor pantonePMS356Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.478 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS357Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS357Color.png" width="32" height="32" alt="PMS357" style="max-width:100%;"></a></td>
+        <td>PMS357</td>
+        <td>[UIColor pantonePMS357Color]</td>
+        <td>[UIColor colorWithRed:0.129 green:0.357 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS358Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS358Color.png" width="32" height="32" alt="PMS358" style="max-width:100%;"></a></td>
+        <td>PMS358</td>
+        <td>[UIColor pantonePMS358Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.867 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS359Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS359Color.png" width="32" height="32" alt="PMS359" style="max-width:100%;"></a></td>
+        <td>PMS359</td>
+        <td>[UIColor pantonePMS359Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.859 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS360Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS360Color.png" width="32" height="32" alt="PMS360" style="max-width:100%;"></a></td>
+        <td>PMS360</td>
+        <td>[UIColor pantonePMS360Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.776 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS361Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS361Color.png" width="32" height="32" alt="PMS361" style="max-width:100%;"></a></td>
+        <td>PMS361</td>
+        <td>[UIColor pantonePMS361Color]</td>
+        <td>[UIColor colorWithRed:0.118 green:0.710 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS362Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS362Color.png" width="32" height="32" alt="PMS362" style="max-width:100%;"></a></td>
+        <td>PMS362</td>
+        <td>[UIColor pantonePMS362Color]</td>
+        <td>[UIColor colorWithRed:0.200 green:0.620 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS363Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS363Color.png" width="32" height="32" alt="PMS363" style="max-width:100%;"></a></td>
+        <td>PMS363</td>
+        <td>[UIColor pantonePMS363Color]</td>
+        <td>[UIColor colorWithRed:0.239 green:0.557 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS364Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS364Color.png" width="32" height="32" alt="PMS364" style="max-width:100%;"></a></td>
+        <td>PMS364</td>
+        <td>[UIColor pantonePMS364Color]</td>
+        <td>[UIColor colorWithRed:0.227 green:0.467 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS365Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS365Color.png" width="32" height="32" alt="PMS365" style="max-width:100%;"></a></td>
+        <td>PMS365</td>
+        <td>[UIColor pantonePMS365Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.910 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS366Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS366Color.png" width="32" height="32" alt="PMS366" style="max-width:100%;"></a></td>
+        <td>PMS366</td>
+        <td>[UIColor pantonePMS366Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.898 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS367Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS367Color.png" width="32" height="32" alt="PMS367" style="max-width:100%;"></a></td>
+        <td>PMS367</td>
+        <td>[UIColor pantonePMS367Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.867 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS368Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS368Color.png" width="32" height="32" alt="PMS368" style="max-width:100%;"></a></td>
+        <td>PMS368</td>
+        <td>[UIColor pantonePMS368Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.749 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3682XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3682XColor.png" width="32" height="32" alt="PMS3682X" style="max-width:100%;"></a></td>
+        <td>PMS3682X</td>
+        <td>[UIColor pantonePMS3682XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.620 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS369Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS369Color.png" width="32" height="32" alt="PMS369" style="max-width:100%;"></a></td>
+        <td>PMS369</td>
+        <td>[UIColor pantonePMS369Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.667 blue:0.110 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS370Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS370Color.png" width="32" height="32" alt="PMS370" style="max-width:100%;"></a></td>
+        <td>PMS370</td>
+        <td>[UIColor pantonePMS370Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.557 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS371Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS371Color.png" width="32" height="32" alt="PMS371" style="max-width:100%;"></a></td>
+        <td>PMS371</td>
+        <td>[UIColor pantonePMS371Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.420 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS372Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS372Color.png" width="32" height="32" alt="PMS372" style="max-width:100%;"></a></td>
+        <td>PMS372</td>
+        <td>[UIColor pantonePMS372Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.929 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS373Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS373Color.png" width="32" height="32" alt="PMS373" style="max-width:100%;"></a></td>
+        <td>PMS373</td>
+        <td>[UIColor pantonePMS373Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.918 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS374Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS374Color.png" width="32" height="32" alt="PMS374" style="max-width:100%;"></a></td>
+        <td>PMS374</td>
+        <td>[UIColor pantonePMS374Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.910 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS375Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS375Color.png" width="32" height="32" alt="PMS375" style="max-width:100%;"></a></td>
+        <td>PMS375</td>
+        <td>[UIColor pantonePMS375Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.839 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3752XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3752XColor.png" width="32" height="32" alt="PMS3752X" style="max-width:100%;"></a></td>
+        <td>PMS3752X</td>
+        <td>[UIColor pantonePMS3752XColor]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.737 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS376Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS376Color.png" width="32" height="32" alt="PMS376" style="max-width:100%;"></a></td>
+        <td>PMS376</td>
+        <td>[UIColor pantonePMS376Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.729 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS377Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS377Color.png" width="32" height="32" alt="PMS377" style="max-width:100%;"></a></td>
+        <td>PMS377</td>
+        <td>[UIColor pantonePMS377Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.576 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS378Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS378Color.png" width="32" height="32" alt="PMS378" style="max-width:100%;"></a></td>
+        <td>PMS378</td>
+        <td>[UIColor pantonePMS378Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.388 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS379Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS379Color.png" width="32" height="32" alt="PMS379" style="max-width:100%;"></a></td>
+        <td>PMS379</td>
+        <td>[UIColor pantonePMS379Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.918 blue:0.408 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS380Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS380Color.png" width="32" height="32" alt="PMS380" style="max-width:100%;"></a></td>
+        <td>PMS380</td>
+        <td>[UIColor pantonePMS380Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.898 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS381Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS381Color.png" width="32" height="32" alt="PMS381" style="max-width:100%;"></a></td>
+        <td>PMS381</td>
+        <td>[UIColor pantonePMS381Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.886 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS382Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS382Color.png" width="32" height="32" alt="PMS382" style="max-width:100%;"></a></td>
+        <td>PMS382</td>
+        <td>[UIColor pantonePMS382Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.847 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3822XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3822XColor.png" width="32" height="32" alt="PMS3822X" style="max-width:100%;"></a></td>
+        <td>PMS3822X</td>
+        <td>[UIColor pantonePMS3822XColor]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.769 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS383Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS383Color.png" width="32" height="32" alt="PMS383" style="max-width:100%;"></a></td>
+        <td>PMS383</td>
+        <td>[UIColor pantonePMS383Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.686 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS384Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS384Color.png" width="32" height="32" alt="PMS384" style="max-width:100%;"></a></td>
+        <td>PMS384</td>
+        <td>[UIColor pantonePMS384Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.600 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS385Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS385Color.png" width="32" height="32" alt="PMS385" style="max-width:100%;"></a></td>
+        <td>PMS385</td>
+        <td>[UIColor pantonePMS385Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.439 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS386Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS386Color.png" width="32" height="32" alt="PMS386" style="max-width:100%;"></a></td>
+        <td>PMS386</td>
+        <td>[UIColor pantonePMS386Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.929 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS387Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS387Color.png" width="32" height="32" alt="PMS387" style="max-width:100%;"></a></td>
+        <td>PMS387</td>
+        <td>[UIColor pantonePMS387Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.929 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS388Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS388Color.png" width="32" height="32" alt="PMS388" style="max-width:100%;"></a></td>
+        <td>PMS388</td>
+        <td>[UIColor pantonePMS388Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.910 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS389Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS389Color.png" width="32" height="32" alt="PMS389" style="max-width:100%;"></a></td>
+        <td>PMS389</td>
+        <td>[UIColor pantonePMS389Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.878 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS390Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS390Color.png" width="32" height="32" alt="PMS390" style="max-width:100%;"></a></td>
+        <td>PMS390</td>
+        <td>[UIColor pantonePMS390Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.769 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS391Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS391Color.png" width="32" height="32" alt="PMS391" style="max-width:100%;"></a></td>
+        <td>PMS391</td>
+        <td>[UIColor pantonePMS391Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.620 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS392Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS392Color.png" width="32" height="32" alt="PMS392" style="max-width:100%;"></a></td>
+        <td>PMS392</td>
+        <td>[UIColor pantonePMS392Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.510 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS393Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS393Color.png" width="32" height="32" alt="PMS393" style="max-width:100%;"></a></td>
+        <td>PMS393</td>
+        <td>[UIColor pantonePMS393Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.937 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3935Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3935Color.png" width="32" height="32" alt="PMS3935" style="max-width:100%;"></a></td>
+        <td>PMS3935</td>
+        <td>[UIColor pantonePMS3935Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.929 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS394Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS394Color.png" width="32" height="32" alt="PMS394" style="max-width:100%;"></a></td>
+        <td>PMS394</td>
+        <td>[UIColor pantonePMS394Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.929 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3945Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3945Color.png" width="32" height="32" alt="PMS3945" style="max-width:100%;"></a></td>
+        <td>PMS3945</td>
+        <td>[UIColor pantonePMS3945Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.918 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS395Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS395Color.png" width="32" height="32" alt="PMS395" style="max-width:100%;"></a></td>
+        <td>PMS395</td>
+        <td>[UIColor pantonePMS395Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.910 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3955Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3955Color.png" width="32" height="32" alt="PMS3955" style="max-width:100%;"></a></td>
+        <td>PMS3955</td>
+        <td>[UIColor pantonePMS3955Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.886 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS396Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS396Color.png" width="32" height="32" alt="PMS396" style="max-width:100%;"></a></td>
+        <td>PMS396</td>
+        <td>[UIColor pantonePMS396Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.886 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3965Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3965Color.png" width="32" height="32" alt="PMS3965" style="max-width:100%;"></a></td>
+        <td>PMS3965</td>
+        <td>[UIColor pantonePMS3965Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.867 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS397Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS397Color.png" width="32" height="32" alt="PMS397" style="max-width:100%;"></a></td>
+        <td>PMS397</td>
+        <td>[UIColor pantonePMS397Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.749 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3975Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3975Color.png" width="32" height="32" alt="PMS3975" style="max-width:100%;"></a></td>
+        <td>PMS3975</td>
+        <td>[UIColor pantonePMS3975Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.659 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS398Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS398Color.png" width="32" height="32" alt="PMS398" style="max-width:100%;"></a></td>
+        <td>PMS398</td>
+        <td>[UIColor pantonePMS398Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.659 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3985Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3985Color.png" width="32" height="32" alt="PMS3985" style="max-width:100%;"></a></td>
+        <td>PMS3985</td>
+        <td>[UIColor pantonePMS3985Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.549 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS399Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS399Color.png" width="32" height="32" alt="PMS399" style="max-width:100%;"></a></td>
+        <td>PMS399</td>
+        <td>[UIColor pantonePMS399Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.557 blue:0.027 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3995Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS3995Color.png" width="32" height="32" alt="PMS3995" style="max-width:100%;"></a></td>
+        <td>PMS3995</td>
+        <td>[UIColor pantonePMS3995Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.376 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS400Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS400Color.png" width="32" height="32" alt="PMS400" style="max-width:100%;"></a></td>
+        <td>PMS400</td>
+        <td>[UIColor pantonePMS400Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.776 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS401Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS401Color.png" width="32" height="32" alt="PMS401" style="max-width:100%;"></a></td>
+        <td>PMS401</td>
+        <td>[UIColor pantonePMS401Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.710 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS402Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS402Color.png" width="32" height="32" alt="PMS402" style="max-width:100%;"></a></td>
+        <td>PMS402</td>
+        <td>[UIColor pantonePMS402Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.647 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS403Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS403Color.png" width="32" height="32" alt="PMS403" style="max-width:100%;"></a></td>
+        <td>PMS403</td>
+        <td>[UIColor pantonePMS403Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.549 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS404Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS404Color.png" width="32" height="32" alt="PMS404" style="max-width:100%;"></a></td>
+        <td>PMS404</td>
+        <td>[UIColor pantonePMS404Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.459 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS405Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS405Color.png" width="32" height="32" alt="PMS405" style="max-width:100%;"></a></td>
+        <td>PMS405</td>
+        <td>[UIColor pantonePMS405Color]</td>
+        <td>[UIColor colorWithRed:0.420 green:0.369 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS406Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS406Color.png" width="32" height="32" alt="PMS406" style="max-width:100%;"></a></td>
+        <td>PMS406</td>
+        <td>[UIColor pantonePMS406Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.757 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS407Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS407Color.png" width="32" height="32" alt="PMS407" style="max-width:100%;"></a></td>
+        <td>PMS407</td>
+        <td>[UIColor pantonePMS407Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.667 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS408Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS408Color.png" width="32" height="32" alt="PMS408" style="max-width:100%;"></a></td>
+        <td>PMS408</td>
+        <td>[UIColor pantonePMS408Color]</td>
+        <td>[UIColor colorWithRed:0.659 green:0.600 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS409Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS409Color.png" width="32" height="32" alt="PMS409" style="max-width:100%;"></a></td>
+        <td>PMS409</td>
+        <td>[UIColor pantonePMS409Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.537 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS410Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS410Color.png" width="32" height="32" alt="PMS410" style="max-width:100%;"></a></td>
+        <td>PMS410</td>
+        <td>[UIColor pantonePMS410Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.427 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS411Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS411Color.png" width="32" height="32" alt="PMS411" style="max-width:100%;"></a></td>
+        <td>PMS411</td>
+        <td>[UIColor pantonePMS411Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.349 blue:0.298 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS412Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS412Color.png" width="32" height="32" alt="PMS412" style="max-width:100%;"></a></td>
+        <td>PMS412</td>
+        <td>[UIColor pantonePMS412Color]</td>
+        <td>[UIColor colorWithRed:0.239 green:0.188 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS413Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS413Color.png" width="32" height="32" alt="PMS413" style="max-width:100%;"></a></td>
+        <td>PMS413</td>
+        <td>[UIColor pantonePMS413Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.757 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS414Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS414Color.png" width="32" height="32" alt="PMS414" style="max-width:100%;"></a></td>
+        <td>PMS414</td>
+        <td>[UIColor pantonePMS414Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.686 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS415Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS415Color.png" width="32" height="32" alt="PMS415" style="max-width:100%;"></a></td>
+        <td>PMS415</td>
+        <td>[UIColor pantonePMS415Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.620 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS416Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS416Color.png" width="32" height="32" alt="PMS416" style="max-width:100%;"></a></td>
+        <td>PMS416</td>
+        <td>[UIColor pantonePMS416Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.549 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS417Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS417Color.png" width="32" height="32" alt="PMS417" style="max-width:100%;"></a></td>
+        <td>PMS417</td>
+        <td>[UIColor pantonePMS417Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.447 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS418Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS418Color.png" width="32" height="32" alt="PMS418" style="max-width:100%;"></a></td>
+        <td>PMS418</td>
+        <td>[UIColor pantonePMS418Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.369 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS419Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS419Color.png" width="32" height="32" alt="PMS419" style="max-width:100%;"></a></td>
+        <td>PMS419</td>
+        <td>[UIColor pantonePMS419Color]</td>
+        <td>[UIColor colorWithRed:0.157 green:0.157 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS420Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS420Color.png" width="32" height="32" alt="PMS420" style="max-width:100%;"></a></td>
+        <td>PMS420</td>
+        <td>[UIColor pantonePMS420Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.800 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS421Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS421Color.png" width="32" height="32" alt="PMS421" style="max-width:100%;"></a></td>
+        <td>PMS421</td>
+        <td>[UIColor pantonePMS421Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.729 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS422Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS422Color.png" width="32" height="32" alt="PMS422" style="max-width:100%;"></a></td>
+        <td>PMS422</td>
+        <td>[UIColor pantonePMS422Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.667 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS423Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS423Color.png" width="32" height="32" alt="PMS423" style="max-width:100%;"></a></td>
+        <td>PMS423</td>
+        <td>[UIColor pantonePMS423Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.576 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS424Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS424Color.png" width="32" height="32" alt="PMS424" style="max-width:100%;"></a></td>
+        <td>PMS424</td>
+        <td>[UIColor pantonePMS424Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.498 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS425Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS425Color.png" width="32" height="32" alt="PMS425" style="max-width:100%;"></a></td>
+        <td>PMS425</td>
+        <td>[UIColor pantonePMS425Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.376 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS426Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS426Color.png" width="32" height="32" alt="PMS426" style="max-width:100%;"></a></td>
+        <td>PMS426</td>
+        <td>[UIColor pantonePMS426Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.169 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS427Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS427Color.png" width="32" height="32" alt="PMS427" style="max-width:100%;"></a></td>
+        <td>PMS427</td>
+        <td>[UIColor pantonePMS427Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.859 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS428Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS428Color.png" width="32" height="32" alt="PMS428" style="max-width:100%;"></a></td>
+        <td>PMS428</td>
+        <td>[UIColor pantonePMS428Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.808 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS429Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS429Color.png" width="32" height="32" alt="PMS429" style="max-width:100%;"></a></td>
+        <td>PMS429</td>
+        <td>[UIColor pantonePMS429Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.686 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS430Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS430Color.png" width="32" height="32" alt="PMS430" style="max-width:100%;"></a></td>
+        <td>PMS430</td>
+        <td>[UIColor pantonePMS430Color]</td>
+        <td>[UIColor colorWithRed:0.569 green:0.588 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS431Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS431Color.png" width="32" height="32" alt="PMS431" style="max-width:100%;"></a></td>
+        <td>PMS431</td>
+        <td>[UIColor pantonePMS431Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.427 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS432Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS432Color.png" width="32" height="32" alt="PMS432" style="max-width:100%;"></a></td>
+        <td>PMS432</td>
+        <td>[UIColor pantonePMS432Color]</td>
+        <td>[UIColor colorWithRed:0.267 green:0.310 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS433Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS433Color.png" width="32" height="32" alt="PMS433" style="max-width:100%;"></a></td>
+        <td>PMS433</td>
+        <td>[UIColor pantonePMS433Color]</td>
+        <td>[UIColor colorWithRed:0.188 green:0.220 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4332XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4332XColor.png" width="32" height="32" alt="PMS4332X" style="max-width:100%;"></a></td>
+        <td>PMS4332X</td>
+        <td>[UIColor pantonePMS4332XColor]</td>
+        <td>[UIColor colorWithRed:0.039 green:0.047 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS434Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS434Color.png" width="32" height="32" alt="PMS434" style="max-width:100%;"></a></td>
+        <td>PMS434</td>
+        <td>[UIColor pantonePMS434Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.820 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS435Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS435Color.png" width="32" height="32" alt="PMS435" style="max-width:100%;"></a></td>
+        <td>PMS435</td>
+        <td>[UIColor pantonePMS435Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.749 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS436Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS436Color.png" width="32" height="32" alt="PMS436" style="max-width:100%;"></a></td>
+        <td>PMS436</td>
+        <td>[UIColor pantonePMS436Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.647 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS437Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS437Color.png" width="32" height="32" alt="PMS437" style="max-width:100%;"></a></td>
+        <td>PMS437</td>
+        <td>[UIColor pantonePMS437Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.439 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS438Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS438Color.png" width="32" height="32" alt="PMS438" style="max-width:100%;"></a></td>
+        <td>PMS438</td>
+        <td>[UIColor pantonePMS438Color]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.247 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS439Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS439Color.png" width="32" height="32" alt="PMS439" style="max-width:100%;"></a></td>
+        <td>PMS439</td>
+        <td>[UIColor pantonePMS439Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.208 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS440Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS440Color.png" width="32" height="32" alt="PMS440" style="max-width:100%;"></a></td>
+        <td>PMS440</td>
+        <td>[UIColor pantonePMS440Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.188 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS441Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS441Color.png" width="32" height="32" alt="PMS441" style="max-width:100%;"></a></td>
+        <td>PMS441</td>
+        <td>[UIColor pantonePMS441Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.820 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS442Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS442Color.png" width="32" height="32" alt="PMS442" style="max-width:100%;"></a></td>
+        <td>PMS442</td>
+        <td>[UIColor pantonePMS442Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.749 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS443Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS443Color.png" width="32" height="32" alt="PMS443" style="max-width:100%;"></a></td>
+        <td>PMS443</td>
+        <td>[UIColor pantonePMS443Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.659 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS444Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS444Color.png" width="32" height="32" alt="PMS444" style="max-width:100%;"></a></td>
+        <td>PMS444</td>
+        <td>[UIColor pantonePMS444Color]</td>
+        <td>[UIColor colorWithRed:0.537 green:0.557 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS445Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS445Color.png" width="32" height="32" alt="PMS445" style="max-width:100%;"></a></td>
+        <td>PMS445</td>
+        <td>[UIColor pantonePMS445Color]</td>
+        <td>[UIColor colorWithRed:0.337 green:0.349 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS446Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS446Color.png" width="32" height="32" alt="PMS446" style="max-width:100%;"></a></td>
+        <td>PMS446</td>
+        <td>[UIColor pantonePMS446Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.298 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS447Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS447Color.png" width="32" height="32" alt="PMS447" style="max-width:100%;"></a></td>
+        <td>PMS447</td>
+        <td>[UIColor pantonePMS447Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.247 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS448Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS448Color.png" width="32" height="32" alt="PMS448" style="max-width:100%;"></a></td>
+        <td>PMS448</td>
+        <td>[UIColor pantonePMS448Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.278 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4485Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4485Color.png" width="32" height="32" alt="PMS4485" style="max-width:100%;"></a></td>
+        <td>PMS4485</td>
+        <td>[UIColor pantonePMS4485Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.298 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS449Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS449Color.png" width="32" height="32" alt="PMS449" style="max-width:100%;"></a></td>
+        <td>PMS449</td>
+        <td>[UIColor pantonePMS449Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.278 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4495Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4495Color.png" width="32" height="32" alt="PMS4495" style="max-width:100%;"></a></td>
+        <td>PMS4495</td>
+        <td>[UIColor pantonePMS4495Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.459 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS450Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS450Color.png" width="32" height="32" alt="PMS450" style="max-width:100%;"></a></td>
+        <td>PMS450</td>
+        <td>[UIColor pantonePMS450Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.329 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4505Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4505Color.png" width="32" height="32" alt="PMS4505" style="max-width:100%;"></a></td>
+        <td>PMS4505</td>
+        <td>[UIColor pantonePMS4505Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.569 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS451Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS451Color.png" width="32" height="32" alt="PMS451" style="max-width:100%;"></a></td>
+        <td>PMS451</td>
+        <td>[UIColor pantonePMS451Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.627 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4515Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4515Color.png" width="32" height="32" alt="PMS4515" style="max-width:100%;"></a></td>
+        <td>PMS4515</td>
+        <td>[UIColor pantonePMS4515Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.678 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS452Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS452Color.png" width="32" height="32" alt="PMS452" style="max-width:100%;"></a></td>
+        <td>PMS452</td>
+        <td>[UIColor pantonePMS452Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.718 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4525Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4525Color.png" width="32" height="32" alt="PMS4525" style="max-width:100%;"></a></td>
+        <td>PMS4525</td>
+        <td>[UIColor pantonePMS4525Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.749 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS453Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS453Color.png" width="32" height="32" alt="PMS453" style="max-width:100%;"></a></td>
+        <td>PMS453</td>
+        <td>[UIColor pantonePMS453Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.800 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4535Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4535Color.png" width="32" height="32" alt="PMS4535" style="max-width:100%;"></a></td>
+        <td>PMS4535</td>
+        <td>[UIColor pantonePMS4535Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.808 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS454Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS454Color.png" width="32" height="32" alt="PMS454" style="max-width:100%;"></a></td>
+        <td>PMS454</td>
+        <td>[UIColor pantonePMS454Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.847 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4545Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4545Color.png" width="32" height="32" alt="PMS4545" style="max-width:100%;"></a></td>
+        <td>PMS4545</td>
+        <td>[UIColor pantonePMS4545Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.859 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS455Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS455Color.png" width="32" height="32" alt="PMS455" style="max-width:100%;"></a></td>
+        <td>PMS455</td>
+        <td>[UIColor pantonePMS455Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.337 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS456Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS456Color.png" width="32" height="32" alt="PMS456" style="max-width:100%;"></a></td>
+        <td>PMS456</td>
+        <td>[UIColor pantonePMS456Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.529 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS457Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS457Color.png" width="32" height="32" alt="PMS457" style="max-width:100%;"></a></td>
+        <td>PMS457</td>
+        <td>[UIColor pantonePMS457Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.608 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS458Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS458Color.png" width="32" height="32" alt="PMS458" style="max-width:100%;"></a></td>
+        <td>PMS458</td>
+        <td>[UIColor pantonePMS458Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.800 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS459Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS459Color.png" width="32" height="32" alt="PMS459" style="max-width:100%;"></a></td>
+        <td>PMS459</td>
+        <td>[UIColor pantonePMS459Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.839 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS460Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS460Color.png" width="32" height="32" alt="PMS460" style="max-width:100%;"></a></td>
+        <td>PMS460</td>
+        <td>[UIColor pantonePMS460Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.867 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS461Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS461Color.png" width="32" height="32" alt="PMS461" style="max-width:100%;"></a></td>
+        <td>PMS461</td>
+        <td>[UIColor pantonePMS461Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.898 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS462Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS462Color.png" width="32" height="32" alt="PMS462" style="max-width:100%;"></a></td>
+        <td>PMS462</td>
+        <td>[UIColor pantonePMS462Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.278 blue:0.137 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4625Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4625Color.png" width="32" height="32" alt="PMS4625" style="max-width:100%;"></a></td>
+        <td>PMS4625</td>
+        <td>[UIColor pantonePMS4625Color]</td>
+        <td>[UIColor colorWithRed:0.278 green:0.137 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS463Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS463Color.png" width="32" height="32" alt="PMS463" style="max-width:100%;"></a></td>
+        <td>PMS463</td>
+        <td>[UIColor pantonePMS463Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.329 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4635Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4635Color.png" width="32" height="32" alt="PMS4635" style="max-width:100%;"></a></td>
+        <td>PMS4635</td>
+        <td>[UIColor pantonePMS4635Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.349 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS464Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS464Color.png" width="32" height="32" alt="PMS464" style="max-width:100%;"></a></td>
+        <td>PMS464</td>
+        <td>[UIColor pantonePMS464Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.376 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4642XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4642XColor.png" width="32" height="32" alt="PMS4642X" style="max-width:100%;"></a></td>
+        <td>PMS4642X</td>
+        <td>[UIColor pantonePMS4642XColor]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.259 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4645Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4645Color.png" width="32" height="32" alt="PMS4645" style="max-width:100%;"></a></td>
+        <td>PMS4645</td>
+        <td>[UIColor pantonePMS4645Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.510 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS465Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS465Color.png" width="32" height="32" alt="PMS465" style="max-width:100%;"></a></td>
+        <td>PMS465</td>
+        <td>[UIColor pantonePMS465Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.659 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4655Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4655Color.png" width="32" height="32" alt="PMS4655" style="max-width:100%;"></a></td>
+        <td>PMS4655</td>
+        <td>[UIColor pantonePMS4655Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.600 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS466Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS466Color.png" width="32" height="32" alt="PMS466" style="max-width:100%;"></a></td>
+        <td>PMS466</td>
+        <td>[UIColor pantonePMS466Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.749 blue:0.569 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4665Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4665Color.png" width="32" height="32" alt="PMS4665" style="max-width:100%;"></a></td>
+        <td>PMS4665</td>
+        <td>[UIColor pantonePMS4665Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.710 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS467Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS467Color.png" width="32" height="32" alt="PMS467" style="max-width:100%;"></a></td>
+        <td>PMS467</td>
+        <td>[UIColor pantonePMS467Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.800 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4675Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4675Color.png" width="32" height="32" alt="PMS4675" style="max-width:100%;"></a></td>
+        <td>PMS4675</td>
+        <td>[UIColor pantonePMS4675Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.776 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS468Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS468Color.png" width="32" height="32" alt="PMS468" style="max-width:100%;"></a></td>
+        <td>PMS468</td>
+        <td>[UIColor pantonePMS468Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.839 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4685Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4685Color.png" width="32" height="32" alt="PMS4685" style="max-width:100%;"></a></td>
+        <td>PMS4685</td>
+        <td>[UIColor pantonePMS4685Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.827 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS469Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS469Color.png" width="32" height="32" alt="PMS469" style="max-width:100%;"></a></td>
+        <td>PMS469</td>
+        <td>[UIColor pantonePMS469Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.200 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4695Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4695Color.png" width="32" height="32" alt="PMS4695" style="max-width:100%;"></a></td>
+        <td>PMS4695</td>
+        <td>[UIColor pantonePMS4695Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.149 blue:0.110 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4705Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4705Color.png" width="32" height="32" alt="PMS4705" style="max-width:100%;"></a></td>
+        <td>PMS4705</td>
+        <td>[UIColor pantonePMS4705Color]</td>
+        <td>[UIColor colorWithRed:0.486 green:0.318 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4712XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4712XColor.png" width="32" height="32" alt="PMS4712X" style="max-width:100%;"></a></td>
+        <td>PMS4712X</td>
+        <td>[UIColor pantonePMS4712XColor]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.267 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4715Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4715Color.png" width="32" height="32" alt="PMS4715" style="max-width:100%;"></a></td>
+        <td>PMS4715</td>
+        <td>[UIColor pantonePMS4715Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.439 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4725Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4725Color.png" width="32" height="32" alt="PMS4725" style="max-width:100%;"></a></td>
+        <td>PMS4725</td>
+        <td>[UIColor pantonePMS4725Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.569 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4735Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4735Color.png" width="32" height="32" alt="PMS4735" style="max-width:100%;"></a></td>
+        <td>PMS4735</td>
+        <td>[UIColor pantonePMS4735Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.686 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4745Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4745Color.png" width="32" height="32" alt="PMS4745" style="max-width:100%;"></a></td>
+        <td>PMS4745</td>
+        <td>[UIColor pantonePMS4745Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.749 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4755Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4755Color.png" width="32" height="32" alt="PMS4755" style="max-width:100%;"></a></td>
+        <td>PMS4755</td>
+        <td>[UIColor pantonePMS4755Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.800 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS476Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS476Color.png" width="32" height="32" alt="PMS476" style="max-width:100%;"></a></td>
+        <td>PMS476</td>
+        <td>[UIColor pantonePMS476Color]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.239 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS477Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS477Color.png" width="32" height="32" alt="PMS477" style="max-width:100%;"></a></td>
+        <td>PMS477</td>
+        <td>[UIColor pantonePMS477Color]</td>
+        <td>[UIColor colorWithRed:0.388 green:0.220 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS478Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS478Color.png" width="32" height="32" alt="PMS478" style="max-width:100%;"></a></td>
+        <td>PMS478</td>
+        <td>[UIColor pantonePMS478Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.247 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS479Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS479Color.png" width="32" height="32" alt="PMS479" style="max-width:100%;"></a></td>
+        <td>PMS479</td>
+        <td>[UIColor pantonePMS479Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.537 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS480Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS480Color.png" width="32" height="32" alt="PMS480" style="max-width:100%;"></a></td>
+        <td>PMS480</td>
+        <td>[UIColor pantonePMS480Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.718 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS481Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS481Color.png" width="32" height="32" alt="PMS481" style="max-width:100%;"></a></td>
+        <td>PMS481</td>
+        <td>[UIColor pantonePMS481Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.800 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS482Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS482Color.png" width="32" height="32" alt="PMS482" style="max-width:100%;"></a></td>
+        <td>PMS482</td>
+        <td>[UIColor pantonePMS482Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.827 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS483Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS483Color.png" width="32" height="32" alt="PMS483" style="max-width:100%;"></a></td>
+        <td>PMS483</td>
+        <td>[UIColor pantonePMS483Color]</td>
+        <td>[UIColor colorWithRed:0.420 green:0.188 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS484Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS484Color.png" width="32" height="32" alt="PMS484" style="max-width:100%;"></a></td>
+        <td>PMS484</td>
+        <td>[UIColor pantonePMS484Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.188 blue:0.110 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS485Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS485Color.png" width="32" height="32" alt="PMS485" style="max-width:100%;"></a></td>
+        <td>PMS485</td>
+        <td>[UIColor pantonePMS485Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.118 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4852XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4852XColor.png" width="32" height="32" alt="PMS4852X" style="max-width:100%;"></a></td>
+        <td>PMS4852X</td>
+        <td>[UIColor pantonePMS4852XColor]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.047 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS486Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS486Color.png" width="32" height="32" alt="PMS486" style="max-width:100%;"></a></td>
+        <td>PMS486</td>
+        <td>[UIColor pantonePMS486Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.620 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS487Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS487Color.png" width="32" height="32" alt="PMS487" style="max-width:100%;"></a></td>
+        <td>PMS487</td>
+        <td>[UIColor pantonePMS487Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.710 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS488Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS488Color.png" width="32" height="32" alt="PMS488" style="max-width:100%;"></a></td>
+        <td>PMS488</td>
+        <td>[UIColor pantonePMS488Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.769 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS489Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS489Color.png" width="32" height="32" alt="PMS489" style="max-width:100%;"></a></td>
+        <td>PMS489</td>
+        <td>[UIColor pantonePMS489Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.820 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS490Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS490Color.png" width="32" height="32" alt="PMS490" style="max-width:100%;"></a></td>
+        <td>PMS490</td>
+        <td>[UIColor pantonePMS490Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.149 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS491Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS491Color.png" width="32" height="32" alt="PMS491" style="max-width:100%;"></a></td>
+        <td>PMS491</td>
+        <td>[UIColor pantonePMS491Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.157 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS492Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS492Color.png" width="32" height="32" alt="PMS492" style="max-width:100%;"></a></td>
+        <td>PMS492</td>
+        <td>[UIColor pantonePMS492Color]</td>
+        <td>[UIColor colorWithRed:0.569 green:0.200 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS493Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS493Color.png" width="32" height="32" alt="PMS493" style="max-width:100%;"></a></td>
+        <td>PMS493</td>
+        <td>[UIColor pantonePMS493Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.510 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS494Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS494Color.png" width="32" height="32" alt="PMS494" style="max-width:100%;"></a></td>
+        <td>PMS494</td>
+        <td>[UIColor pantonePMS494Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.678 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS495Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS495Color.png" width="32" height="32" alt="PMS495" style="max-width:100%;"></a></td>
+        <td>PMS495</td>
+        <td>[UIColor pantonePMS495Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.737 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS496Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS496Color.png" width="32" height="32" alt="PMS496" style="max-width:100%;"></a></td>
+        <td>PMS496</td>
+        <td>[UIColor pantonePMS496Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.788 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS497Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS497Color.png" width="32" height="32" alt="PMS497" style="max-width:100%;"></a></td>
+        <td>PMS497</td>
+        <td>[UIColor pantonePMS497Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.157 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4975Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4975Color.png" width="32" height="32" alt="PMS4975" style="max-width:100%;"></a></td>
+        <td>PMS4975</td>
+        <td>[UIColor pantonePMS4975Color]</td>
+        <td>[UIColor colorWithRed:0.267 green:0.118 blue:0.110 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS498Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS498Color.png" width="32" height="32" alt="PMS498" style="max-width:100%;"></a></td>
+        <td>PMS498</td>
+        <td>[UIColor pantonePMS498Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.200 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4985Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4985Color.png" width="32" height="32" alt="PMS4985" style="max-width:100%;"></a></td>
+        <td>PMS4985</td>
+        <td>[UIColor pantonePMS4985Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.286 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS499Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS499Color.png" width="32" height="32" alt="PMS499" style="max-width:100%;"></a></td>
+        <td>PMS499</td>
+        <td>[UIColor pantonePMS499Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.220 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4995Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS4995Color.png" width="32" height="32" alt="PMS4995" style="max-width:100%;"></a></td>
+        <td>PMS4995</td>
+        <td>[UIColor pantonePMS4995Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.420 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS500Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS500Color.png" width="32" height="32" alt="PMS500" style="max-width:100%;"></a></td>
+        <td>PMS500</td>
+        <td>[UIColor pantonePMS500Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.537 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5005Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5005Color.png" width="32" height="32" alt="PMS5005" style="max-width:100%;"></a></td>
+        <td>PMS5005</td>
+        <td>[UIColor pantonePMS5005Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.529 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS501Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS501Color.png" width="32" height="32" alt="PMS501" style="max-width:100%;"></a></td>
+        <td>PMS501</td>
+        <td>[UIColor pantonePMS501Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.698 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5015Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5015Color.png" width="32" height="32" alt="PMS5015" style="max-width:100%;"></a></td>
+        <td>PMS5015</td>
+        <td>[UIColor pantonePMS5015Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.678 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS502Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS502Color.png" width="32" height="32" alt="PMS502" style="max-width:100%;"></a></td>
+        <td>PMS502</td>
+        <td>[UIColor pantonePMS502Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.776 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5025Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5025Color.png" width="32" height="32" alt="PMS5025" style="max-width:100%;"></a></td>
+        <td>PMS5025</td>
+        <td>[UIColor pantonePMS5025Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.737 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS503Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS503Color.png" width="32" height="32" alt="PMS503" style="max-width:100%;"></a></td>
+        <td>PMS503</td>
+        <td>[UIColor pantonePMS503Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.820 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5035Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5035Color.png" width="32" height="32" alt="PMS5035" style="max-width:100%;"></a></td>
+        <td>PMS5035</td>
+        <td>[UIColor pantonePMS5035Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.808 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS504Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS504Color.png" width="32" height="32" alt="PMS504" style="max-width:100%;"></a></td>
+        <td>PMS504</td>
+        <td>[UIColor pantonePMS504Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.118 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS505Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS505Color.png" width="32" height="32" alt="PMS505" style="max-width:100%;"></a></td>
+        <td>PMS505</td>
+        <td>[UIColor pantonePMS505Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.118 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS506Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS506Color.png" width="32" height="32" alt="PMS506" style="max-width:100%;"></a></td>
+        <td>PMS506</td>
+        <td>[UIColor pantonePMS506Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.149 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS507Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS507Color.png" width="32" height="32" alt="PMS507" style="max-width:100%;"></a></td>
+        <td>PMS507</td>
+        <td>[UIColor pantonePMS507Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.537 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS508Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS508Color.png" width="32" height="32" alt="PMS508" style="max-width:100%;"></a></td>
+        <td>PMS508</td>
+        <td>[UIColor pantonePMS508Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.647 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS509Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS509Color.png" width="32" height="32" alt="PMS509" style="max-width:100%;"></a></td>
+        <td>PMS509</td>
+        <td>[UIColor pantonePMS509Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.729 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS510Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS510Color.png" width="32" height="32" alt="PMS510" style="max-width:100%;"></a></td>
+        <td>PMS510</td>
+        <td>[UIColor pantonePMS510Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.776 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS511Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS511Color.png" width="32" height="32" alt="PMS511" style="max-width:100%;"></a></td>
+        <td>PMS511</td>
+        <td>[UIColor pantonePMS511Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.129 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5115Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5115Color.png" width="32" height="32" alt="PMS5115" style="max-width:100%;"></a></td>
+        <td>PMS5115</td>
+        <td>[UIColor pantonePMS5115Color]</td>
+        <td>[UIColor colorWithRed:0.310 green:0.129 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS512Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS512Color.png" width="32" height="32" alt="PMS512" style="max-width:100%;"></a></td>
+        <td>PMS512</td>
+        <td>[UIColor pantonePMS512Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.129 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5125Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5125Color.png" width="32" height="32" alt="PMS5125" style="max-width:100%;"></a></td>
+        <td>PMS5125</td>
+        <td>[UIColor pantonePMS5125Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.278 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS513Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS513Color.png" width="32" height="32" alt="PMS513" style="max-width:100%;"></a></td>
+        <td>PMS513</td>
+        <td>[UIColor pantonePMS513Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.137 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5135Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5135Color.png" width="32" height="32" alt="PMS5135" style="max-width:100%;"></a></td>
+        <td>PMS5135</td>
+        <td>[UIColor pantonePMS5135Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.420 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS514Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS514Color.png" width="32" height="32" alt="PMS514" style="max-width:100%;"></a></td>
+        <td>PMS514</td>
+        <td>[UIColor pantonePMS514Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.518 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5145Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5145Color.png" width="32" height="32" alt="PMS5145" style="max-width:100%;"></a></td>
+        <td>PMS5145</td>
+        <td>[UIColor pantonePMS5145Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.529 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS515Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS515Color.png" width="32" height="32" alt="PMS515" style="max-width:100%;"></a></td>
+        <td>PMS515</td>
+        <td>[UIColor pantonePMS515Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.639 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5155Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5155Color.png" width="32" height="32" alt="PMS5155" style="max-width:100%;"></a></td>
+        <td>PMS5155</td>
+        <td>[UIColor pantonePMS5155Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.686 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS516Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS516Color.png" width="32" height="32" alt="PMS516" style="max-width:100%;"></a></td>
+        <td>PMS516</td>
+        <td>[UIColor pantonePMS516Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.729 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5165Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5165Color.png" width="32" height="32" alt="PMS5165" style="max-width:100%;"></a></td>
+        <td>PMS5165</td>
+        <td>[UIColor pantonePMS5165Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.788 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS517Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS517Color.png" width="32" height="32" alt="PMS517" style="max-width:100%;"></a></td>
+        <td>PMS517</td>
+        <td>[UIColor pantonePMS517Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.800 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5175Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5175Color.png" width="32" height="32" alt="PMS5175" style="max-width:100%;"></a></td>
+        <td>PMS5175</td>
+        <td>[UIColor pantonePMS5175Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.839 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS518Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS518Color.png" width="32" height="32" alt="PMS518" style="max-width:100%;"></a></td>
+        <td>PMS518</td>
+        <td>[UIColor pantonePMS518Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.176 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5185Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5185Color.png" width="32" height="32" alt="PMS5185" style="max-width:100%;"></a></td>
+        <td>PMS5185</td>
+        <td>[UIColor pantonePMS5185Color]</td>
+        <td>[UIColor colorWithRed:0.278 green:0.157 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS519Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS519Color.png" width="32" height="32" alt="PMS519" style="max-width:100%;"></a></td>
+        <td>PMS519</td>
+        <td>[UIColor pantonePMS519Color]</td>
+        <td>[UIColor colorWithRed:0.388 green:0.188 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5195Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5195Color.png" width="32" height="32" alt="PMS5195" style="max-width:100%;"></a></td>
+        <td>PMS5195</td>
+        <td>[UIColor pantonePMS5195Color]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.200 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS520Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS520Color.png" width="32" height="32" alt="PMS520" style="max-width:100%;"></a></td>
+        <td>PMS520</td>
+        <td>[UIColor pantonePMS520Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.208 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5205Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5205Color.png" width="32" height="32" alt="PMS5205" style="max-width:100%;"></a></td>
+        <td>PMS5205</td>
+        <td>[UIColor pantonePMS5205Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.408 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS521Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS521Color.png" width="32" height="32" alt="PMS521" style="max-width:100%;"></a></td>
+        <td>PMS521</td>
+        <td>[UIColor pantonePMS521Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.549 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5215Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5215Color.png" width="32" height="32" alt="PMS5215" style="max-width:100%;"></a></td>
+        <td>PMS5215</td>
+        <td>[UIColor pantonePMS5215Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.576 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS522Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS522Color.png" width="32" height="32" alt="PMS522" style="max-width:100%;"></a></td>
+        <td>PMS522</td>
+        <td>[UIColor pantonePMS522Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.639 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5225Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5225Color.png" width="32" height="32" alt="PMS5225" style="max-width:100%;"></a></td>
+        <td>PMS5225</td>
+        <td>[UIColor pantonePMS5225Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.678 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS523Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS523Color.png" width="32" height="32" alt="PMS523" style="max-width:100%;"></a></td>
+        <td>PMS523</td>
+        <td>[UIColor pantonePMS523Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.718 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5235Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5235Color.png" width="32" height="32" alt="PMS5235" style="max-width:100%;"></a></td>
+        <td>PMS5235</td>
+        <td>[UIColor pantonePMS5235Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.776 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS524Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS524Color.png" width="32" height="32" alt="PMS524" style="max-width:100%;"></a></td>
+        <td>PMS524</td>
+        <td>[UIColor pantonePMS524Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.800 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5245Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5245Color.png" width="32" height="32" alt="PMS5245" style="max-width:100%;"></a></td>
+        <td>PMS5245</td>
+        <td>[UIColor pantonePMS5245Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.827 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS525Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS525Color.png" width="32" height="32" alt="PMS525" style="max-width:100%;"></a></td>
+        <td>PMS525</td>
+        <td>[UIColor pantonePMS525Color]</td>
+        <td>[UIColor colorWithRed:0.318 green:0.149 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5255Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5255Color.png" width="32" height="32" alt="PMS5255" style="max-width:100%;"></a></td>
+        <td>PMS5255</td>
+        <td>[UIColor pantonePMS5255Color]</td>
+        <td>[UIColor colorWithRed:0.208 green:0.149 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS526Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS526Color.png" width="32" height="32" alt="PMS526" style="max-width:100%;"></a></td>
+        <td>PMS526</td>
+        <td>[UIColor pantonePMS526Color]</td>
+        <td>[UIColor colorWithRed:0.408 green:0.129 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5265Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5265Color.png" width="32" height="32" alt="PMS5265" style="max-width:100%;"></a></td>
+        <td>PMS5265</td>
+        <td>[UIColor pantonePMS5265Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.239 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS527Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS527Color.png" width="32" height="32" alt="PMS527" style="max-width:100%;"></a></td>
+        <td>PMS527</td>
+        <td>[UIColor pantonePMS527Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.118 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5275Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5275Color.png" width="32" height="32" alt="PMS5275" style="max-width:100%;"></a></td>
+        <td>PMS5275</td>
+        <td>[UIColor pantonePMS5275Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.337 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS528Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS528Color.png" width="32" height="32" alt="PMS528" style="max-width:100%;"></a></td>
+        <td>PMS528</td>
+        <td>[UIColor pantonePMS528Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.447 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5285Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5285Color.png" width="32" height="32" alt="PMS5285" style="max-width:100%;"></a></td>
+        <td>PMS5285</td>
+        <td>[UIColor pantonePMS5285Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.510 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS529Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS529Color.png" width="32" height="32" alt="PMS529" style="max-width:100%;"></a></td>
+        <td>PMS529</td>
+        <td>[UIColor pantonePMS529Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.639 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5295Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5295Color.png" width="32" height="32" alt="PMS5295" style="max-width:100%;"></a></td>
+        <td>PMS5295</td>
+        <td>[UIColor pantonePMS5295Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.659 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS530Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS530Color.png" width="32" height="32" alt="PMS530" style="max-width:100%;"></a></td>
+        <td>PMS530</td>
+        <td>[UIColor pantonePMS530Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.686 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5305Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5305Color.png" width="32" height="32" alt="PMS5305" style="max-width:100%;"></a></td>
+        <td>PMS5305</td>
+        <td>[UIColor pantonePMS5305Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.757 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS531Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS531Color.png" width="32" height="32" alt="PMS531" style="max-width:100%;"></a></td>
+        <td>PMS531</td>
+        <td>[UIColor pantonePMS531Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.776 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5315Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5315Color.png" width="32" height="32" alt="PMS5315" style="max-width:100%;"></a></td>
+        <td>PMS5315</td>
+        <td>[UIColor pantonePMS5315Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.827 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS532Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS532Color.png" width="32" height="32" alt="PMS532" style="max-width:100%;"></a></td>
+        <td>PMS532</td>
+        <td>[UIColor pantonePMS532Color]</td>
+        <td>[UIColor colorWithRed:0.208 green:0.220 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS533Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS533Color.png" width="32" height="32" alt="PMS533" style="max-width:100%;"></a></td>
+        <td>PMS533</td>
+        <td>[UIColor pantonePMS533Color]</td>
+        <td>[UIColor colorWithRed:0.208 green:0.247 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS534Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS534Color.png" width="32" height="32" alt="PMS534" style="max-width:100%;"></a></td>
+        <td>PMS534</td>
+        <td>[UIColor pantonePMS534Color]</td>
+        <td>[UIColor colorWithRed:0.227 green:0.286 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS535Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS535Color.png" width="32" height="32" alt="PMS535" style="max-width:100%;"></a></td>
+        <td>PMS535</td>
+        <td>[UIColor pantonePMS535Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.639 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS536Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS536Color.png" width="32" height="32" alt="PMS536" style="max-width:100%;"></a></td>
+        <td>PMS536</td>
+        <td>[UIColor pantonePMS536Color]</td>
+        <td>[UIColor colorWithRed:0.678 green:0.698 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS537Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS537Color.png" width="32" height="32" alt="PMS537" style="max-width:100%;"></a></td>
+        <td>PMS537</td>
+        <td>[UIColor pantonePMS537Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.776 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS538Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS538Color.png" width="32" height="32" alt="PMS538" style="max-width:100%;"></a></td>
+        <td>PMS538</td>
+        <td>[UIColor pantonePMS538Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.827 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS539Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS539Color.png" width="32" height="32" alt="PMS539" style="max-width:100%;"></a></td>
+        <td>PMS539</td>
+        <td>[UIColor pantonePMS539Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.188 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5395Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5395Color.png" width="32" height="32" alt="PMS5395" style="max-width:100%;"></a></td>
+        <td>PMS5395</td>
+        <td>[UIColor pantonePMS5395Color]</td>
+        <td>[UIColor colorWithRed:0.008 green:0.157 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS540Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS540Color.png" width="32" height="32" alt="PMS540" style="max-width:100%;"></a></td>
+        <td>PMS540</td>
+        <td>[UIColor pantonePMS540Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.200 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5405Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5405Color.png" width="32" height="32" alt="PMS5405" style="max-width:100%;"></a></td>
+        <td>PMS5405</td>
+        <td>[UIColor pantonePMS5405Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.376 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS541Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS541Color.png" width="32" height="32" alt="PMS541" style="max-width:100%;"></a></td>
+        <td>PMS541</td>
+        <td>[UIColor pantonePMS541Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.247 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5415Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5415Color.png" width="32" height="32" alt="PMS5415" style="max-width:100%;"></a></td>
+        <td>PMS5415</td>
+        <td>[UIColor pantonePMS5415Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.486 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS542Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS542Color.png" width="32" height="32" alt="PMS542" style="max-width:100%;"></a></td>
+        <td>PMS542</td>
+        <td>[UIColor pantonePMS542Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.576 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5425Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5425Color.png" width="32" height="32" alt="PMS5425" style="max-width:100%;"></a></td>
+        <td>PMS5425</td>
+        <td>[UIColor pantonePMS5425Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.600 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS543Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS543Color.png" width="32" height="32" alt="PMS543" style="max-width:100%;"></a></td>
+        <td>PMS543</td>
+        <td>[UIColor pantonePMS543Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.718 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5435Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5435Color.png" width="32" height="32" alt="PMS5435" style="max-width:100%;"></a></td>
+        <td>PMS5435</td>
+        <td>[UIColor pantonePMS5435Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.737 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS544Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS544Color.png" width="32" height="32" alt="PMS544" style="max-width:100%;"></a></td>
+        <td>PMS544</td>
+        <td>[UIColor pantonePMS544Color]</td>
+        <td>[UIColor colorWithRed:0.718 green:0.800 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5445Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5445Color.png" width="32" height="32" alt="PMS5445" style="max-width:100%;"></a></td>
+        <td>PMS5445</td>
+        <td>[UIColor pantonePMS5445Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.800 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS545Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS545Color.png" width="32" height="32" alt="PMS545" style="max-width:100%;"></a></td>
+        <td>PMS545</td>
+        <td>[UIColor pantonePMS545Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.827 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5455Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5455Color.png" width="32" height="32" alt="PMS5455" style="max-width:100%;"></a></td>
+        <td>PMS5455</td>
+        <td>[UIColor pantonePMS5455Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.847 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS546Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS546Color.png" width="32" height="32" alt="PMS546" style="max-width:100%;"></a></td>
+        <td>PMS546</td>
+        <td>[UIColor pantonePMS546Color]</td>
+        <td>[UIColor colorWithRed:0.047 green:0.220 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5463Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5463Color.png" width="32" height="32" alt="PMS5463" style="max-width:100%;"></a></td>
+        <td>PMS5463</td>
+        <td>[UIColor pantonePMS5463Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.208 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5467Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5467Color.png" width="32" height="32" alt="PMS5467" style="max-width:100%;"></a></td>
+        <td>PMS5467</td>
+        <td>[UIColor pantonePMS5467Color]</td>
+        <td>[UIColor colorWithRed:0.098 green:0.220 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS547Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS547Color.png" width="32" height="32" alt="PMS547" style="max-width:100%;"></a></td>
+        <td>PMS547</td>
+        <td>[UIColor pantonePMS547Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.247 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5473Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5473Color.png" width="32" height="32" alt="PMS5473" style="max-width:100%;"></a></td>
+        <td>PMS5473</td>
+        <td>[UIColor pantonePMS5473Color]</td>
+        <td>[UIColor colorWithRed:0.149 green:0.408 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5477Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5477Color.png" width="32" height="32" alt="PMS5477" style="max-width:100%;"></a></td>
+        <td>PMS5477</td>
+        <td>[UIColor pantonePMS5477Color]</td>
+        <td>[UIColor colorWithRed:0.227 green:0.337 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS548Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS548Color.png" width="32" height="32" alt="PMS548" style="max-width:100%;"></a></td>
+        <td>PMS548</td>
+        <td>[UIColor pantonePMS548Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.267 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5483Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5483Color.png" width="32" height="32" alt="PMS5483" style="max-width:100%;"></a></td>
+        <td>PMS5483</td>
+        <td>[UIColor pantonePMS5483Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.569 blue:0.569 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5487Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5487Color.png" width="32" height="32" alt="PMS5487" style="max-width:100%;"></a></td>
+        <td>PMS5487</td>
+        <td>[UIColor pantonePMS5487Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.486 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS549Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS549Color.png" width="32" height="32" alt="PMS549" style="max-width:100%;"></a></td>
+        <td>PMS549</td>
+        <td>[UIColor pantonePMS549Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.600 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5493Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5493Color.png" width="32" height="32" alt="PMS5493" style="max-width:100%;"></a></td>
+        <td>PMS5493</td>
+        <td>[UIColor pantonePMS5493Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.686 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5497Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5497Color.png" width="32" height="32" alt="PMS5497" style="max-width:100%;"></a></td>
+        <td>PMS5497</td>
+        <td>[UIColor pantonePMS5497Color]</td>
+        <td>[UIColor colorWithRed:0.569 green:0.639 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS550Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS550Color.png" width="32" height="32" alt="PMS550" style="max-width:100%;"></a></td>
+        <td>PMS550</td>
+        <td>[UIColor pantonePMS550Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.686 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5503Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5503Color.png" width="32" height="32" alt="PMS5503" style="max-width:100%;"></a></td>
+        <td>PMS5503</td>
+        <td>[UIColor pantonePMS5503Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.769 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5507Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5507Color.png" width="32" height="32" alt="PMS5507" style="max-width:100%;"></a></td>
+        <td>PMS5507</td>
+        <td>[UIColor pantonePMS5507Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.729 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS551Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS551Color.png" width="32" height="32" alt="PMS551" style="max-width:100%;"></a></td>
+        <td>PMS551</td>
+        <td>[UIColor pantonePMS551Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.757 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5513Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5513Color.png" width="32" height="32" alt="PMS5513" style="max-width:100%;"></a></td>
+        <td>PMS5513</td>
+        <td>[UIColor pantonePMS5513Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.847 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5517Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5517Color.png" width="32" height="32" alt="PMS5517" style="max-width:100%;"></a></td>
+        <td>PMS5517</td>
+        <td>[UIColor pantonePMS5517Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.808 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS552Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS552Color.png" width="32" height="32" alt="PMS552" style="max-width:100%;"></a></td>
+        <td>PMS552</td>
+        <td>[UIColor pantonePMS552Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.839 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5523Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5523Color.png" width="32" height="32" alt="PMS5523" style="max-width:100%;"></a></td>
+        <td>PMS5523</td>
+        <td>[UIColor pantonePMS5523Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.867 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5527Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5527Color.png" width="32" height="32" alt="PMS5527" style="max-width:100%;"></a></td>
+        <td>PMS5527</td>
+        <td>[UIColor pantonePMS5527Color]</td>
+        <td>[UIColor colorWithRed:0.808 green:0.820 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS553Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS553Color.png" width="32" height="32" alt="PMS553" style="max-width:100%;"></a></td>
+        <td>PMS553</td>
+        <td>[UIColor pantonePMS553Color]</td>
+        <td>[UIColor colorWithRed:0.137 green:0.267 blue:0.208 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5535Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5535Color.png" width="32" height="32" alt="PMS5535" style="max-width:100%;"></a></td>
+        <td>PMS5535</td>
+        <td>[UIColor pantonePMS5535Color]</td>
+        <td>[UIColor colorWithRed:0.129 green:0.239 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS554Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS554Color.png" width="32" height="32" alt="PMS554" style="max-width:100%;"></a></td>
+        <td>PMS554</td>
+        <td>[UIColor pantonePMS554Color]</td>
+        <td>[UIColor colorWithRed:0.098 green:0.369 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5545Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5545Color.png" width="32" height="32" alt="PMS5545" style="max-width:100%;"></a></td>
+        <td>PMS5545</td>
+        <td>[UIColor pantonePMS5545Color]</td>
+        <td>[UIColor colorWithRed:0.310 green:0.427 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS555Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS555Color.png" width="32" height="32" alt="PMS555" style="max-width:100%;"></a></td>
+        <td>PMS555</td>
+        <td>[UIColor pantonePMS555Color]</td>
+        <td>[UIColor colorWithRed:0.027 green:0.427 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5555Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5555Color.png" width="32" height="32" alt="PMS5555" style="max-width:100%;"></a></td>
+        <td>PMS5555</td>
+        <td>[UIColor pantonePMS5555Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.569 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS556Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS556Color.png" width="32" height="32" alt="PMS556" style="max-width:100%;"></a></td>
+        <td>PMS556</td>
+        <td>[UIColor pantonePMS556Color]</td>
+        <td>[UIColor colorWithRed:0.478 green:0.659 blue:0.569 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5565Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5565Color.png" width="32" height="32" alt="PMS5565" style="max-width:100%;"></a></td>
+        <td>PMS5565</td>
+        <td>[UIColor pantonePMS5565Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.667 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS557Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS557Color.png" width="32" height="32" alt="PMS557" style="max-width:100%;"></a></td>
+        <td>PMS557</td>
+        <td>[UIColor pantonePMS557Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.757 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5575Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5575Color.png" width="32" height="32" alt="PMS5575" style="max-width:100%;"></a></td>
+        <td>PMS5575</td>
+        <td>[UIColor pantonePMS5575Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.749 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS558Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS558Color.png" width="32" height="32" alt="PMS558" style="max-width:100%;"></a></td>
+        <td>PMS558</td>
+        <td>[UIColor pantonePMS558Color]</td>
+        <td>[UIColor colorWithRed:0.718 green:0.808 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5585Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5585Color.png" width="32" height="32" alt="PMS5585" style="max-width:100%;"></a></td>
+        <td>PMS5585</td>
+        <td>[UIColor pantonePMS5585Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.808 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS559Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS559Color.png" width="32" height="32" alt="PMS559" style="max-width:100%;"></a></td>
+        <td>PMS559</td>
+        <td>[UIColor pantonePMS559Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.839 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5595Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5595Color.png" width="32" height="32" alt="PMS5595" style="max-width:100%;"></a></td>
+        <td>PMS5595</td>
+        <td>[UIColor pantonePMS5595Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.859 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS560Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS560Color.png" width="32" height="32" alt="PMS560" style="max-width:100%;"></a></td>
+        <td>PMS560</td>
+        <td>[UIColor pantonePMS560Color]</td>
+        <td>[UIColor colorWithRed:0.169 green:0.298 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5605Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5605Color.png" width="32" height="32" alt="PMS5605" style="max-width:100%;"></a></td>
+        <td>PMS5605</td>
+        <td>[UIColor pantonePMS5605Color]</td>
+        <td>[UIColor colorWithRed:0.137 green:0.227 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS561Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS561Color.png" width="32" height="32" alt="PMS561" style="max-width:100%;"></a></td>
+        <td>PMS561</td>
+        <td>[UIColor pantonePMS561Color]</td>
+        <td>[UIColor colorWithRed:0.149 green:0.400 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5615Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5615Color.png" width="32" height="32" alt="PMS5615" style="max-width:100%;"></a></td>
+        <td>PMS5615</td>
+        <td>[UIColor pantonePMS5615Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.408 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS562Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS562Color.png" width="32" height="32" alt="PMS562" style="max-width:100%;"></a></td>
+        <td>PMS562</td>
+        <td>[UIColor pantonePMS562Color]</td>
+        <td>[UIColor colorWithRed:0.118 green:0.478 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5625Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5625Color.png" width="32" height="32" alt="PMS5625" style="max-width:100%;"></a></td>
+        <td>PMS5625</td>
+        <td>[UIColor pantonePMS5625Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.518 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS563Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS563Color.png" width="32" height="32" alt="PMS563" style="max-width:100%;"></a></td>
+        <td>PMS563</td>
+        <td>[UIColor pantonePMS563Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.737 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5635Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5635Color.png" width="32" height="32" alt="PMS5635" style="max-width:100%;"></a></td>
+        <td>PMS5635</td>
+        <td>[UIColor pantonePMS5635Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.667 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS564Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS564Color.png" width="32" height="32" alt="PMS564" style="max-width:100%;"></a></td>
+        <td>PMS564</td>
+        <td>[UIColor pantonePMS564Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.808 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5645Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5645Color.png" width="32" height="32" alt="PMS5645" style="max-width:100%;"></a></td>
+        <td>PMS5645</td>
+        <td>[UIColor pantonePMS5645Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.757 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS565Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS565Color.png" width="32" height="32" alt="PMS565" style="max-width:100%;"></a></td>
+        <td>PMS565</td>
+        <td>[UIColor pantonePMS565Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.859 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5655Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5655Color.png" width="32" height="32" alt="PMS5655" style="max-width:100%;"></a></td>
+        <td>PMS5655</td>
+        <td>[UIColor pantonePMS5655Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.800 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS566Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS566Color.png" width="32" height="32" alt="PMS566" style="max-width:100%;"></a></td>
+        <td>PMS566</td>
+        <td>[UIColor pantonePMS566Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.886 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS568Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS568Color.png" width="32" height="32" alt="PMS568" style="max-width:100%;"></a></td>
+        <td>PMS568</td>
+        <td>[UIColor pantonePMS568Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.839 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS569Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS569Color.png" width="32" height="32" alt="PMS569" style="max-width:100%;"></a></td>
+        <td>PMS569</td>
+        <td>[UIColor pantonePMS569Color]</td>
+        <td>[UIColor colorWithRed:0.020 green:0.439 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS570Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS570Color.png" width="32" height="32" alt="PMS570" style="max-width:100%;"></a></td>
+        <td>PMS570</td>
+        <td>[UIColor pantonePMS570Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.529 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS571Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS571Color.png" width="32" height="32" alt="PMS571" style="max-width:100%;"></a></td>
+        <td>PMS571</td>
+        <td>[UIColor pantonePMS571Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.776 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS572Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS572Color.png" width="32" height="32" alt="PMS572" style="max-width:100%;"></a></td>
+        <td>PMS572</td>
+        <td>[UIColor pantonePMS572Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.859 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS573Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS573Color.png" width="32" height="32" alt="PMS573" style="max-width:100%;"></a></td>
+        <td>PMS573</td>
+        <td>[UIColor pantonePMS573Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.886 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS574Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS574Color.png" width="32" height="32" alt="PMS574" style="max-width:100%;"></a></td>
+        <td>PMS574</td>
+        <td>[UIColor pantonePMS574Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.898 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5743Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5743Color.png" width="32" height="32" alt="PMS5743" style="max-width:100%;"></a></td>
+        <td>PMS5743</td>
+        <td>[UIColor pantonePMS5743Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.867 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5747Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5747Color.png" width="32" height="32" alt="PMS5747" style="max-width:100%;"></a></td>
+        <td>PMS5747</td>
+        <td>[UIColor pantonePMS5747Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.839 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS575Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS575Color.png" width="32" height="32" alt="PMS575" style="max-width:100%;"></a></td>
+        <td>PMS575</td>
+        <td>[UIColor pantonePMS575Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.349 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5753Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5753Color.png" width="32" height="32" alt="PMS5753" style="max-width:100%;"></a></td>
+        <td>PMS5753</td>
+        <td>[UIColor pantonePMS5753Color]</td>
+        <td>[UIColor colorWithRed:0.247 green:0.286 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5757Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5757Color.png" width="32" height="32" alt="PMS5757" style="max-width:100%;"></a></td>
+        <td>PMS5757</td>
+        <td>[UIColor pantonePMS5757Color]</td>
+        <td>[UIColor colorWithRed:0.259 green:0.278 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS576Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS576Color.png" width="32" height="32" alt="PMS576" style="max-width:100%;"></a></td>
+        <td>PMS576</td>
+        <td>[UIColor pantonePMS576Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.467 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5763Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5763Color.png" width="32" height="32" alt="PMS5763" style="max-width:100%;"></a></td>
+        <td>PMS5763</td>
+        <td>[UIColor pantonePMS5763Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.400 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5767Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5767Color.png" width="32" height="32" alt="PMS5767" style="max-width:100%;"></a></td>
+        <td>PMS5767</td>
+        <td>[UIColor pantonePMS5767Color]</td>
+        <td>[UIColor colorWithRed:0.420 green:0.439 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS577Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS577Color.png" width="32" height="32" alt="PMS577" style="max-width:100%;"></a></td>
+        <td>PMS577</td>
+        <td>[UIColor pantonePMS577Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.557 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5773Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5773Color.png" width="32" height="32" alt="PMS5773" style="max-width:100%;"></a></td>
+        <td>PMS5773</td>
+        <td>[UIColor pantonePMS5773Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.486 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5777Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5777Color.png" width="32" height="32" alt="PMS5777" style="max-width:100%;"></a></td>
+        <td>PMS5777</td>
+        <td>[UIColor pantonePMS5777Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.569 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS578Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS578Color.png" width="32" height="32" alt="PMS578" style="max-width:100%;"></a></td>
+        <td>PMS578</td>
+        <td>[UIColor pantonePMS578Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.800 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5783Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5783Color.png" width="32" height="32" alt="PMS5783" style="max-width:100%;"></a></td>
+        <td>PMS5783</td>
+        <td>[UIColor pantonePMS5783Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.620 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5787Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5787Color.png" width="32" height="32" alt="PMS5787" style="max-width:100%;"></a></td>
+        <td>PMS5787</td>
+        <td>[UIColor pantonePMS5787Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.678 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS579Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS579Color.png" width="32" height="32" alt="PMS579" style="max-width:100%;"></a></td>
+        <td>PMS579</td>
+        <td>[UIColor pantonePMS579Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.839 blue:0.627 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5793Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5793Color.png" width="32" height="32" alt="PMS5793" style="max-width:100%;"></a></td>
+        <td>PMS5793</td>
+        <td>[UIColor pantonePMS5793Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.710 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5797Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5797Color.png" width="32" height="32" alt="PMS5797" style="max-width:100%;"></a></td>
+        <td>PMS5797</td>
+        <td>[UIColor pantonePMS5797Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.776 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS580Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS580Color.png" width="32" height="32" alt="PMS580" style="max-width:100%;"></a></td>
+        <td>PMS580</td>
+        <td>[UIColor pantonePMS580Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.839 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5807Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5807Color.png" width="32" height="32" alt="PMS5807" style="max-width:100%;"></a></td>
+        <td>PMS5807</td>
+        <td>[UIColor pantonePMS5807Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.820 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS581Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS581Color.png" width="32" height="32" alt="PMS581" style="max-width:100%;"></a></td>
+        <td>PMS581</td>
+        <td>[UIColor pantonePMS581Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.867 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5815Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5815Color.png" width="32" height="32" alt="PMS5815" style="max-width:100%;"></a></td>
+        <td>PMS5815</td>
+        <td>[UIColor pantonePMS5815Color]</td>
+        <td>[UIColor colorWithRed:0.286 green:0.267 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS582Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS582Color.png" width="32" height="32" alt="PMS582" style="max-width:100%;"></a></td>
+        <td>PMS582</td>
+        <td>[UIColor pantonePMS582Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.369 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5825Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5825Color.png" width="32" height="32" alt="PMS5825" style="max-width:100%;"></a></td>
+        <td>PMS5825</td>
+        <td>[UIColor pantonePMS5825Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.439 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS583Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS583Color.png" width="32" height="32" alt="PMS583" style="max-width:100%;"></a></td>
+        <td>PMS583</td>
+        <td>[UIColor pantonePMS583Color]</td>
+        <td>[UIColor colorWithRed:0.529 green:0.537 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5835Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5835Color.png" width="32" height="32" alt="PMS5835" style="max-width:100%;"></a></td>
+        <td>PMS5835</td>
+        <td>[UIColor pantonePMS5835Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.600 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS584Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS584Color.png" width="32" height="32" alt="PMS584" style="max-width:100%;"></a></td>
+        <td>PMS584</td>
+        <td>[UIColor pantonePMS584Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.729 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5845Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5845Color.png" width="32" height="32" alt="PMS5845" style="max-width:100%;"></a></td>
+        <td>PMS5845</td>
+        <td>[UIColor pantonePMS5845Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.667 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS585Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS585Color.png" width="32" height="32" alt="PMS585" style="max-width:100%;"></a></td>
+        <td>PMS585</td>
+        <td>[UIColor pantonePMS585Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.878 blue:0.420 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5855Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5855Color.png" width="32" height="32" alt="PMS5855" style="max-width:100%;"></a></td>
+        <td>PMS5855</td>
+        <td>[UIColor pantonePMS5855Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.776 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS586Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS586Color.png" width="32" height="32" alt="PMS586" style="max-width:100%;"></a></td>
+        <td>PMS586</td>
+        <td>[UIColor pantonePMS586Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.898 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5865Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5865Color.png" width="32" height="32" alt="PMS5865" style="max-width:100%;"></a></td>
+        <td>PMS5865</td>
+        <td>[UIColor pantonePMS5865Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.808 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS587Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS587Color.png" width="32" height="32" alt="PMS587" style="max-width:100%;"></a></td>
+        <td>PMS587</td>
+        <td>[UIColor pantonePMS587Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.910 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5875Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS5875Color.png" width="32" height="32" alt="PMS5875" style="max-width:100%;"></a></td>
+        <td>PMS5875</td>
+        <td>[UIColor pantonePMS5875Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.859 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS600Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS600Color.png" width="32" height="32" alt="PMS600" style="max-width:100%;"></a></td>
+        <td>PMS600</td>
+        <td>[UIColor pantonePMS600Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.929 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS601Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS601Color.png" width="32" height="32" alt="PMS601" style="max-width:100%;"></a></td>
+        <td>PMS601</td>
+        <td>[UIColor pantonePMS601Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.929 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS602Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS602Color.png" width="32" height="32" alt="PMS602" style="max-width:100%;"></a></td>
+        <td>PMS602</td>
+        <td>[UIColor pantonePMS602Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.918 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS603Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS603Color.png" width="32" height="32" alt="PMS603" style="max-width:100%;"></a></td>
+        <td>PMS603</td>
+        <td>[UIColor pantonePMS603Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.910 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS604Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS604Color.png" width="32" height="32" alt="PMS604" style="max-width:100%;"></a></td>
+        <td>PMS604</td>
+        <td>[UIColor pantonePMS604Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.867 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS605Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS605Color.png" width="32" height="32" alt="PMS605" style="max-width:100%;"></a></td>
+        <td>PMS605</td>
+        <td>[UIColor pantonePMS605Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.808 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS606Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS606Color.png" width="32" height="32" alt="PMS606" style="max-width:100%;"></a></td>
+        <td>PMS606</td>
+        <td>[UIColor pantonePMS606Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.749 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS607Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS607Color.png" width="32" height="32" alt="PMS607" style="max-width:100%;"></a></td>
+        <td>PMS607</td>
+        <td>[UIColor pantonePMS607Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.918 blue:0.737 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS608Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS608Color.png" width="32" height="32" alt="PMS608" style="max-width:100%;"></a></td>
+        <td>PMS608</td>
+        <td>[UIColor pantonePMS608Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.910 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS609Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS609Color.png" width="32" height="32" alt="PMS609" style="max-width:100%;"></a></td>
+        <td>PMS609</td>
+        <td>[UIColor pantonePMS609Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.898 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS610Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS610Color.png" width="32" height="32" alt="PMS610" style="max-width:100%;"></a></td>
+        <td>PMS610</td>
+        <td>[UIColor pantonePMS610Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.859 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS611Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS611Color.png" width="32" height="32" alt="PMS611" style="max-width:100%;"></a></td>
+        <td>PMS611</td>
+        <td>[UIColor pantonePMS611Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.808 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS612Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS612Color.png" width="32" height="32" alt="PMS612" style="max-width:100%;"></a></td>
+        <td>PMS612</td>
+        <td>[UIColor pantonePMS612Color]</td>
+        <td>[UIColor colorWithRed:0.769 green:0.729 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS613Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS613Color.png" width="32" height="32" alt="PMS613" style="max-width:100%;"></a></td>
+        <td>PMS613</td>
+        <td>[UIColor pantonePMS613Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.627 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS614Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS614Color.png" width="32" height="32" alt="PMS614" style="max-width:100%;"></a></td>
+        <td>PMS614</td>
+        <td>[UIColor pantonePMS614Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.886 blue:0.718 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS615Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS615Color.png" width="32" height="32" alt="PMS615" style="max-width:100%;"></a></td>
+        <td>PMS615</td>
+        <td>[UIColor pantonePMS615Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.859 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS616Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS616Color.png" width="32" height="32" alt="PMS616" style="max-width:100%;"></a></td>
+        <td>PMS616</td>
+        <td>[UIColor pantonePMS616Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.839 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS617Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS617Color.png" width="32" height="32" alt="PMS617" style="max-width:100%;"></a></td>
+        <td>PMS617</td>
+        <td>[UIColor pantonePMS617Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.769 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS618Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS618Color.png" width="32" height="32" alt="PMS618" style="max-width:100%;"></a></td>
+        <td>PMS618</td>
+        <td>[UIColor pantonePMS618Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.667 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS619Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS619Color.png" width="32" height="32" alt="PMS619" style="max-width:100%;"></a></td>
+        <td>PMS619</td>
+        <td>[UIColor pantonePMS619Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.549 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS620Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS620Color.png" width="32" height="32" alt="PMS620" style="max-width:100%;"></a></td>
+        <td>PMS620</td>
+        <td>[UIColor pantonePMS620Color]</td>
+        <td>[UIColor colorWithRed:0.518 green:0.467 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS621Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS621Color.png" width="32" height="32" alt="PMS621" style="max-width:100%;"></a></td>
+        <td>PMS621</td>
+        <td>[UIColor pantonePMS621Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.867 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS622Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS622Color.png" width="32" height="32" alt="PMS622" style="max-width:100%;"></a></td>
+        <td>PMS622</td>
+        <td>[UIColor pantonePMS622Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.820 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS623Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS623Color.png" width="32" height="32" alt="PMS623" style="max-width:100%;"></a></td>
+        <td>PMS623</td>
+        <td>[UIColor pantonePMS623Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.749 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS624Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS624Color.png" width="32" height="32" alt="PMS624" style="max-width:100%;"></a></td>
+        <td>PMS624</td>
+        <td>[UIColor pantonePMS624Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.627 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS625Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS625Color.png" width="32" height="32" alt="PMS625" style="max-width:100%;"></a></td>
+        <td>PMS625</td>
+        <td>[UIColor pantonePMS625Color]</td>
+        <td>[UIColor colorWithRed:0.357 green:0.529 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS626Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS626Color.png" width="32" height="32" alt="PMS626" style="max-width:100%;"></a></td>
+        <td>PMS626</td>
+        <td>[UIColor pantonePMS626Color]</td>
+        <td>[UIColor colorWithRed:0.129 green:0.329 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS627Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS627Color.png" width="32" height="32" alt="PMS627" style="max-width:100%;"></a></td>
+        <td>PMS627</td>
+        <td>[UIColor pantonePMS627Color]</td>
+        <td>[UIColor colorWithRed:0.047 green:0.188 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS628Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS628Color.png" width="32" height="32" alt="PMS628" style="max-width:100%;"></a></td>
+        <td>PMS628</td>
+        <td>[UIColor pantonePMS628Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.886 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS629Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS629Color.png" width="32" height="32" alt="PMS629" style="max-width:100%;"></a></td>
+        <td>PMS629</td>
+        <td>[UIColor pantonePMS629Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.847 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS630Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS630Color.png" width="32" height="32" alt="PMS630" style="max-width:100%;"></a></td>
+        <td>PMS630</td>
+        <td>[UIColor pantonePMS630Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.800 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS631Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS631Color.png" width="32" height="32" alt="PMS631" style="max-width:100%;"></a></td>
+        <td>PMS631</td>
+        <td>[UIColor pantonePMS631Color]</td>
+        <td>[UIColor colorWithRed:0.329 green:0.718 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS632Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS632Color.png" width="32" height="32" alt="PMS632" style="max-width:100%;"></a></td>
+        <td>PMS632</td>
+        <td>[UIColor pantonePMS632Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.627 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS633Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS633Color.png" width="32" height="32" alt="PMS633" style="max-width:100%;"></a></td>
+        <td>PMS633</td>
+        <td>[UIColor pantonePMS633Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.498 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS634Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS634Color.png" width="32" height="32" alt="PMS634" style="max-width:100%;"></a></td>
+        <td>PMS634</td>
+        <td>[UIColor pantonePMS634Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.400 blue:0.498 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS635Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS635Color.png" width="32" height="32" alt="PMS635" style="max-width:100%;"></a></td>
+        <td>PMS635</td>
+        <td>[UIColor pantonePMS635Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.878 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS636Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS636Color.png" width="32" height="32" alt="PMS636" style="max-width:100%;"></a></td>
+        <td>PMS636</td>
+        <td>[UIColor pantonePMS636Color]</td>
+        <td>[UIColor colorWithRed:0.600 green:0.839 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS637Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS637Color.png" width="32" height="32" alt="PMS637" style="max-width:100%;"></a></td>
+        <td>PMS637</td>
+        <td>[UIColor pantonePMS637Color]</td>
+        <td>[UIColor colorWithRed:0.420 green:0.788 blue:0.859 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS638Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS638Color.png" width="32" height="32" alt="PMS638" style="max-width:100%;"></a></td>
+        <td>PMS638</td>
+        <td>[UIColor pantonePMS638Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.710 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS639Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS639Color.png" width="32" height="32" alt="PMS639" style="max-width:100%;"></a></td>
+        <td>PMS639</td>
+        <td>[UIColor pantonePMS639Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.627 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS640Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS640Color.png" width="32" height="32" alt="PMS640" style="max-width:100%;"></a></td>
+        <td>PMS640</td>
+        <td>[UIColor pantonePMS640Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.549 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS641Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS641Color.png" width="32" height="32" alt="PMS641" style="max-width:100%;"></a></td>
+        <td>PMS641</td>
+        <td>[UIColor pantonePMS641Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.478 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS642Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS642Color.png" width="32" height="32" alt="PMS642" style="max-width:100%;"></a></td>
+        <td>PMS642</td>
+        <td>[UIColor pantonePMS642Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.847 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS643Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS643Color.png" width="32" height="32" alt="PMS643" style="max-width:100%;"></a></td>
+        <td>PMS643</td>
+        <td>[UIColor pantonePMS643Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.820 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS644Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS644Color.png" width="32" height="32" alt="PMS644" style="max-width:100%;"></a></td>
+        <td>PMS644</td>
+        <td>[UIColor pantonePMS644Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.686 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS645Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS645Color.png" width="32" height="32" alt="PMS645" style="max-width:100%;"></a></td>
+        <td>PMS645</td>
+        <td>[UIColor pantonePMS645Color]</td>
+        <td>[UIColor colorWithRed:0.467 green:0.588 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS646Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS646Color.png" width="32" height="32" alt="PMS646" style="max-width:100%;"></a></td>
+        <td>PMS646</td>
+        <td>[UIColor pantonePMS646Color]</td>
+        <td>[UIColor colorWithRed:0.369 green:0.510 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS647Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS647Color.png" width="32" height="32" alt="PMS647" style="max-width:100%;"></a></td>
+        <td>PMS647</td>
+        <td>[UIColor pantonePMS647Color]</td>
+        <td>[UIColor colorWithRed:0.149 green:0.329 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS648Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS648Color.png" width="32" height="32" alt="PMS648" style="max-width:100%;"></a></td>
+        <td>PMS648</td>
+        <td>[UIColor pantonePMS648Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.188 blue:0.369 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS649Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS649Color.png" width="32" height="32" alt="PMS649" style="max-width:100%;"></a></td>
+        <td>PMS649</td>
+        <td>[UIColor pantonePMS649Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.839 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS650Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS650Color.png" width="32" height="32" alt="PMS650" style="max-width:100%;"></a></td>
+        <td>PMS650</td>
+        <td>[UIColor pantonePMS650Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.776 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS651Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS651Color.png" width="32" height="32" alt="PMS651" style="max-width:100%;"></a></td>
+        <td>PMS651</td>
+        <td>[UIColor pantonePMS651Color]</td>
+        <td>[UIColor colorWithRed:0.608 green:0.667 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS652Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS652Color.png" width="32" height="32" alt="PMS652" style="max-width:100%;"></a></td>
+        <td>PMS652</td>
+        <td>[UIColor pantonePMS652Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.529 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS653Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS653Color.png" width="32" height="32" alt="PMS653" style="max-width:100%;"></a></td>
+        <td>PMS653</td>
+        <td>[UIColor pantonePMS653Color]</td>
+        <td>[UIColor colorWithRed:0.200 green:0.337 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS654Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS654Color.png" width="32" height="32" alt="PMS654" style="max-width:100%;"></a></td>
+        <td>PMS654</td>
+        <td>[UIColor pantonePMS654Color]</td>
+        <td>[UIColor colorWithRed:0.059 green:0.169 blue:0.357 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS655Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS655Color.png" width="32" height="32" alt="PMS655" style="max-width:100%;"></a></td>
+        <td>PMS655</td>
+        <td>[UIColor pantonePMS655Color]</td>
+        <td>[UIColor colorWithRed:0.047 green:0.110 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS656Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS656Color.png" width="32" height="32" alt="PMS656" style="max-width:100%;"></a></td>
+        <td>PMS656</td>
+        <td>[UIColor pantonePMS656Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.859 blue:0.878 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS657Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS657Color.png" width="32" height="32" alt="PMS657" style="max-width:100%;"></a></td>
+        <td>PMS657</td>
+        <td>[UIColor pantonePMS657Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.788 blue:0.867 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS658Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS658Color.png" width="32" height="32" alt="PMS658" style="max-width:100%;"></a></td>
+        <td>PMS658</td>
+        <td>[UIColor pantonePMS658Color]</td>
+        <td>[UIColor colorWithRed:0.647 green:0.686 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS659Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS659Color.png" width="32" height="32" alt="PMS659" style="max-width:100%;"></a></td>
+        <td>PMS659</td>
+        <td>[UIColor pantonePMS659Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.549 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS660Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS660Color.png" width="32" height="32" alt="PMS660" style="max-width:100%;"></a></td>
+        <td>PMS660</td>
+        <td>[UIColor pantonePMS660Color]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.376 blue:0.659 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS661Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS661Color.png" width="32" height="32" alt="PMS661" style="max-width:100%;"></a></td>
+        <td>PMS661</td>
+        <td>[UIColor pantonePMS661Color]</td>
+        <td>[UIColor colorWithRed:0.176 green:0.200 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS662Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS662Color.png" width="32" height="32" alt="PMS662" style="max-width:100%;"></a></td>
+        <td>PMS662</td>
+        <td>[UIColor pantonePMS662Color]</td>
+        <td>[UIColor colorWithRed:0.047 green:0.098 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS663Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS663Color.png" width="32" height="32" alt="PMS663" style="max-width:100%;"></a></td>
+        <td>PMS663</td>
+        <td>[UIColor pantonePMS663Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.827 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS664Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS664Color.png" width="32" height="32" alt="PMS664" style="max-width:100%;"></a></td>
+        <td>PMS664</td>
+        <td>[UIColor pantonePMS664Color]</td>
+        <td>[UIColor colorWithRed:0.847 green:0.800 blue:0.820 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS665Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS665Color.png" width="32" height="32" alt="PMS665" style="max-width:100%;"></a></td>
+        <td>PMS665</td>
+        <td>[UIColor pantonePMS665Color]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.710 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS666Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS666Color.png" width="32" height="32" alt="PMS666" style="max-width:100%;"></a></td>
+        <td>PMS666</td>
+        <td>[UIColor pantonePMS666Color]</td>
+        <td>[UIColor colorWithRed:0.659 green:0.576 blue:0.678 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS667Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS667Color.png" width="32" height="32" alt="PMS667" style="max-width:100%;"></a></td>
+        <td>PMS667</td>
+        <td>[UIColor pantonePMS667Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.400 blue:0.537 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS668Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS668Color.png" width="32" height="32" alt="PMS668" style="max-width:100%;"></a></td>
+        <td>PMS668</td>
+        <td>[UIColor pantonePMS668Color]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.286 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS669Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS669Color.png" width="32" height="32" alt="PMS669" style="max-width:100%;"></a></td>
+        <td>PMS669</td>
+        <td>[UIColor pantonePMS669Color]</td>
+        <td>[UIColor colorWithRed:0.278 green:0.169 blue:0.349 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS670Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS670Color.png" width="32" height="32" alt="PMS670" style="max-width:100%;"></a></td>
+        <td>PMS670</td>
+        <td>[UIColor pantonePMS670Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.839 blue:0.847 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS671Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS671Color.png" width="32" height="32" alt="PMS671" style="max-width:100%;"></a></td>
+        <td>PMS671</td>
+        <td>[UIColor pantonePMS671Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.776 blue:0.827 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS672Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS672Color.png" width="32" height="32" alt="PMS672" style="max-width:100%;"></a></td>
+        <td>PMS672</td>
+        <td>[UIColor pantonePMS672Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.667 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS673Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS673Color.png" width="32" height="32" alt="PMS673" style="max-width:100%;"></a></td>
+        <td>PMS673</td>
+        <td>[UIColor pantonePMS673Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.549 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS674Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS674Color.png" width="32" height="32" alt="PMS674" style="max-width:100%;"></a></td>
+        <td>PMS674</td>
+        <td>[UIColor pantonePMS674Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.420 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS675Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS675Color.png" width="32" height="32" alt="PMS675" style="max-width:100%;"></a></td>
+        <td>PMS675</td>
+        <td>[UIColor pantonePMS675Color]</td>
+        <td>[UIColor colorWithRed:0.737 green:0.220 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS676Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS676Color.png" width="32" height="32" alt="PMS676" style="max-width:100%;"></a></td>
+        <td>PMS676</td>
+        <td>[UIColor pantonePMS676Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.000 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS677Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS677Color.png" width="32" height="32" alt="PMS677" style="max-width:100%;"></a></td>
+        <td>PMS677</td>
+        <td>[UIColor pantonePMS677Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.839 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS678Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS678Color.png" width="32" height="32" alt="PMS678" style="max-width:100%;"></a></td>
+        <td>PMS678</td>
+        <td>[UIColor pantonePMS678Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.800 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS679Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS679Color.png" width="32" height="32" alt="PMS679" style="max-width:100%;"></a></td>
+        <td>PMS679</td>
+        <td>[UIColor pantonePMS679Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.749 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS680Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS680Color.png" width="32" height="32" alt="PMS680" style="max-width:100%;"></a></td>
+        <td>PMS680</td>
+        <td>[UIColor pantonePMS680Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.620 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS681Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS681Color.png" width="32" height="32" alt="PMS681" style="max-width:100%;"></a></td>
+        <td>PMS681</td>
+        <td>[UIColor pantonePMS681Color]</td>
+        <td>[UIColor colorWithRed:0.718 green:0.447 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS682Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS682Color.png" width="32" height="32" alt="PMS682" style="max-width:100%;"></a></td>
+        <td>PMS682</td>
+        <td>[UIColor pantonePMS682Color]</td>
+        <td>[UIColor colorWithRed:0.627 green:0.318 blue:0.459 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS683Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS683Color.png" width="32" height="32" alt="PMS683" style="max-width:100%;"></a></td>
+        <td>PMS683</td>
+        <td>[UIColor pantonePMS683Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.157 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS684Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS684Color.png" width="32" height="32" alt="PMS684" style="max-width:100%;"></a></td>
+        <td>PMS684</td>
+        <td>[UIColor pantonePMS684Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.800 blue:0.808 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS685Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS685Color.png" width="32" height="32" alt="PMS685" style="max-width:100%;"></a></td>
+        <td>PMS685</td>
+        <td>[UIColor pantonePMS685Color]</td>
+        <td>[UIColor colorWithRed:0.918 green:0.749 blue:0.769 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS686Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS686Color.png" width="32" height="32" alt="PMS686" style="max-width:100%;"></a></td>
+        <td>PMS686</td>
+        <td>[UIColor pantonePMS686Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.667 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS687Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS687Color.png" width="32" height="32" alt="PMS687" style="max-width:100%;"></a></td>
+        <td>PMS687</td>
+        <td>[UIColor pantonePMS687Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.537 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS688Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS688Color.png" width="32" height="32" alt="PMS688" style="max-width:100%;"></a></td>
+        <td>PMS688</td>
+        <td>[UIColor pantonePMS688Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.400 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS689Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS689Color.png" width="32" height="32" alt="PMS689" style="max-width:100%;"></a></td>
+        <td>PMS689</td>
+        <td>[UIColor pantonePMS689Color]</td>
+        <td>[UIColor colorWithRed:0.576 green:0.259 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS690Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS690Color.png" width="32" height="32" alt="PMS690" style="max-width:100%;"></a></td>
+        <td>PMS690</td>
+        <td>[UIColor pantonePMS690Color]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.137 blue:0.259 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS691Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS691Color.png" width="32" height="32" alt="PMS691" style="max-width:100%;"></a></td>
+        <td>PMS691</td>
+        <td>[UIColor pantonePMS691Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.820 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS692Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS692Color.png" width="32" height="32" alt="PMS692" style="max-width:100%;"></a></td>
+        <td>PMS692</td>
+        <td>[UIColor pantonePMS692Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.749 blue:0.729 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS693Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS693Color.png" width="32" height="32" alt="PMS693" style="max-width:100%;"></a></td>
+        <td>PMS693</td>
+        <td>[UIColor pantonePMS693Color]</td>
+        <td>[UIColor colorWithRed:0.859 green:0.659 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS694Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS694Color.png" width="32" height="32" alt="PMS694" style="max-width:100%;"></a></td>
+        <td>PMS694</td>
+        <td>[UIColor pantonePMS694Color]</td>
+        <td>[UIColor colorWithRed:0.788 green:0.549 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS695Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS695Color.png" width="32" height="32" alt="PMS695" style="max-width:100%;"></a></td>
+        <td>PMS695</td>
+        <td>[UIColor pantonePMS695Color]</td>
+        <td>[UIColor colorWithRed:0.698 green:0.420 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS696Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS696Color.png" width="32" height="32" alt="PMS696" style="max-width:100%;"></a></td>
+        <td>PMS696</td>
+        <td>[UIColor pantonePMS696Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.278 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS697Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS697Color.png" width="32" height="32" alt="PMS697" style="max-width:100%;"></a></td>
+        <td>PMS697</td>
+        <td>[UIColor pantonePMS697Color]</td>
+        <td>[UIColor colorWithRed:0.498 green:0.220 blue:0.227 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS698Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS698Color.png" width="32" height="32" alt="PMS698" style="max-width:100%;"></a></td>
+        <td>PMS698</td>
+        <td>[UIColor pantonePMS698Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.820 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS699Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS699Color.png" width="32" height="32" alt="PMS699" style="max-width:100%;"></a></td>
+        <td>PMS699</td>
+        <td>[UIColor pantonePMS699Color]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.749 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS700Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS700Color.png" width="32" height="32" alt="PMS700" style="max-width:100%;"></a></td>
+        <td>PMS700</td>
+        <td>[UIColor pantonePMS700Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.647 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS701Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS701Color.png" width="32" height="32" alt="PMS701" style="max-width:100%;"></a></td>
+        <td>PMS701</td>
+        <td>[UIColor pantonePMS701Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.529 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS702Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS702Color.png" width="32" height="32" alt="PMS702" style="max-width:100%;"></a></td>
+        <td>PMS702</td>
+        <td>[UIColor pantonePMS702Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.376 blue:0.427 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS703Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS703Color.png" width="32" height="32" alt="PMS703" style="max-width:100%;"></a></td>
+        <td>PMS703</td>
+        <td>[UIColor pantonePMS703Color]</td>
+        <td>[UIColor colorWithRed:0.718 green:0.220 blue:0.267 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS704Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS704Color.png" width="32" height="32" alt="PMS704" style="max-width:100%;"></a></td>
+        <td>PMS704</td>
+        <td>[UIColor pantonePMS704Color]</td>
+        <td>[UIColor colorWithRed:0.620 green:0.157 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS705Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS705Color.png" width="32" height="32" alt="PMS705" style="max-width:100%;"></a></td>
+        <td>PMS705</td>
+        <td>[UIColor pantonePMS705Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.867 blue:0.839 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS706Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS706Color.png" width="32" height="32" alt="PMS706" style="max-width:100%;"></a></td>
+        <td>PMS706</td>
+        <td>[UIColor pantonePMS706Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.788 blue:0.776 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS707Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS707Color.png" width="32" height="32" alt="PMS707" style="max-width:100%;"></a></td>
+        <td>PMS707</td>
+        <td>[UIColor pantonePMS707Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.678 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS708Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS708Color.png" width="32" height="32" alt="PMS708" style="max-width:100%;"></a></td>
+        <td>PMS708</td>
+        <td>[UIColor pantonePMS708Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.557 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS709Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS709Color.png" width="32" height="32" alt="PMS709" style="max-width:100%;"></a></td>
+        <td>PMS709</td>
+        <td>[UIColor pantonePMS709Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.408 blue:0.467 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS710Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS710Color.png" width="32" height="32" alt="PMS710" style="max-width:100%;"></a></td>
+        <td>PMS710</td>
+        <td>[UIColor pantonePMS710Color]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.259 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS711Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS711Color.png" width="32" height="32" alt="PMS711" style="max-width:100%;"></a></td>
+        <td>PMS711</td>
+        <td>[UIColor pantonePMS711Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.176 blue:0.200 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS712Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS712Color.png" width="32" height="32" alt="PMS712" style="max-width:100%;"></a></td>
+        <td>PMS712</td>
+        <td>[UIColor pantonePMS712Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.827 blue:0.667 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS713Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS713Color.png" width="32" height="32" alt="PMS713" style="max-width:100%;"></a></td>
+        <td>PMS713</td>
+        <td>[UIColor pantonePMS713Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.788 blue:0.639 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS714Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS714Color.png" width="32" height="32" alt="PMS714" style="max-width:100%;"></a></td>
+        <td>PMS714</td>
+        <td>[UIColor pantonePMS714Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.729 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS715Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS715Color.png" width="32" height="32" alt="PMS715" style="max-width:100%;"></a></td>
+        <td>PMS715</td>
+        <td>[UIColor pantonePMS715Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.620 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS716Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS716Color.png" width="32" height="32" alt="PMS716" style="max-width:100%;"></a></td>
+        <td>PMS716</td>
+        <td>[UIColor pantonePMS716Color]</td>
+        <td>[UIColor colorWithRed:0.949 green:0.518 blue:0.067 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS717Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS717Color.png" width="32" height="32" alt="PMS717" style="max-width:100%;"></a></td>
+        <td>PMS717</td>
+        <td>[UIColor pantonePMS717Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.427 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS718Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS718Color.png" width="32" height="32" alt="PMS718" style="max-width:100%;"></a></td>
+        <td>PMS718</td>
+        <td>[UIColor pantonePMS718Color]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.357 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS719Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS719Color.png" width="32" height="32" alt="PMS719" style="max-width:100%;"></a></td>
+        <td>PMS719</td>
+        <td>[UIColor pantonePMS719Color]</td>
+        <td>[UIColor colorWithRed:0.957 green:0.820 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS720Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS720Color.png" width="32" height="32" alt="PMS720" style="max-width:100%;"></a></td>
+        <td>PMS720</td>
+        <td>[UIColor pantonePMS720Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.769 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS721Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS721Color.png" width="32" height="32" alt="PMS721" style="max-width:100%;"></a></td>
+        <td>PMS721</td>
+        <td>[UIColor pantonePMS721Color]</td>
+        <td>[UIColor colorWithRed:0.910 green:0.698 blue:0.510 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS722Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS722Color.png" width="32" height="32" alt="PMS722" style="max-width:100%;"></a></td>
+        <td>PMS722</td>
+        <td>[UIColor pantonePMS722Color]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.557 blue:0.329 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS723Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS723Color.png" width="32" height="32" alt="PMS723" style="max-width:100%;"></a></td>
+        <td>PMS723</td>
+        <td>[UIColor pantonePMS723Color]</td>
+        <td>[UIColor colorWithRed:0.729 green:0.459 blue:0.188 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS724Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS724Color.png" width="32" height="32" alt="PMS724" style="max-width:100%;"></a></td>
+        <td>PMS724</td>
+        <td>[UIColor pantonePMS724Color]</td>
+        <td>[UIColor colorWithRed:0.557 green:0.286 blue:0.020 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS725Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS725Color.png" width="32" height="32" alt="PMS725" style="max-width:100%;"></a></td>
+        <td>PMS725</td>
+        <td>[UIColor pantonePMS725Color]</td>
+        <td>[UIColor colorWithRed:0.459 green:0.220 blue:0.008 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS726Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS726Color.png" width="32" height="32" alt="PMS726" style="max-width:100%;"></a></td>
+        <td>PMS726</td>
+        <td>[UIColor pantonePMS726Color]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.827 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS727Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS727Color.png" width="32" height="32" alt="PMS727" style="max-width:100%;"></a></td>
+        <td>PMS727</td>
+        <td>[UIColor pantonePMS727Color]</td>
+        <td>[UIColor colorWithRed:0.886 green:0.749 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS728Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS728Color.png" width="32" height="32" alt="PMS728" style="max-width:100%;"></a></td>
+        <td>PMS728</td>
+        <td>[UIColor pantonePMS728Color]</td>
+        <td>[UIColor colorWithRed:0.827 green:0.659 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS729Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS729Color.png" width="32" height="32" alt="PMS729" style="max-width:100%;"></a></td>
+        <td>PMS729</td>
+        <td>[UIColor pantonePMS729Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.557 blue:0.376 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS730Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS730Color.png" width="32" height="32" alt="PMS730" style="max-width:100%;"></a></td>
+        <td>PMS730</td>
+        <td>[UIColor pantonePMS730Color]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.459 blue:0.247 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS731Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS731Color.png" width="32" height="32" alt="PMS731" style="max-width:100%;"></a></td>
+        <td>PMS731</td>
+        <td>[UIColor pantonePMS731Color]</td>
+        <td>[UIColor colorWithRed:0.447 green:0.247 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS732Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS732Color.png" width="32" height="32" alt="PMS732" style="max-width:100%;"></a></td>
+        <td>PMS732</td>
+        <td>[UIColor pantonePMS732Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.200 blue:0.039 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS801Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS801Color.png" width="32" height="32" alt="PMS801" style="max-width:100%;"></a></td>
+        <td>PMS801</td>
+        <td>[UIColor pantonePMS801Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.667 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8012XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8012XColor.png" width="32" height="32" alt="PMS8012X" style="max-width:100%;"></a></td>
+        <td>PMS8012X</td>
+        <td>[UIColor pantonePMS8012XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.537 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS802Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS802Color.png" width="32" height="32" alt="PMS802" style="max-width:100%;"></a></td>
+        <td>PMS802</td>
+        <td>[UIColor pantonePMS802Color]</td>
+        <td>[UIColor colorWithRed:0.376 green:0.867 blue:0.286 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8022XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8022XColor.png" width="32" height="32" alt="PMS8022X" style="max-width:100%;"></a></td>
+        <td>PMS8022X</td>
+        <td>[UIColor pantonePMS8022XColor]</td>
+        <td>[UIColor colorWithRed:0.110 green:0.808 blue:0.157 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS803Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS803Color.png" width="32" height="32" alt="PMS803" style="max-width:100%;"></a></td>
+        <td>PMS803</td>
+        <td>[UIColor pantonePMS803Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.929 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8032XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8032XColor.png" width="32" height="32" alt="PMS8032X" style="max-width:100%;"></a></td>
+        <td>PMS8032X</td>
+        <td>[UIColor pantonePMS8032XColor]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.847 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS804Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS804Color.png" width="32" height="32" alt="PMS804" style="max-width:100%;"></a></td>
+        <td>PMS804</td>
+        <td>[UIColor pantonePMS804Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.576 blue:0.220 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8042XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8042XColor.png" width="32" height="32" alt="PMS8042X" style="max-width:100%;"></a></td>
+        <td>PMS8042X</td>
+        <td>[UIColor pantonePMS8042XColor]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.498 blue:0.118 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS805Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS805Color.png" width="32" height="32" alt="PMS805" style="max-width:100%;"></a></td>
+        <td>PMS805</td>
+        <td>[UIColor pantonePMS805Color]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.349 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8052XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8052XColor.png" width="32" height="32" alt="PMS8052X" style="max-width:100%;"></a></td>
+        <td>PMS8052X</td>
+        <td>[UIColor pantonePMS8052XColor]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.227 blue:0.169 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS806Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS806Color.png" width="32" height="32" alt="PMS806" style="max-width:100%;"></a></td>
+        <td>PMS806</td>
+        <td>[UIColor pantonePMS806Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.000 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8062XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8062XColor.png" width="32" height="32" alt="PMS8062X" style="max-width:100%;"></a></td>
+        <td>PMS8062X</td>
+        <td>[UIColor pantonePMS8062XColor]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.008 blue:0.486 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS807Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS807Color.png" width="32" height="32" alt="PMS807" style="max-width:100%;"></a></td>
+        <td>PMS807</td>
+        <td>[UIColor pantonePMS807Color]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.000 blue:0.620 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8072XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8072XColor.png" width="32" height="32" alt="PMS8072X" style="max-width:100%;"></a></td>
+        <td>PMS8072X</td>
+        <td>[UIColor pantonePMS8072XColor]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.000 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS808Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS808Color.png" width="32" height="32" alt="PMS808" style="max-width:100%;"></a></td>
+        <td>PMS808</td>
+        <td>[UIColor pantonePMS808Color]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.710 blue:0.608 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8082XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8082XColor.png" width="32" height="32" alt="PMS8082X" style="max-width:100%;"></a></td>
+        <td>PMS8082X</td>
+        <td>[UIColor pantonePMS8082XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.627 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS809Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS809Color.png" width="32" height="32" alt="PMS809" style="max-width:100%;"></a></td>
+        <td>PMS809</td>
+        <td>[UIColor pantonePMS809Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.878 blue:0.059 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8092XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8092XColor.png" width="32" height="32" alt="PMS8092X" style="max-width:100%;"></a></td>
+        <td>PMS8092X</td>
+        <td>[UIColor pantonePMS8092XColor]</td>
+        <td>[UIColor colorWithRed:0.839 green:0.839 blue:0.047 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS810Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS810Color.png" width="32" height="32" alt="PMS810" style="max-width:100%;"></a></td>
+        <td>PMS810</td>
+        <td>[UIColor pantonePMS810Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.800 blue:0.118 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8102XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8102XColor.png" width="32" height="32" alt="PMS8102X" style="max-width:100%;"></a></td>
+        <td>PMS8102X</td>
+        <td>[UIColor pantonePMS8102XColor]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.737 blue:0.129 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS811Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS811Color.png" width="32" height="32" alt="PMS811" style="max-width:100%;"></a></td>
+        <td>PMS811</td>
+        <td>[UIColor pantonePMS811Color]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.447 blue:0.278 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8112XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8112XColor.png" width="32" height="32" alt="PMS8112X" style="max-width:100%;"></a></td>
+        <td>PMS8112X</td>
+        <td>[UIColor pantonePMS8112XColor]</td>
+        <td>[UIColor colorWithRed:1.000 green:0.329 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS812Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS812Color.png" width="32" height="32" alt="PMS812" style="max-width:100%;"></a></td>
+        <td>PMS812</td>
+        <td>[UIColor pantonePMS812Color]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.137 blue:0.400 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8122XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8122XColor.png" width="32" height="32" alt="PMS8122X" style="max-width:100%;"></a></td>
+        <td>PMS8122X</td>
+        <td>[UIColor pantonePMS8122XColor]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.027 blue:0.310 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS813Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS813Color.png" width="32" height="32" alt="PMS813" style="max-width:100%;"></a></td>
+        <td>PMS813</td>
+        <td>[UIColor pantonePMS813Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.000 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8132XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8132XColor.png" width="32" height="32" alt="PMS8132X" style="max-width:100%;"></a></td>
+        <td>PMS8132X</td>
+        <td>[UIColor pantonePMS8132XColor]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.000 blue:0.518 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS814Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS814Color.png" width="32" height="32" alt="PMS814" style="max-width:100%;"></a></td>
+        <td>PMS814</td>
+        <td>[UIColor pantonePMS814Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.376 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8142XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePMS8142XColor.png" width="32" height="32" alt="PMS8142X" style="max-width:100%;"></a></td>
+        <td>PMS8142X</td>
+        <td>[UIColor pantonePMS8142XColor]</td>
+        <td>[UIColor colorWithRed:0.439 green:0.247 blue:0.686 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePantoneYellowColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePantoneYellowColor.png" width="32" height="32" alt="PantoneYellow" style="max-width:100%;"></a></td>
+        <td>PantoneYellow</td>
+        <td>[UIColor pantonePantoneYellowColor]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.878 blue:0.086 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessBlueColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessBlueColor.png" width="32" height="32" alt="ProcessBlue" style="max-width:100%;"></a></td>
+        <td>ProcessBlue</td>
+        <td>[UIColor pantoneProcessBlueColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.569 blue:0.788 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessBlue2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessBlue2XColor.png" width="32" height="32" alt="ProcessBlue2X" style="max-width:100%;"></a></td>
+        <td>ProcessBlue2X</td>
+        <td>[UIColor pantoneProcessBlue2XColor]</td>
+        <td>[UIColor colorWithRed:0.000 green:0.467 blue:0.749 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessYellowColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneProcessYellowColor.png" width="32" height="32" alt="ProcessYellow" style="max-width:100%;"></a></td>
+        <td>ProcessYellow</td>
+        <td>[UIColor pantoneProcessYellowColor]</td>
+        <td>[UIColor colorWithRed:0.969 green:0.886 blue:0.078 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePurpleColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePurpleColor.png" width="32" height="32" alt="Purple" style="max-width:100%;"></a></td>
+        <td>Purple</td>
+        <td>[UIColor pantonePurpleColor]</td>
+        <td>[UIColor colorWithRed:0.749 green:0.188 blue:0.710 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePurple2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantonePurple2XColor.png" width="32" height="32" alt="Purple2X" style="max-width:100%;"></a></td>
+        <td>Purple2X</td>
+        <td>[UIColor pantonePurple2XColor]</td>
+        <td>[UIColor colorWithRed:0.667 green:0.000 blue:0.588 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRed032Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRed032Color.png" width="32" height="32" alt="Red032" style="max-width:100%;"></a></td>
+        <td>Red032</td>
+        <td>[UIColor pantoneRed032Color]</td>
+        <td>[UIColor colorWithRed:0.937 green:0.169 blue:0.176 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneReflexBlueColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneReflexBlueColor.png" width="32" height="32" alt="ReflexBlue" style="max-width:100%;"></a></td>
+        <td>ReflexBlue</td>
+        <td>[UIColor pantoneReflexBlueColor]</td>
+        <td>[UIColor colorWithRed:0.047 green:0.110 blue:0.549 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneReflexBlue2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneReflexBlue2XColor.png" width="32" height="32" alt="ReflexBlue2X" style="max-width:100%;"></a></td>
+        <td>ReflexBlue2X</td>
+        <td>[UIColor pantoneReflexBlue2XColor]</td>
+        <td>[UIColor colorWithRed:0.110 green:0.000 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRhodamineRedColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRhodamineRedColor.png" width="32" height="32" alt="RhodamineRed" style="max-width:100%;"></a></td>
+        <td>RhodamineRed</td>
+        <td>[UIColor pantoneRhodamineRedColor]</td>
+        <td>[UIColor colorWithRed:0.929 green:0.000 blue:0.569 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRhodamineRed2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRhodamineRed2XColor.png" width="32" height="32" alt="RhodamineRed2X" style="max-width:100%;"></a></td>
+        <td>RhodamineRed2X</td>
+        <td>[UIColor pantoneRhodamineRed2XColor]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.020 blue:0.447 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRubineRedColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRubineRedColor.png" width="32" height="32" alt="RubineRed" style="max-width:100%;"></a></td>
+        <td>RubineRed</td>
+        <td>[UIColor pantoneRubineRedColor]</td>
+        <td>[UIColor colorWithRed:0.820 green:0.000 blue:0.337 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRubineRed2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneRubineRed2XColor.png" width="32" height="32" alt="RubineRed2X" style="max-width:100%;"></a></td>
+        <td>RubineRed2X</td>
+        <td>[UIColor pantoneRubineRed2XColor]</td>
+        <td>[UIColor colorWithRed:0.776 green:0.000 blue:0.239 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneVioletColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneVioletColor.png" width="32" height="32" alt="Violet" style="max-width:100%;"></a></td>
+        <td>Violet</td>
+        <td>[UIColor pantoneVioletColor]</td>
+        <td>[UIColor colorWithRed:0.400 green:0.027 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneViolet2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneViolet2XColor.png" width="32" height="32" alt="Violet2X" style="max-width:100%;"></a></td>
+        <td>Violet2X</td>
+        <td>[UIColor pantoneViolet2XColor]</td>
+        <td>[UIColor colorWithRed:0.349 green:0.000 blue:0.557 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray1Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray1Color.png" width="32" height="32" alt="WarmGray1" style="max-width:100%;"></a></td>
+        <td>WarmGray1</td>
+        <td>[UIColor pantoneWarmGray1Color]</td>
+        <td>[UIColor colorWithRed:0.898 green:0.859 blue:0.800 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray10Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray10Color.png" width="32" height="32" alt="WarmGray10" style="max-width:100%;"></a></td>
+        <td>WarmGray10</td>
+        <td>[UIColor pantoneWarmGray10Color]</td>
+        <td>[UIColor colorWithRed:0.510 green:0.447 blue:0.388 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray11Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray11Color.png" width="32" height="32" alt="WarmGray11" style="max-width:100%;"></a></td>
+        <td>WarmGray11</td>
+        <td>[UIColor pantoneWarmGray11Color]</td>
+        <td>[UIColor colorWithRed:0.427 green:0.369 blue:0.318 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray2Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray2Color.png" width="32" height="32" alt="WarmGray2" style="max-width:100%;"></a></td>
+        <td>WarmGray2</td>
+        <td>[UIColor pantoneWarmGray2Color]</td>
+        <td>[UIColor colorWithRed:0.867 green:0.820 blue:0.757 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray3Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray3Color.png" width="32" height="32" alt="WarmGray3" style="max-width:100%;"></a></td>
+        <td>WarmGray3</td>
+        <td>[UIColor pantoneWarmGray3Color]</td>
+        <td>[UIColor colorWithRed:0.800 green:0.757 blue:0.698 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray4Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray4Color.png" width="32" height="32" alt="WarmGray4" style="max-width:100%;"></a></td>
+        <td>WarmGray4</td>
+        <td>[UIColor pantoneWarmGray4Color]</td>
+        <td>[UIColor colorWithRed:0.757 green:0.710 blue:0.647 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray5Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray5Color.png" width="32" height="32" alt="WarmGray5" style="max-width:100%;"></a></td>
+        <td>WarmGray5</td>
+        <td>[UIColor pantoneWarmGray5Color]</td>
+        <td>[UIColor colorWithRed:0.710 green:0.659 blue:0.600 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray6Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray6Color.png" width="32" height="32" alt="WarmGray6" style="max-width:100%;"></a></td>
+        <td>WarmGray6</td>
+        <td>[UIColor pantoneWarmGray6Color]</td>
+        <td>[UIColor colorWithRed:0.686 green:0.639 blue:0.576 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray7Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray7Color.png" width="32" height="32" alt="WarmGray7" style="max-width:100%;"></a></td>
+        <td>WarmGray7</td>
+        <td>[UIColor pantoneWarmGray7Color]</td>
+        <td>[UIColor colorWithRed:0.639 green:0.588 blue:0.529 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray8Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray8Color.png" width="32" height="32" alt="WarmGray8" style="max-width:100%;"></a></td>
+        <td>WarmGray8</td>
+        <td>[UIColor pantoneWarmGray8Color]</td>
+        <td>[UIColor colorWithRed:0.588 green:0.537 blue:0.478 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray9Color.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmGray9Color.png" width="32" height="32" alt="WarmGray9" style="max-width:100%;"></a></td>
+        <td>WarmGray9</td>
+        <td>[UIColor pantoneWarmGray9Color]</td>
+        <td>[UIColor colorWithRed:0.549 green:0.498 blue:0.439 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmRedColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmRedColor.png" width="32" height="32" alt="WarmRed" style="max-width:100%;"></a></td>
+        <td>WarmRed</td>
+        <td>[UIColor pantoneWarmRedColor]</td>
+        <td>[UIColor colorWithRed:0.976 green:0.247 blue:0.149 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmRed2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneWarmRed2XColor.png" width="32" height="32" alt="WarmRed2X" style="max-width:100%;"></a></td>
+        <td>WarmRed2X</td>
+        <td>[UIColor pantoneWarmRed2XColor]</td>
+        <td>[UIColor colorWithRed:0.878 green:0.227 blue:0.000 alpha:1.0]</td>
+    </tr>
+<tr>
+<td><a href="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneYellow2XColor.png" target="_blank"><img src="https://raw.github.com/CaptainRedmuff/UIColor-Pantone/master/images/pantoneYellow2XColor.png" width="32" height="32" alt="Yellow2X" style="max-width:100%;"></a></td>
+        <td>Yellow2X</td>
+        <td>[UIColor pantoneYellow2XColor]</td>
+        <td>[UIColor colorWithRed:0.988 green:0.886 blue:0.086 alpha:1.0]</td>
+    </tr>
+</table>
 
